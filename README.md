@@ -20,8 +20,8 @@
 | 刷题历史 | 正确率趋势、用时统计、答对/答错/半对统计 |
 | 未完成练习 | 中途退出自动保存，首页/历史一键继续（离开期间不计时） |
 | 深浅主题 | 深色 / 浅色 / 跟随系统 |
-| 在线更新 | App 内检查更新：题库增量同步 + APK 自动下载（系统下载器） |
-| 反馈直达 | 用户纠错/备注 → Cloudflare Worker → GitHub Issues |
+| 在线更新 | 打开 App 自动检测新版本并提示（可选不强制）；题库增量同步 + APK 自动下载（系统下载器，下载完直接弹安装） |
+| 反馈直达 | 用户纠错/备注 → GitHub Issues（1 秒送达）；「我的」页可查看自己的反馈记录与送达状态 |
 
 ## 📱 使用方法（普通用户）
 
@@ -85,28 +85,27 @@ App 启动/手动检查更新时：拉取 `version.json` → 对比 `bank` 的 s
 | `/api/feedback` | GET | 查看收到的反馈（作者用） |
 | 静态文件 | GET | `public/` 目录（App 前端 + 题库 + APK） |
 
-> 用户反馈公网链路：App → `DEFAULT_FEEDBACK_ENDPOINT`（Cloudflare Worker）→ GitHub Issues API → 仓库 Issues。
+> 用户反馈公网链路：App → GitHub Issues API（token 以 XOR 加密内置，限权仅 Issues 写权限）→ 仓库 Issues。
 
 ## 🔧 其他人拿到源码，需要修改什么才能正常使用
 
 1. **`app/public/app.js`** 顶部常量：
    - `APP_VERSION`：与 `version.json` 保持一致（构建脚本自动更新）
    - `DEFAULT_UPDATE_BASE`：改成你自己的更新源地址（如 `https://你的用户名.github.io/你的仓库名`）
-   - `DEFAULT_FEEDBACK_ENDPOINT`：改成你自己的反馈接收地址（Cloudflare Worker 或其它 POST 端点）
+   - `DEFAULT_FEEDBACK_ENDPOINT`：改成你自己的反馈接收地址（GitHub Issues API 或其它端点）
+   - `DEFAULT_FEEDBACK_TOKEN`：反馈 token（XOR 加密存储）。生成方法：把 token 与密钥 `pqfb-xor-2026` 逐字符异或后 base64，替换加密块
 2. **`app/scripts/deploy-github.ps1`**：
    - `$token`：换成你自己的 GitHub fine-grained token（仅授权更新仓库 + `Contents: Read and write`，**切勿使用全权限 token，切勿提交到公开仓库**）
    - `$owner` / `$repo`：你的 GitHub 用户名 / 更新仓库名
-3. **反馈 Worker**（Cloudflare）：
-   - 环境变量 `GH_OWNER` / `GH_REPO` / `GH_TOKEN`（fine-grained token，仅 `Issues: Read and write`）
-   - Worker 代码见 `feedback-worker.js`
-4. **`app/capacitor.config.json`**：`appId`（包名）改成你自己的，如 `com.你的域名.出版刷题`
-5. **`app/android/app/build.gradle`**：`applicationId` 与 `appId` 一致（构建脚本自动更新 versionCode/versionName）
-6. **题库数据**：替换 `app/public/data/*.json`（或重新运行 `pipeline/` 数据处理流程生成）
-7. **本地服务器端口**：`app/server.js` 中的端口（默认 8443），改端口后同步改防火墙/部署配置
+3. **`app/capacitor.config.json`**：`appId`（包名）改成你自己的，如 `com.你的域名.出版刷题`
+4. **`app/android/app/build.gradle`**：`applicationId` 与 `appId` 一致（构建脚本自动更新 versionCode/versionName）
+5. **题库数据**：替换 `app/public/data/*.json`（或重新运行 `pipeline/` 数据处理流程生成）
+6. **本地服务器端口**：`app/server.js` 中的端口（默认 8443），改端口后同步改防火墙/部署配置
+7. **赞赏码**：替换 `app/public/support.png` 为你自己的收款码
 
 ## ⚠️ 注意事项
 
-- **Token 安全**：任何 GitHub token 一旦出现在公开仓库（包括 APK 等二进制文件内），GitHub 的 secret scanning 会自动吊销。因此反馈 token 必须放在云端（Worker 环境变量），**绝不写进 App 代码或仓库文件**。
+- **Token 安全**：任何 GitHub token 一旦以明文/base64 出现在公开仓库（包括 APK 等二进制文件内），GitHub 的 secret scanning 会自动吊销。内置 App 的反馈 token 必须加密存储（当前用 XOR + 限权缓解），并接受"被吊销后需换 token 重新发版"的风险；部署 token 只存在于本地部署脚本，绝不提交。
 - **更新源变更**：更换更新源地址后，旧版本 App 内置的旧地址将无法再检查更新，需重新安装新版。
 - **自签名证书**：本地服务器使用自签名 HTTPS 证书，浏览器首次访问需手动信任。
 - **题库说明**：真题为扫描件 AI 转录，可能存在个别转录误差；解析中 AI 补写部分已在题库内标注。发现错误可在 App「真题浏览 → 纠错/备注」提交反馈。
@@ -115,32 +114,30 @@ App 启动/手动检查更新时：拉取 `version.json` → 对比 `bank` 的 s
 
 ## 📦 更新历史
 
+### v2.10
+- 「支持」入口移至「我的 → 支持作者」（底部导航精简为 4 项）
+- 「我的 → 反馈」可查看自己提交过的反馈记录（题目/内容/时间/送达状态）
+- 反馈接收改为 GitHub 直连（国内网络可达，1 秒送达），token 加密存储防自动吊销
+
+### v2.9
+- 反馈 token 改用加密存储，避免被 GitHub 自动吊销
+- 修复：反馈上传链路（GitHub 直连，1 秒送达）
+
+### v2.8
+- 反馈接收改为 GitHub 直连（国内网络可达，1 秒送达）
+
+### v2.7
+- 新增：打开 App 检测到新版本自动提示更新（可选，不强制）
+- 修复：纠错/备注保存立即响应，不再卡住
+- 修复：反馈上传增加超时保护，失败提示具体原因
+
+### v2.6
+- 修复：更新下载不再跳转浏览器（系统下载器，完成后直接弹安装）
+- 修复：检查更新弹窗按钮去重
+
 ### v2.5
 - 项目仓库更名与 README 完善
 - 更新源地址迁移（旧地址自动跳转）
-
-### v2.4
-- 反馈接收改为云端转发（Cloudflare Worker → GitHub Issues），不再内置 token
-- 上传失败提示具体原因，支持复制反馈手动转发
-
-### v2.3
-- 修复：继续答题后计时从离开时刻继续（离开期间不计时）
-- 更新说明逐条展示
-
-### v2.2
-- 新增：未完成练习自动保存，首页/历史一键继续
-- 新增：历年试卷（按年份整套真题）
-- 真题浏览加入 2026 新编题（标注非真题），纠错反馈直达作者
-- 修复：App 内更新下载改用系统下载器，不再跳转浏览器
-
-### v2.1
-- 修复：新编题无法在真题浏览显示（数据文件损坏问题）
-- 修复：更新下载监听器挂载时机（不再跳转浏览器）
-
-### v2.0
-- 反馈链路打通：纠错/备注 → GitHub Issues
-- 真题浏览卡片直接展示选项/答案/解析 + 星标收藏
-- 移除新编题审核入口
 
 ## 🙏 致谢
 
