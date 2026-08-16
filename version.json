@@ -1,6 +1,6 @@
 {
     "appName":  "出版刷题",
-    "updatedAt":  "2026-08-16 14:21",
+    "updatedAt":  "2026-08-16 14:34",
     "bank":  {
                  "questions-sw":  {
                                       "sha1":  "4816854D844D1BB403E118065684CF572FCE0C0D",
@@ -11,11 +11,11 @@
                                    "size":  56897
                                },
                  "questions-jc":  {
-                                      "sha1":  "386FB9923E962C4A23690792F718A39BC0BFB60E",
-                                      "size":  1150563
+                                      "sha1":  "2FFE374122BBADC16D07F688C91104D524F041BE",
+                                      "size":  1150581
                                   }
              },
-    "notes":  "v2.6 更新内容：\n· 修复：更新下载不再跳转浏览器（下载到应用专属目录，完成后通知栏点击直接安装）\n· 修复：检查更新弹窗按钮去重（取消/关闭不再同时出现）",
-    "appVersion":  "2.6",
-    "apkUrl":  "/download/publish-quiz-v2.6.apk"
+    "notes":  "v2.7 更新内容：\n· 新增：打开 App 检测到新版本自动提示更新（可选，不强制）\n· 修复：纠错/备注保存立即响应，不再卡住\n· 修复：反馈上传增加超时保护，失败提示具体原因",
+    "appVersion":  "2.7",
+    "apkUrl":  "/download/publish-quiz-v2.7.apk"
 }
