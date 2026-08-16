@@ -1,6 +1,6 @@
 {
     "appName":  "出版刷题",
-    "updatedAt":  "2026-08-16 11:16",
+    "updatedAt":  "2026-08-16 11:25",
     "bank":  {
                  "questions-sw":  {
                                       "sha1":  "4816854D844D1BB403E118065684CF572FCE0C0D",
@@ -15,7 +15,7 @@
                                       "size":  1150563
                                   }
              },
-    "notes":  "自动构建 1.4",
-    "appVersion":  "1.4",
-    "apkUrl":  "/download/publish-quiz-v1.4.apk"
+    "notes":  "自动构建 1.5",
+    "appVersion":  "1.5",
+    "apkUrl":  "/download/publish-quiz-v1.5.apk"
 }
