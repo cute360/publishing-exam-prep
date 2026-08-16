@@ -1,6 +1,6 @@
 {
     "appName":  "出版刷题",
-    "updatedAt":  "2026-08-16 14:34",
+    "updatedAt":  "2026-08-16 15:02",
     "bank":  {
                  "questions-sw":  {
                                       "sha1":  "4816854D844D1BB403E118065684CF572FCE0C0D",
@@ -15,7 +15,7 @@
                                       "size":  1150581
                                   }
              },
-    "notes":  "v2.7 更新内容：\n· 新增：打开 App 检测到新版本自动提示更新（可选，不强制）\n· 修复：纠错/备注保存立即响应，不再卡住\n· 修复：反馈上传增加超时保护，失败提示具体原因",
-    "appVersion":  "2.7",
-    "apkUrl":  "/download/publish-quiz-v2.7.apk"
+    "notes":  "v2.8 更新内容：\n· 反馈接收改为 GitHub 直连（国内网络可达，1 秒送达）\n· 反馈 token 混淆存储，避免被自动吊销",
+    "appVersion":  "2.8",
+    "apkUrl":  "/download/publish-quiz-v2.8.apk"
 }
