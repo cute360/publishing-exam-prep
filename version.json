@@ -1,21 +1,21 @@
 {
     "appName":  "出版刷题",
-    "updatedAt":  "2026-08-16 12:17",
+    "updatedAt":  "2026-08-16 12:33",
     "bank":  {
                  "questions-sw":  {
-                                      "sha1":  "4816854D844D1BB403E118065684CF572FCE0C0D",
-                                      "size":  1146070
+                                      "sha1":  "1C7931AAA4CDB91C956D538B2ED9AC79574E8C22",
+                                      "size":  1144672
                                   },
                  "knowledge":  {
                                    "sha1":  "A96906A5B2196681773297C082395D92481D9D65",
                                    "size":  56897
                                },
                  "questions-jc":  {
-                                      "sha1":  "386FB9923E962C4A23690792F718A39BC0BFB60E",
-                                      "size":  1150563
+                                      "sha1":  "0BAD73C6CF797E5A2CC242B7526239FA820A6691",
+                                      "size":  1149285
                                   }
              },
-    "notes":  "自动构建 1.9",
-    "appVersion":  "1.9",
-    "apkUrl":  "/download/publish-quiz-v1.9.apk"
+    "notes":  "自动构建 2.0",
+    "appVersion":  "2.0",
+    "apkUrl":  "/download/publish-quiz-v2.0.apk"
 }
