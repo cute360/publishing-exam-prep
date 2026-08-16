@@ -1,6 +1,6 @@
 {
     "appName":  "出版刷题",
-    "updatedAt":  "2026-08-16 21:36",
+    "updatedAt":  "2026-08-16 21:49",
     "bank":  {
                  "questions-sw":  {
                                       "sha1":  "4816854D844D1BB403E118065684CF572FCE0C0D",
@@ -15,7 +15,7 @@
                                       "size":  1151013
                                   }
              },
-    "notes":  "v2.15 更新内容：\n· 暂停升级：全屏遮罩锁住答题，点「继续答题」恢复；切后台自动暂停\n· 单选选中后自动跳下一题，不再立即显示答案（交卷统一判分）\n· 支持作者赞赏码：点击放大，长按保存到相册\n· 修复：刷题历史正确率显示 0% 的问题",
-    "appVersion":  "2.15",
-    "apkUrl":  "/download/publish-quiz-v2.15.apk"
+    "notes":  "v2.16 更新内容：\n· 修复：新版本 APK 下载完成后自动拉起安装界面（Android 14+ 兼容问题）\n· 修复：结果页「你的：」选项按 A、B、C 顺序显示",
+    "appVersion":  "2.16",
+    "apkUrl":  "/download/publish-quiz-v2.16.apk"
 }
