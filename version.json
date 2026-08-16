@@ -1,6 +1,6 @@
 {
     "appName":  "出版刷题",
-    "updatedAt":  "2026-08-16 15:58",
+    "updatedAt":  "2026-08-16 16:06",
     "bank":  {
                  "questions-sw":  {
                                       "sha1":  "4816854D844D1BB403E118065684CF572FCE0C0D",
@@ -15,7 +15,7 @@
                                       "size":  1150581
                                   }
              },
-    "notes":  "v2.11 更新内容：\n· 反馈记录默认只显示最近 3 条，可展开查看全部\n· 反馈记录改为显示题目内容，送达状态靠右展示",
-    "appVersion":  "2.11",
-    "apkUrl":  "/download/publish-quiz-v2.11.apk"
+    "notes":  "v2.12 更新内容：\n· 更新下载改为 App 内原生下载：显示实时进度条，完成后直接打开安装，不再跳转浏览器",
+    "appVersion":  "2.12",
+    "apkUrl":  "/download/publish-quiz-v2.12.apk"
 }
