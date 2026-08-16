@@ -1,6 +1,6 @@
 {
     "appName":  "出版刷题",
-    "updatedAt":  "2026-08-16 13:49",
+    "updatedAt":  "2026-08-16 14:03",
     "bank":  {
                  "questions-sw":  {
                                       "sha1":  "4816854D844D1BB403E118065684CF572FCE0C0D",
@@ -15,7 +15,7 @@
                                       "size":  1150563
                                   }
              },
-    "notes":  "v2.4 更新内容：\n· 反馈接收改为云端转发（GitHub 收件箱不变，更稳定）\n· 修复：反馈上传失败提示具体原因，支持复制反馈手动转发",
-    "appVersion":  "2.4",
-    "apkUrl":  "/download/publish-quiz-v2.4.apk"
+    "notes":  "v2.5 更新内容：\n· 项目仓库更名为 publishing-exam-prep，完善 README 文档\n· 更新源地址迁移（旧地址自动跳转，已装旧版不受影响）",
+    "appVersion":  "2.5",
+    "apkUrl":  "/download/publish-quiz-v2.5.apk"
 }
