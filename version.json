@@ -1,6 +1,6 @@
 {
     "appName":  "出版刷题",
-    "updatedAt":  "2026-08-16 13:14",
+    "updatedAt":  "2026-08-16 13:49",
     "bank":  {
                  "questions-sw":  {
                                       "sha1":  "4816854D844D1BB403E118065684CF572FCE0C0D",
@@ -15,7 +15,7 @@
                                       "size":  1150563
                                   }
              },
-    "notes":  "v2.3 更新内容：\n· 修复：继续上次答题后，计时从离开时刻继续（离开期间不计时）\n· 更新说明改为逐条展示\n· 反馈上传增加失败原因提示、复制反馈、本地兜底",
-    "appVersion":  "2.3",
-    "apkUrl":  "/download/publish-quiz-v2.3.apk"
+    "notes":  "v2.4 更新内容：\n· 反馈接收改为云端转发（GitHub 收件箱不变，更稳定）\n· 修复：反馈上传失败提示具体原因，支持复制反馈手动转发",
+    "appVersion":  "2.4",
+    "apkUrl":  "/download/publish-quiz-v2.4.apk"
 }
