@@ -1,1 +1,6672 @@
-{"subjects": [{"id": "jc", "name": "出版专业基础", "chapters": [{"name": "第一章 出版、出版物与出版工作", "sections": [{"name": "第一节 出版概述", "points": [{"name": "出版的基本内涵", "id": "jc-1-1-1", "isNew": false, "newReason": ""}, {"name": "出版活动的构成要素和一般过程", "id": "jc-1-1-2", "isNew": false, "newReason": ""}, {"name": "开展出版活动的条件", "id": "jc-1-1-3", "isNew": false, "newReason": ""}, {"name": "出版活动与社会的关系", "id": "jc-1-1-4", "isNew": false, "newReason": ""}], "id": "jc-1-1", "isNew": false, "newReason": ""}, {"name": "第二节 出版物", "points": [{"name": "出版物的属性", "id": "jc-1-2-1", "isNew": false, "newReason": ""}, {"name": "出版物的种类", "id": "jc-1-2-2", "isNew": false, "newReason": ""}, {"name": "出版物标识", "id": "jc-1-2-3", "isNew": false, "newReason": ""}], "id": "jc-1-2", "isNew": false, "newReason": ""}, {"name": "第三节 我国出版业", "points": [{"name": "我国出版业概述", "id": "jc-1-3-1", "isNew": false, "newReason": ""}, {"name": "出版机构和出版工作者", "id": "jc-1-3-2", "isNew": false, "newReason": ""}, {"name": "我国出版产业概述", "id": "jc-1-3-3", "isNew": false, "newReason": ""}, {"name": "我国出版学概述", "id": "jc-1-3-4", "isNew": false, "newReason": ""}], "id": "jc-1-3", "isNew": false, "newReason": ""}, {"name": "第四节 出版融合发展", "points": [{"name": "出版融合发展概述", "id": "jc-1-4-1", "isNew": true, "newReason": "出版融合发展是2020年代新增章节，体现数字化融合战略。"}, {"name": "出版融合发展的实践路径", "id": "jc-1-4-2", "isNew": true, "newReason": "出版融合发展是2020年代新增章节，体现数字化融合战略。"}, {"name": "推动出版深度融合发展", "id": "jc-1-4-3", "isNew": true, "newReason": "响应中央关于出版深度融合发展政策，属于近年强化内容。"}], "id": "jc-1-4", "isNew": true, "newReason": "响应中央关于出版深度融合发展政策，属于近年强化内容。"}, {"name": "第五节 我国出版工作的指导思想、方针原则和主要任务", "points": [{"name": "我国出版工作的指导思想", "id": "jc-1-5-1", "isNew": false, "newReason": ""}, {"name": "我国出版工作的方针原则", "id": "jc-1-5-2", "isNew": false, "newReason": ""}, {"name": "我国出版工作的主要任务", "id": "jc-1-5-3", "isNew": false, "newReason": ""}], "id": "jc-1-5", "isNew": false, "newReason": ""}], "id": "jc-1", "isNew": false, "newReason": ""}, {"name": "第二章 数字出版基础", "sections": [{"name": "第一节 数字出版概述", "points": [{"name": "数字出版及其发展历程", "id": "jc-2-1-1", "isNew": false, "newReason": ""}, {"name": "数字出版产品与服务", "id": "jc-2-1-2", "isNew": true, "newReason": "数字出版产品与服务是数字出版新增知识点。"}, {"name": "数字出版的影响", "id": "jc-2-1-3", "isNew": false, "newReason": ""}], "id": "jc-2-1", "isNew": true, "newReason": "数字出版产品与服务是数字出版新增知识点。"}, {"name": "第二节 数字出版产业与管理", "points": [{"name": "数字出版产业概念与特征", "id": "jc-2-2-1", "isNew": false, "newReason": ""}, {"name": "数字出版产业现状", "id": "jc-2-2-2", "isNew": false, "newReason": ""}, {"name": "数字出版产业管理", "id": "jc-2-2-3", "isNew": false, "newReason": ""}], "id": "jc-2-2", "isNew": true, "newReason": "数字出版产业管理为近年新增内容。"}, {"name": "第三节 数字出版技术基础", "points": [{"name": "数字出版技术的作用", "id": "jc-2-3-1", "isNew": false, "newReason": ""}, {"name": "常用数字出版技术", "id": "jc-2-3-2", "isNew": false, "newReason": ""}, {"name": "常用数字出版标准", "id": "jc-2-3-3", "isNew": false, "newReason": ""}, {"name": "常用数字出版系统", "id": "jc-2-3-4", "isNew": false, "newReason": ""}], "id": "jc-2-3", "isNew": true, "newReason": "数字出版技术基础为新增章节，强调常用数字出版技术与标准。"}], "id": "jc-2", "isNew": true, "newReason": "数字出版基础整章为近年新增，涵盖数字出版产品、技术、产业管理等新内容。"}, {"name": "第三章 编辑与编辑工作", "sections": [{"name": "第一节 编辑概述", "points": [{"name": "编辑概念", "id": "jc-3-1-1", "isNew": false, "newReason": ""}, {"name": "编辑工作的重要性", "id": "jc-3-1-2", "isNew": false, "newReason": ""}, {"name": "编辑工作的基本特点", "id": "jc-3-1-3", "isNew": false, "newReason": ""}, {"name": "编辑工作的基本功能", "id": "jc-3-1-4", "isNew": false, "newReason": ""}], "id": "jc-3-1", "isNew": false, "newReason": ""}, {"name": "第二节 编辑过程", "points": [{"name": "编辑过程的基本环节", "id": "jc-3-2-1", "isNew": false, "newReason": ""}, {"name": "编辑过程的一些特殊情况", "id": "jc-3-2-2", "isNew": false, "newReason": ""}, {"name": "编辑过程各环节的相互关系", "id": "jc-3-2-3", "isNew": false, "newReason": ""}], "id": "jc-3-2", "isNew": false, "newReason": ""}, {"name": "第三节 编辑人员", "points": [{"name": "编辑人员的构成", "id": "jc-3-3-1", "isNew": false, "newReason": ""}, {"name": "编辑人员的职责使命", "id": "jc-3-3-2", "isNew": false, "newReason": ""}, {"name": "编辑人员的素养要求", "id": "jc-3-3-3", "isNew": false, "newReason": ""}, {"name": "编辑人员的知识要求", "id": "jc-3-3-4", "isNew": false, "newReason": ""}, {"name": "编辑人员的能力要求", "id": "jc-3-3-5", "isNew": false, "newReason": ""}], "id": "jc-3-3", "isNew": false, "newReason": ""}], "id": "jc-3", "isNew": false, "newReason": ""}, {"name": "第四章 党和国家对出版的管理", "sections": [{"name": "第一节 出版管理概述", "points": [{"name": "出版管理的概念", "id": "jc-4-1-1", "isNew": false, "newReason": ""}, {"name": "依法依规实施出版管理", "id": "jc-4-1-2", "isNew": false, "newReason": ""}, {"name": "我国的出版管理体系", "id": "jc-4-1-3", "isNew": false, "newReason": ""}], "id": "jc-4-1", "isNew": false, "newReason": ""}, {"name": "第二节 出版准入制度", "points": [{"name": "法人准入", "id": "jc-4-2-1", "isNew": false, "newReason": ""}, {"name": "产品准入", "id": "jc-4-2-2", "isNew": false, "newReason": ""}, {"name": "职业准入", "id": "jc-4-2-3", "isNew": false, "newReason": ""}, {"name": "岗位准入", "id": "jc-4-2-4", "isNew": false, "newReason": ""}], "id": "jc-4-2", "isNew": false, "newReason": ""}, {"name": "第三节 对出版业活动的管理", "points": [{"name": "重大选题备案管理制度", "id": "jc-4-3-1", "isNew": false, "newReason": ""}, {"name": "出版物质量管理制度", "id": "jc-4-3-2", "isNew": false, "newReason": ""}, {"name": "书号刊号版号管理制度", "id": "jc-4-3-3", "isNew": false, "newReason": ""}, {"name": "其他重要管理制度", "id": "jc-4-3-4", "isNew": false, "newReason": ""}, {"name": "出版活动中违法违规行为的法律责任", "id": "jc-4-3-5", "isNew": false, "newReason": ""}], "id": "jc-4-3", "isNew": false, "newReason": ""}, {"name": "第四节 对出版活动的扶持政策和奖励措施", "points": [{"name": "组织和扶持国家重大出版工程", "id": "jc-4-4-1", "isNew": true, "newReason": "2026 教材强调国家重点出版工程扶持政策（近年新增强化）"}, {"name": "实施国家重点出版物出版规划", "id": "jc-4-4-2", "isNew": true, "newReason": "国家重点出版物出版规划为近年出版管理重点"}, {"name": "设立专项资金", "id": "jc-4-4-3", "isNew": false, "newReason": ""}, {"name": "扶持少数民族语言文字出版", "id": "jc-4-4-4", "isNew": false, "newReason": ""}, {"name": "设立多种奖项", "id": "jc-4-4-5", "isNew": false, "newReason": ""}, {"name": "实施财税优惠政策", "id": "jc-4-4-6", "isNew": false, "newReason": ""}], "id": "jc-4-4", "isNew": false, "newReason": ""}], "id": "jc-4", "isNew": false, "newReason": ""}, {"name": "第五章 出版单位经营管理", "sections": [{"name": "第一节 出版单位经营管理概述", "points": [{"name": "出版单位经营管理的含义", "id": "jc-5-1-1", "isNew": false, "newReason": ""}, {"name": "出版单位经营的目标和决策", "id": "jc-5-1-2", "isNew": false, "newReason": ""}, {"name": "出版单位管理的职能和种类", "id": "jc-5-1-3", "isNew": false, "newReason": ""}, {"name": "出版单位经营管理信息化、智能化", "id": "jc-5-1-4", "isNew": true, "newReason": "经营管理信息化、智能化是近年强化内容，融合数字技术与管理。"}], "id": "jc-5-1", "isNew": true, "newReason": "经营管理信息化、智能化是近年强化内容，融合数字技术与管理。"}, {"name": "第二节 出版单位计划管理", "points": [{"name": "出版单位计划的作用", "id": "jc-5-2-1", "isNew": false, "newReason": ""}, {"name": "出版单位计划管理的内容", "id": "jc-5-2-2", "isNew": false, "newReason": ""}], "id": "jc-5-2", "isNew": false, "newReason": ""}, {"name": "第三节 出版物全面质量管理", "points": [{"name": "出版物全面质量管理的意义和作用", "id": "jc-5-3-1", "isNew": false, "newReason": ""}, {"name": "出版物全面质量管理的措施", "id": "jc-5-3-2", "isNew": false, "newReason": ""}, {"name": "出版物质量保障的社会监督", "id": "jc-5-3-3", "isNew": false, "newReason": ""}], "id": "jc-5-3", "isNew": false, "newReason": ""}, {"name": "第四节 出版单位人力资源管理", "points": [{"name": "以全员劳动合同制为基础的用人制度", "id": "jc-5-4-1", "isNew": false, "newReason": ""}, {"name": "专业技术职务岗位聘用制度", "id": "jc-5-4-2", "isNew": false, "newReason": ""}, {"name": "岗位培训和人力资源开发", "id": "jc-5-4-3", "isNew": false, "newReason": ""}, {"name": "形式多样、自主灵活的分配激励机制", "id": "jc-5-4-4", "isNew": false, "newReason": ""}], "id": "jc-5-4", "isNew": false, "newReason": ""}, {"name": "第五节 出版单位财务管理", "points": [{"name": "出版单位财务管理的目标和内容", "id": "jc-5-5-1", "isNew": false, "newReason": ""}, {"name": "出版单位的成本管理", "id": "jc-5-5-2", "isNew": false, "newReason": ""}, {"name": "出版单位的纳税管理", "id": "jc-5-5-3", "isNew": false, "newReason": ""}], "id": "jc-5-5", "isNew": false, "newReason": ""}, {"name": "第六节 出版单位其他管理", "points": [{"name": "生产流程管理", "id": "jc-5-6-1", "isNew": false, "newReason": ""}, {"name": "发行管理", "id": "jc-5-6-2", "isNew": false, "newReason": ""}, {"name": "版权资产管理和品牌形象管理", "id": "jc-5-6-3", "isNew": false, "newReason": ""}, {"name": "档案管理和信息管理", "id": "jc-5-6-4", "isNew": false, "newReason": ""}, {"name": "行政管理", "id": "jc-5-6-5", "isNew": false, "newReason": ""}], "id": "jc-5-6", "isNew": false, "newReason": ""}], "id": "jc-5", "isNew": false, "newReason": ""}, {"name": "第六章 数字内容资源", "sections": [{"name": "第一节 数字内容资源概述与类型", "points": [{"name": "数字内容资源概述", "id": "jc-6-1-1", "isNew": true, "newReason": "数字内容资源概念与类型为近年新增知识点。"}, {"name": "数字内容资源类型", "id": "jc-6-1-2", "isNew": false, "newReason": ""}], "id": "jc-6-1", "isNew": true, "newReason": "数字内容资源概念与类型为近年新增知识点。"}, {"name": "第二节 数字内容资源加工", "points": [{"name": "数字内容资源加工环节", "id": "jc-6-2-1", "isNew": true, "newReason": "数字内容资源加工流程为新增内容。"}, {"name": "书刊内容资源加工流程", "id": "jc-6-2-2", "isNew": false, "newReason": ""}, {"name": "音视频资源的加工流程", "id": "jc-6-2-3", "isNew": false, "newReason": ""}, {"name": "数字内容资源的标引", "id": "jc-6-2-4", "isNew": false, "newReason": ""}], "id": "jc-6-2", "isNew": true, "newReason": "数字内容资源加工流程为新增内容。"}, {"name": "第三节 数字内容资源管理模式与流程", "points": [{"name": "管理模式", "id": "jc-6-3-1", "isNew": true, "newReason": "数字内容资源管理为新增内容。"}, {"name": "管理流程", "id": "jc-6-3-2", "isNew": false, "newReason": ""}], "id": "jc-6-3", "isNew": true, "newReason": "数字内容资源管理为新增内容。"}], "id": "jc-6", "isNew": false, "newReason": ""}, {"name": "第七章 出版历史知识", "sections": [{"name": "第一节 文字书写系统及其载体", "points": [{"name": "文字", "id": "jc-7-1-1", "isNew": false, "newReason": ""}, {"name": "早期文字载体", "id": "jc-7-1-2", "isNew": false, "newReason": ""}, {"name": "纸的发明及其传播", "id": "jc-7-1-3", "isNew": false, "newReason": ""}, {"name": "文本生产及复制方式", "id": "jc-7-1-4", "isNew": false, "newReason": ""}], "id": "jc-7-1", "isNew": false, "newReason": ""}, {"name": "第二节 印刷术的发明、发展与传播", "points": [{"name": "印刷术的先驱技术", "id": "jc-7-2-1", "isNew": false, "newReason": ""}, {"name": "印刷术的发明与发展", "id": "jc-7-2-2", "isNew": false, "newReason": ""}, {"name": "中国印刷术向域外的传播", "id": "jc-7-2-3", "isNew": false, "newReason": ""}], "id": "jc-7-2", "isNew": false, "newReason": ""}, {"name": "第三节 古代图书的生产与流通", "points": [{"name": "古代的图书", "id": "jc-7-3-1", "isNew": false, "newReason": ""}, {"name": "古代的刻书业", "id": "jc-7-3-2", "isNew": false, "newReason": ""}, {"name": "古代刻书业的编辑工作", "id": "jc-7-3-3", "isNew": false, "newReason": ""}, {"name": "古代书市和图书流通", "id": "jc-7-3-4", "isNew": false, "newReason": ""}], "id": "jc-7-3", "isNew": false, "newReason": ""}, {"name": "第四节 近现代印刷业的发展", "points": [{"name": "西方印刷技术的引进与应用", "id": "jc-7-4-1", "isNew": false, "newReason": ""}, {"name": "印刷机械化的发展", "id": "jc-7-4-2", "isNew": false, "newReason": ""}, {"name": "新技术对图书形态的影响", "id": "jc-7-4-3", "isNew": false, "newReason": ""}], "id": "jc-7-4", "isNew": false, "newReason": ""}, {"name": "第五节 近现代出版活动", "points": [{"name": "近代出版机构的形成", "id": "jc-7-5-1", "isNew": false, "newReason": ""}, {"name": "近代出版机构的发展", "id": "jc-7-5-2", "isNew": false, "newReason": ""}, {"name": "近代出版物", "id": "jc-7-5-3", "isNew": false, "newReason": ""}], "id": "jc-7-5", "isNew": false, "newReason": ""}, {"name": "第六节 新中国成立前我党领导的出版活动", "points": [{"name": "建党前后的出版活动", "id": "jc-7-6-1", "isNew": false, "newReason": ""}, {"name": "土地革命战争时期的红色出版", "id": "jc-7-6-2", "isNew": false, "newReason": ""}, {"name": "抗战时期我党领导的出版活动", "id": "jc-7-6-3", "isNew": false, "newReason": ""}, {"name": "解放战争时期我党领导的出版活动", "id": "jc-7-6-4", "isNew": false, "newReason": ""}], "id": "jc-7-6", "isNew": false, "newReason": ""}, {"name": "第七节 新中国出版业的发展", "points": [{"name": "新中国出版业的组建", "id": "jc-7-7-1", "isNew": false, "newReason": ""}, {"name": "新中国出版业的曲折发展", "id": "jc-7-7-2", "isNew": false, "newReason": ""}, {"name": "改革开放与出版业的繁荣", "id": "jc-7-7-3", "isNew": false, "newReason": ""}, {"name": "新时代我国出版业的高质量发展", "id": "jc-7-7-4", "isNew": true, "newReason": "新时代出版业高质量发展为近年新增，反映高质量发展主题。"}], "id": "jc-7-7", "isNew": true, "newReason": "新时代出版业高质量发展为近年新增，反映高质量发展主题。"}], "id": "jc-7", "isNew": false, "newReason": ""}, {"name": "第八章 著作权知识", "sections": [{"name": "第一节 著作权与著作权法概述", "points": [{"name": "著作权", "id": "jc-8-1-1", "isNew": false, "newReason": ""}, {"name": "著作权法", "id": "jc-8-1-2", "isNew": false, "newReason": ""}], "id": "jc-8-1", "isNew": false, "newReason": ""}, {"name": "第二节 著作权的客体与主体", "points": [{"name": "著作权的客体", "id": "jc-8-2-1", "isNew": false, "newReason": ""}, {"name": "著作权的主体", "id": "jc-8-2-2", "isNew": false, "newReason": ""}], "id": "jc-8-2", "isNew": false, "newReason": ""}, {"name": "第三节 著作权的内容、归属与保护期", "points": [{"name": "著作权的内容", "id": "jc-8-3-1", "isNew": false, "newReason": ""}, {"name": "著作权的归属", "id": "jc-8-3-2", "isNew": false, "newReason": ""}, {"name": "著作权的取得与保护期", "id": "jc-8-3-3", "isNew": false, "newReason": ""}], "id": "jc-8-3", "isNew": false, "newReason": ""}, {"name": "第四节 邻接权", "points": [{"name": "概述", "id": "jc-8-4-1", "isNew": false, "newReason": ""}, {"name": "我国著作权法邻接权的种类与内容", "id": "jc-8-4-2", "isNew": false, "newReason": ""}], "id": "jc-8-4", "isNew": false, "newReason": ""}, {"name": "第五节 著作权的使用与限制", "points": [{"name": "著作权的使用", "id": "jc-8-5-1", "isNew": false, "newReason": ""}, {"name": "著作权限制", "id": "jc-8-5-2", "isNew": false, "newReason": ""}], "id": "jc-8-5", "isNew": false, "newReason": ""}, {"name": "第六节 著作权纠纷与法律保护", "points": [{"name": "著作权纠纷类型与处理方法", "id": "jc-8-6-1", "isNew": false, "newReason": ""}, {"name": "著作权违约与法律责任", "id": "jc-8-6-2", "isNew": false, "newReason": ""}, {"name": "著作权技术措施保护", "id": "jc-8-6-3", "isNew": false, "newReason": ""}, {"name": "著作权侵权与法律责任", "id": "jc-8-6-4", "isNew": false, "newReason": ""}], "id": "jc-8-6", "isNew": false, "newReason": ""}, {"name": "第七节 出版单位与著作权", "points": [{"name": "依法保护著作权人的权利", "id": "jc-8-7-1", "isNew": false, "newReason": ""}, {"name": "依法保护出版单位的权利", "id": "jc-8-7-2", "isNew": false, "newReason": ""}], "id": "jc-8-7", "isNew": false, "newReason": ""}], "id": "jc-8", "isNew": false, "newReason": ""}, {"name": "第九章 出版物的文字规范", "sections": [{"name": "第一节 汉字常识和汉字使用规范", "points": [{"name": "汉字的特点", "id": "jc-9-1-1", "isNew": false, "newReason": ""}, {"name": "汉字的笔画、偏旁、部首和笔顺", "id": "jc-9-1-2", "isNew": false, "newReason": ""}, {"name": "汉字的整理和标准化", "id": "jc-9-1-3", "isNew": false, "newReason": ""}, {"name": "汉字使用规范", "id": "jc-9-1-4", "isNew": false, "newReason": ""}], "id": "jc-9-1", "isNew": false, "newReason": ""}, {"name": "第二节 汉语拼音与语音规范", "points": [{"name": "《汉语拼音方案》", "id": "jc-9-2-1", "isNew": false, "newReason": ""}, {"name": "汉语拼音拼写规则", "id": "jc-9-2-2", "isNew": false, "newReason": ""}, {"name": "汉语语音规范", "id": "jc-9-2-3", "isNew": false, "newReason": ""}], "id": "jc-9-2", "isNew": false, "newReason": ""}, {"name": "第三节 标点符号及其使用规范", "points": [{"name": "标点符号的作用和种类", "id": "jc-9-3-1", "isNew": false, "newReason": ""}, {"name": "标点符号的使用规范", "id": "jc-9-3-2", "isNew": false, "newReason": ""}, {"name": "夹用英文的中文出版物对标点符号的规范使用", "id": "jc-9-3-3", "isNew": false, "newReason": ""}, {"name": "常见的标点符号使用错误", "id": "jc-9-3-4", "isNew": false, "newReason": ""}], "id": "jc-9-3", "isNew": false, "newReason": ""}, {"name": "第四节 数字与计量单位使用规范", "points": [{"name": "数字用法", "id": "jc-9-4-1", "isNew": false, "newReason": ""}, {"name": "常见的数字用法错误", "id": "jc-9-4-2", "isNew": false, "newReason": ""}, {"name": "计量单位", "id": "jc-9-4-3", "isNew": false, "newReason": ""}, {"name": "常见的量和单位使用错误", "id": "jc-9-4-4", "isNew": false, "newReason": ""}], "id": "jc-9-4", "isNew": false, "newReason": ""}, {"name": "第五节 科技名词使用规范", "points": [{"name": "科技名词的特点", "id": "jc-9-5-1", "isNew": false, "newReason": ""}, {"name": "科技名词规范的进程", "id": "jc-9-5-2", "isNew": false, "newReason": ""}, {"name": "科技名词的规范使用", "id": "jc-9-5-3", "isNew": false, "newReason": ""}, {"name": "常见的科技名词使用错误", "id": "jc-9-5-4", "isNew": false, "newReason": ""}], "id": "jc-9-5", "isNew": false, "newReason": ""}], "id": "jc-9", "isNew": false, "newReason": ""}, {"name": "第十章 汉语语法与修辞知识", "sections": [{"name": "第一节 词汇", "points": [{"name": "词的构成", "id": "jc-10-1-1", "isNew": false, "newReason": ""}, {"name": "词形、词音和词义", "id": "jc-10-1-2", "isNew": false, "newReason": ""}, {"name": "常见词语使用错误的纠正", "id": "jc-10-1-3", "isNew": false, "newReason": ""}], "id": "jc-10-1", "isNew": false, "newReason": ""}, {"name": "第二节 词的分类", "points": [{"name": "实词", "id": "jc-10-2-1", "isNew": false, "newReason": ""}, {"name": "虚词", "id": "jc-10-2-2", "isNew": false, "newReason": ""}], "id": "jc-10-2", "isNew": false, "newReason": ""}, {"name": "第三节 短语和句子", "points": [{"name": "短语", "id": "jc-10-3-1", "isNew": false, "newReason": ""}, {"name": "句子及其成分", "id": "jc-10-3-2", "isNew": false, "newReason": ""}, {"name": "单句及其运用", "id": "jc-10-3-3", "isNew": false, "newReason": ""}, {"name": "复句及其运用", "id": "jc-10-3-4", "isNew": false, "newReason": ""}, {"name": "常见语法错误的纠正", "id": "jc-10-3-5", "isNew": false, "newReason": ""}], "id": "jc-10-3", "isNew": false, "newReason": ""}, {"name": "第四节 常见修辞方式", "points": [{"name": "常见的汉语修辞方式", "id": "jc-10-4-1", "isNew": false, "newReason": ""}, {"name": "修辞方式的综合运用", "id": "jc-10-4-2", "isNew": false, "newReason": ""}, {"name": "常见的修辞错误", "id": "jc-10-4-3", "isNew": false, "newReason": ""}], "id": "jc-10-4", "isNew": false, "newReason": ""}], "id": "jc-10", "isNew": false, "newReason": ""}, {"name": "第十一章 形式逻辑常识", "sections": [{"name": "第一节 概念", "points": [{"name": "什么是概念", "id": "jc-11-1-1", "isNew": false, "newReason": ""}, {"name": "概念的内涵和外延", "id": "jc-11-1-2", "isNew": false, "newReason": ""}, {"name": "概念的种类", "id": "jc-11-1-3", "isNew": false, "newReason": ""}, {"name": "概念之间的关系", "id": "jc-11-1-4", "isNew": false, "newReason": ""}, {"name": "概念的限制、概括和划分", "id": "jc-11-1-5", "isNew": false, "newReason": ""}, {"name": "常见的运用概念时的错误", "id": "jc-11-1-6", "isNew": false, "newReason": ""}], "id": "jc-11-1", "isNew": false, "newReason": ""}, {"name": "第二节 判断", "points": [{"name": "什么是判断", "id": "jc-11-2-1", "isNew": false, "newReason": ""}, {"name": "几种主要判断类型", "id": "jc-11-2-2", "isNew": false, "newReason": ""}, {"name": "常见的运用判断时的错误", "id": "jc-11-2-3", "isNew": false, "newReason": ""}], "id": "jc-11-2", "isNew": false, "newReason": ""}, {"name": "第三节 推理", "points": [{"name": "什么是推理", "id": "jc-11-3-1", "isNew": false, "newReason": ""}, {"name": "推理的种类", "id": "jc-11-3-2", "isNew": false, "newReason": ""}, {"name": "常见的运用推理时的错误", "id": "jc-11-3-3", "isNew": false, "newReason": ""}], "id": "jc-11-3", "isNew": false, "newReason": ""}, {"name": "第四节 论证", "points": [{"name": "什么是论证", "id": "jc-11-4-1", "isNew": false, "newReason": ""}, {"name": "论证的种类", "id": "jc-11-4-2", "isNew": false, "newReason": ""}, {"name": "常见的运用论证时的错误", "id": "jc-11-4-3", "isNew": false, "newReason": ""}], "id": "jc-11-4", "isNew": false, "newReason": ""}, {"name": "第五节 逻辑思维的基本规律", "points": [{"name": "逻辑思维的三条基本规律", "id": "jc-11-5-1", "isNew": false, "newReason": ""}, {"name": "常见的运用逻辑思维基本规律时的错误", "id": "jc-11-5-2", "isNew": false, "newReason": ""}], "id": "jc-11-5", "isNew": false, "newReason": ""}], "id": "jc-11", "isNew": false, "newReason": ""}, {"name": "第十二章 古代汉语与中国古代文化常识", "sections": [{"name": "第一节 古代汉语与中国古代文化概述", "points": [{"name": "古代汉语的形成及基本特点", "id": "jc-12-1-1", "isNew": false, "newReason": ""}, {"name": "中国古代文化的形成及特点", "id": "jc-12-1-2", "isNew": false, "newReason": ""}, {"name": "名物典章制度与古代文献阅读", "id": "jc-12-1-3", "isNew": false, "newReason": ""}], "id": "jc-12-1", "isNew": false, "newReason": ""}, {"name": "第二节 古代汉语知识", "points": [{"name": "字词基本知识", "id": "jc-12-2-1", "isNew": false, "newReason": ""}, {"name": "实词活用", "id": "jc-12-2-2", "isNew": false, "newReason": ""}, {"name": "常用虚词", "id": "jc-12-2-3", "isNew": false, "newReason": ""}, {"name": "特殊句法", "id": "jc-12-2-4", "isNew": false, "newReason": ""}, {"name": "古文的标点与今译", "id": "jc-12-2-5", "isNew": false, "newReason": ""}], "id": "jc-12-2", "isNew": false, "newReason": ""}, {"name": "第三节 中国古代名物典章制度", "points": [{"name": "天文、历法", "id": "jc-12-3-1", "isNew": false, "newReason": ""}, {"name": "地理、政区", "id": "jc-12-3-2", "isNew": false, "newReason": ""}, {"name": "官制、科举", "id": "jc-12-3-3", "isNew": false, "newReason": ""}, {"name": "姓名、称谓", "id": "jc-12-3-4", "isNew": false, "newReason": ""}], "id": "jc-12-3", "isNew": false, "newReason": ""}, {"name": "第四节 儒释道文化", "points": [{"name": "儒家文化", "id": "jc-12-4-1", "isNew": false, "newReason": ""}, {"name": "佛教文化", "id": "jc-12-4-2", "isNew": false, "newReason": ""}, {"name": "道家道教文化", "id": "jc-12-4-3", "isNew": false, "newReason": ""}], "id": "jc-12-4", "isNew": false, "newReason": ""}, {"name": "第五节 中国古代文学", "points": [{"name": "《诗经》和《楚辞》", "id": "jc-12-5-1", "isNew": false, "newReason": ""}, {"name": "汉魏晋赋与文", "id": "jc-12-5-2", "isNew": false, "newReason": ""}, {"name": "唐诗宋词", "id": "jc-12-5-3", "isNew": false, "newReason": ""}, {"name": "元曲与杂剧", "id": "jc-12-5-4", "isNew": false, "newReason": ""}, {"name": "明清小说", "id": "jc-12-5-5", "isNew": false, "newReason": ""}], "id": "jc-12-5", "isNew": false, "newReason": ""}, {"name": "第六节 中国传统典籍", "points": [{"name": "古代图书分类", "id": "jc-12-6-1", "isNew": false, "newReason": ""}, {"name": "经史子集概说", "id": "jc-12-6-2", "isNew": false, "newReason": ""}, {"name": "版本知识", "id": "jc-12-6-3", "isNew": false, "newReason": ""}, {"name": "藏书传统", "id": "jc-12-6-4", "isNew": false, "newReason": ""}], "id": "jc-12-6", "isNew": false, "newReason": ""}], "id": "jc-12", "isNew": false, "newReason": ""}]}, {"id": "sw", "name": "出版专业实务", "chapters": [{"name": "第一章 出版物选题策划", "sections": [{"name": "第一节 选题策划概述", "points": [{"name": "选题与选题策划", "id": "sw-1-1-1", "isNew": false, "newReason": ""}, {"name": "选题策划工作的原则与要求", "id": "sw-1-1-2", "isNew": false, "newReason": ""}], "id": "sw-1-1", "isNew": false, "newReason": ""}, {"name": "第二节 信息采集与分析", "points": [{"name": "需要采集的信息内容", "id": "sw-1-2-1", "isNew": false, "newReason": ""}, {"name": "信息采集的主要方式", "id": "sw-1-2-2", "isNew": false, "newReason": ""}, {"name": "信息的分析处理", "id": "sw-1-2-3", "isNew": false, "newReason": ""}], "id": "sw-1-2", "isNew": false, "newReason": ""}, {"name": "第三节 选题设计", "points": [{"name": "构思出版物的内容和形式", "id": "sw-1-3-1", "isNew": false, "newReason": ""}, {"name": "设计选题实施方案", "id": "sw-1-3-2", "isNew": false, "newReason": ""}, {"name": "设计出版物营销方案", "id": "sw-1-3-3", "isNew": false, "newReason": ""}], "id": "sw-1-3", "isNew": false, "newReason": ""}, {"name": "第四节 选题立项", "points": [{"name": "选题的申报", "id": "sw-1-4-1", "isNew": false, "newReason": ""}, {"name": "选题的论证", "id": "sw-1-4-2", "isNew": false, "newReason": ""}, {"name": "选题的优化", "id": "sw-1-4-3", "isNew": false, "newReason": ""}, {"name": "立项选题的管理", "id": "sw-1-4-4", "isNew": false, "newReason": ""}], "id": "sw-1-4", "isNew": false, "newReason": ""}, {"name": "第五节 选题计划", "points": [{"name": "选题计划的内容与类型", "id": "sw-1-5-1", "isNew": false, "newReason": ""}, {"name": "选题计划的结构", "id": "sw-1-5-2", "isNew": false, "newReason": ""}, {"name": "选题计划的特点", "id": "sw-1-5-3", "isNew": false, "newReason": ""}, {"name": "选题计划的制订与调整", "id": "sw-1-5-4", "isNew": false, "newReason": ""}], "id": "sw-1-5", "isNew": false, "newReason": ""}, {"name": "第六节 组稿", "points": [{"name": "稿件的来源", "id": "sw-1-6-1", "isNew": false, "newReason": ""}, {"name": "组稿的方式", "id": "sw-1-6-2", "isNew": false, "newReason": ""}, {"name": "组稿的步骤", "id": "sw-1-6-3", "isNew": false, "newReason": ""}, {"name": "约稿后的工作", "id": "sw-1-6-4", "isNew": false, "newReason": ""}], "id": "sw-1-6", "isNew": false, "newReason": ""}, {"name": "第七节 主题出版的选题策划", "points": [{"name": "主题出版的概念与发展", "id": "sw-1-7-1", "isNew": false, "newReason": ""}, {"name": "主题出版的任务", "id": "sw-1-7-2", "isNew": false, "newReason": ""}, {"name": "主题出版选题策划的方法", "id": "sw-1-7-3", "isNew": false, "newReason": ""}], "id": "sw-1-7", "isNew": true, "newReason": "主题出版是近年教材新增和强化的选题策划内容"}, {"name": "第八节 国家重点出版项目的策划", "points": [{"name": "国家重点出版项目概述", "id": "sw-1-8-1", "isNew": false, "newReason": ""}, {"name": "国家重点出版项目的策划", "id": "sw-1-8-2", "isNew": false, "newReason": ""}], "id": "sw-1-8", "isNew": true, "newReason": "国家重点出版项目策划是近年教材新增和强化的内容"}], "id": "sw-1", "isNew": false, "newReason": ""}, {"name": "第二章 图书编辑出版", "sections": [{"name": "第一节 审稿与签订图书出版合同", "points": [{"name": "审稿的作用", "id": "sw-2-1-1", "isNew": false, "newReason": ""}, {"name": "审稿制度", "id": "sw-2-1-2", "isNew": false, "newReason": ""}, {"name": "外审", "id": "sw-2-1-3", "isNew": false, "newReason": ""}, {"name": "审稿要求", "id": "sw-2-1-4", "isNew": false, "newReason": ""}, {"name": "审稿的基本方法", "id": "sw-2-1-5", "isNew": false, "newReason": ""}, {"name": "审稿意见及稿件处理", "id": "sw-2-1-6", "isNew": false, "newReason": ""}, {"name": "签订出版合同", "id": "sw-2-1-7", "isNew": false, "newReason": ""}], "id": "sw-2-1", "isNew": false, "newReason": ""}, {"name": "第二节 编辑加工整理", "points": [{"name": "编辑加工整理的作用和原则", "id": "sw-2-2-1", "isNew": false, "newReason": ""}, {"name": "编辑加工整理的步骤与方法", "id": "sw-2-2-2", "isNew": false, "newReason": ""}, {"name": "图书稿件编辑加工整理的内容", "id": "sw-2-2-3", "isNew": false, "newReason": ""}], "id": "sw-2-2", "isNew": false, "newReason": ""}, {"name": "第三节 审定发稿", "points": [{"name": "发稿的基本要求", "id": "sw-2-3-1", "isNew": false, "newReason": ""}, {"name": "稿件整理", "id": "sw-2-3-2", "isNew": false, "newReason": ""}, {"name": "稿件送审和发稿", "id": "sw-2-3-3", "isNew": false, "newReason": ""}], "id": "sw-2-3", "isNew": false, "newReason": ""}, {"name": "第四节 发稿后编辑的工作", "points": [{"name": "校样处理", "id": "sw-2-4-1", "isNew": false, "newReason": ""}, {"name": "样书检查", "id": "sw-2-4-2", "isNew": false, "newReason": ""}, {"name": "参与营销宣传", "id": "sw-2-4-3", "isNew": false, "newReason": ""}, {"name": "收集反馈信息", "id": "sw-2-4-4", "isNew": false, "newReason": ""}, {"name": "建立书稿档案", "id": "sw-2-4-5", "isNew": false, "newReason": ""}], "id": "sw-2-4", "isNew": false, "newReason": ""}, {"name": "第五节 图书重印与再版", "points": [{"name": "图书的重印", "id": "sw-2-5-1", "isNew": false, "newReason": ""}, {"name": "图书的再版", "id": "sw-2-5-2", "isNew": false, "newReason": ""}], "id": "sw-2-5", "isNew": false, "newReason": ""}], "id": "sw-2", "isNew": false, "newReason": ""}, {"name": "第三章 期刊编辑出版", "sections": [{"name": "第一节 期刊概述", "points": [{"name": "期刊的定义和构成要素", "id": "sw-3-1-1", "isNew": false, "newReason": ""}, {"name": "期刊的特点", "id": "sw-3-1-2", "isNew": false, "newReason": ""}, {"name": "期刊的分类", "id": "sw-3-1-3", "isNew": false, "newReason": ""}, {"name": "期刊的定位", "id": "sw-3-1-4", "isNew": false, "newReason": ""}, {"name": "国家关于期刊的管理规定", "id": "sw-3-1-5", "isNew": false, "newReason": ""}], "id": "sw-3-1", "isNew": false, "newReason": ""}, {"name": "第二节 期刊的编辑工作", "points": [{"name": "期刊编辑工作的总体特点", "id": "sw-3-2-1", "isNew": false, "newReason": ""}, {"name": "期刊的选题策划", "id": "sw-3-2-2", "isNew": false, "newReason": ""}, {"name": "期刊的组稿", "id": "sw-3-2-3", "isNew": false, "newReason": ""}, {"name": "期刊的审稿", "id": "sw-3-2-4", "isNew": false, "newReason": ""}, {"name": "期刊的编辑加工", "id": "sw-3-2-5", "isNew": false, "newReason": ""}, {"name": "期刊的稿件管理", "id": "sw-3-2-6", "isNew": false, "newReason": ""}], "id": "sw-3-2", "isNew": false, "newReason": ""}, {"name": "第三节 学术期刊的编辑出版", "points": [{"name": "学术期刊的知识创新价值", "id": "sw-3-3-1", "isNew": false, "newReason": ""}, {"name": "学术期刊的编辑规范化要求", "id": "sw-3-3-2", "isNew": false, "newReason": ""}, {"name": "学术期刊编辑者的学术不端行为", "id": "sw-3-3-3", "isNew": false, "newReason": ""}], "id": "sw-3-3", "isNew": false, "newReason": ""}, {"name": "第四节 期刊的广告经营与新媒体传播", "points": [{"name": "期刊的广告经营", "id": "sw-3-4-1", "isNew": false, "newReason": ""}, {"name": "期刊的新媒体传播", "id": "sw-3-4-2", "isNew": true, "newReason": "期刊新媒体传播属于近年强化的新媒体运营内容"}], "id": "sw-3-4", "isNew": true, "newReason": "期刊新媒体传播属于近年强化的新媒体运营内容"}], "id": "sw-3", "isNew": false, "newReason": ""}, {"name": "第四章 书刊整体设计", "sections": [{"name": "第一节 书刊整体设计概述", "points": [{"name": "书刊整体设计的概念", "id": "sw-4-1-1", "isNew": false, "newReason": ""}, {"name": "书刊整体设计的总体要求", "id": "sw-4-1-2", "isNew": false, "newReason": ""}, {"name": "书刊整体设计的流程", "id": "sw-4-1-3", "isNew": false, "newReason": ""}, {"name": "人工智能在书刊整体设计中的应用", "id": "sw-4-1-4", "isNew": true, "newReason": "人工智能在书刊整体设计中的应用是近年新增内容"}], "id": "sw-4-1", "isNew": true, "newReason": "人工智能在书刊整体设计中的应用是近年新增内容"}, {"name": "第二节 书刊的形态设计", "points": [{"name": "书刊的翻页形式", "id": "sw-4-2-1", "isNew": false, "newReason": ""}, {"name": "书刊的基本组成", "id": "sw-4-2-2", "isNew": false, "newReason": ""}, {"name": "书刊开本", "id": "sw-4-2-3", "isNew": false, "newReason": ""}, {"name": "书刊结构部件", "id": "sw-4-2-4", "isNew": false, "newReason": ""}, {"name": "书刊用纸", "id": "sw-4-2-5", "isNew": false, "newReason": ""}, {"name": "书刊装订样式", "id": "sw-4-2-6", "isNew": false, "newReason": ""}], "id": "sw-4-2", "isNew": false, "newReason": ""}, {"name": "第三节 书刊美术设计和表面整饰设计", "points": [{"name": "书刊美术设计", "id": "sw-4-3-1", "isNew": false, "newReason": ""}, {"name": "书刊表面整饰设计", "id": "sw-4-3-2", "isNew": false, "newReason": ""}], "id": "sw-4-3", "isNew": false, "newReason": ""}, {"name": "第四节 书刊版心规格设计", "points": [{"name": "书刊版面的结构", "id": "sw-4-4-1", "isNew": false, "newReason": ""}, {"name": "版心规格设计", "id": "sw-4-4-2", "isNew": false, "newReason": ""}, {"name": "文字与符号", "id": "sw-4-4-3", "isNew": false, "newReason": ""}, {"name": "线条与底纹", "id": "sw-4-4-4", "isNew": false, "newReason": ""}, {"name": "间空", "id": "sw-4-4-5", "isNew": false, "newReason": ""}], "id": "sw-4-4", "isNew": false, "newReason": ""}, {"name": "第五节 图书文字版式设计", "points": [{"name": "正文版式设计", "id": "sw-4-5-1", "isNew": false, "newReason": ""}, {"name": "书眉排式设计", "id": "sw-4-5-2", "isNew": false, "newReason": ""}, {"name": "页码排式设计", "id": "sw-4-5-3", "isNew": false, "newReason": ""}, {"name": "辅文版式设计", "id": "sw-4-5-4", "isNew": false, "newReason": ""}, {"name": "版式批注方式", "id": "sw-4-5-5", "isNew": false, "newReason": ""}], "id": "sw-4-5", "isNew": false, "newReason": ""}, {"name": "第六节 期刊文字版式设计", "points": [{"name": "正文版式设计", "id": "sw-4-6-1", "isNew": false, "newReason": ""}, {"name": "页眉版式设计", "id": "sw-4-6-2", "isNew": false, "newReason": ""}, {"name": "页码版式设计", "id": "sw-4-6-3", "isNew": false, "newReason": ""}, {"name": "目次页版式设计", "id": "sw-4-6-4", "isNew": false, "newReason": ""}, {"name": "期刊版式批注的操作特点", "id": "sw-4-6-5", "isNew": false, "newReason": ""}], "id": "sw-4-6", "isNew": false, "newReason": ""}, {"name": "第七节 书刊图片和表格的版式设计", "points": [{"name": "图片的版式设计", "id": "sw-4-7-1", "isNew": false, "newReason": ""}, {"name": "表格的版式设计", "id": "sw-4-7-2", "isNew": false, "newReason": ""}], "id": "sw-4-7", "isNew": false, "newReason": ""}], "id": "sw-4", "isNew": false, "newReason": ""}, {"name": "第五章 书刊校对", "sections": [{"name": "第一节 校对工作概述", "points": [{"name": "校对的概念", "id": "sw-5-1-1", "isNew": false, "newReason": ""}, {"name": "校对的主要功能", "id": "sw-5-1-2", "isNew": false, "newReason": ""}, {"name": "校样的形成和种类", "id": "sw-5-1-3", "isNew": false, "newReason": ""}], "id": "sw-5-1", "isNew": false, "newReason": ""}, {"name": "第二节 校对工作的规范和工序", "points": [{"name": "校对的基本方法", "id": "sw-5-2-1", "isNew": false, "newReason": ""}, {"name": "校对的操作工序", "id": "sw-5-2-2", "isNew": false, "newReason": ""}, {"name": "校对符号用法及修改校样的操作规范", "id": "sw-5-2-3", "isNew": false, "newReason": ""}, {"name": "校对工作的基本制度", "id": "sw-5-2-4", "isNew": false, "newReason": ""}, {"name": "校对操作的模式", "id": "sw-5-2-5", "isNew": false, "newReason": ""}], "id": "sw-5-2", "isNew": false, "newReason": ""}, {"name": "第三节 责任校对的职责与校对管理", "points": [{"name": "责任校对的职责", "id": "sw-5-3-1", "isNew": false, "newReason": ""}, {"name": "通读", "id": "sw-5-3-2", "isNew": false, "newReason": ""}, {"name": "技术整理", "id": "sw-5-3-3", "isNew": false, "newReason": ""}, {"name": "校对工作量化管理", "id": "sw-5-3-4", "isNew": false, "newReason": ""}, {"name": "外校管理", "id": "sw-5-3-5", "isNew": false, "newReason": ""}], "id": "sw-5-3", "isNew": false, "newReason": ""}, {"name": "第四节 书刊常见差错与查改技巧", "points": [{"name": "作者原稿带入的差错", "id": "sw-5-4-1", "isNew": false, "newReason": ""}, {"name": "排版、改版操作引起的差错", "id": "sw-5-4-2", "isNew": false, "newReason": ""}, {"name": "查改文字差错的技巧", "id": "sw-5-4-3", "isNew": false, "newReason": ""}], "id": "sw-5-4", "isNew": false, "newReason": ""}, {"name": "第五节 审校软件的应用", "points": [{"name": "审校软件的基本性能", "id": "sw-5-5-1", "isNew": false, "newReason": ""}, {"name": "审校软件的使用", "id": "sw-5-5-2", "isNew": false, "newReason": ""}, {"name": "人工智能在审校中的应用", "id": "sw-5-5-3", "isNew": false, "newReason": ""}], "id": "sw-5-5", "isNew": true, "newReason": "审校软件的应用及人工智能审校是近年新增内容"}], "id": "sw-5", "isNew": false, "newReason": ""}, {"name": "第六章 书刊印制", "sections": [{"name": "第一节 书刊印制概述", "points": [{"name": "书刊印制的概念", "id": "sw-6-1-1", "isNew": false, "newReason": ""}, {"name": "印刷的要素", "id": "sw-6-1-2", "isNew": false, "newReason": ""}, {"name": "书刊印制的工艺过程", "id": "sw-6-1-3", "isNew": false, "newReason": ""}, {"name": "绿色印刷", "id": "sw-6-1-4", "isNew": true, "newReason": "绿色印刷是近年强化的印制管理新要求"}, {"name": "书刊印制管理规定", "id": "sw-6-1-5", "isNew": false, "newReason": ""}], "id": "sw-6-1", "isNew": true, "newReason": "绿色印刷是近年强化的印制管理新要求"}, {"name": "第二节 书刊的印前制作", "points": [{"name": "原稿检核", "id": "sw-6-2-1", "isNew": false, "newReason": ""}, {"name": "图文输入", "id": "sw-6-2-2", "isNew": false, "newReason": ""}, {"name": "图文处理", "id": "sw-6-2-3", "isNew": false, "newReason": ""}, {"name": "图文输出", "id": "sw-6-2-4", "isNew": false, "newReason": ""}, {"name": "打样和印版制作", "id": "sw-6-2-5", "isNew": false, "newReason": ""}], "id": "sw-6-2", "isNew": false, "newReason": ""}, {"name": "第三节 书刊的印刷", "points": [{"name": "模拟印刷", "id": "sw-6-3-1", "isNew": false, "newReason": ""}, {"name": "数字印刷", "id": "sw-6-3-2", "isNew": false, "newReason": ""}, {"name": "书刊印刷的纸张和油墨", "id": "sw-6-3-3", "isNew": false, "newReason": ""}], "id": "sw-6-3", "isNew": false, "newReason": ""}, {"name": "第四节 书刊的装订", "points": [{"name": "平装", "id": "sw-6-4-1", "isNew": false, "newReason": ""}, {"name": "精装", "id": "sw-6-4-2", "isNew": false, "newReason": ""}, {"name": "骑马订装", "id": "sw-6-4-3", "isNew": false, "newReason": ""}], "id": "sw-6-4", "isNew": false, "newReason": ""}, {"name": "第五节 书刊印制质量", "points": [{"name": "质量检查方式", "id": "sw-6-5-1", "isNew": false, "newReason": ""}, {"name": "印制质量要求", "id": "sw-6-5-2", "isNew": false, "newReason": ""}, {"name": "书刊印刷常见质量问题", "id": "sw-6-5-3", "isNew": false, "newReason": ""}], "id": "sw-6-5", "isNew": false, "newReason": ""}, {"name": "第六节 书刊印制费用", "points": [{"name": "纸张费用计算", "id": "sw-6-6-1", "isNew": false, "newReason": ""}, {"name": "制版费用计算", "id": "sw-6-6-2", "isNew": false, "newReason": ""}, {"name": "印装(制作)费用计算", "id": "sw-6-6-3", "isNew": false, "newReason": ""}], "id": "sw-6-6", "isNew": false, "newReason": ""}], "id": "sw-6", "isNew": false, "newReason": ""}, {"name": "第七章 出版物发行与营销推广", "sections": [{"name": "第一节 出版物发行概述", "points": [{"name": "出版物发行的概念及其构成要素", "id": "sw-7-1-1", "isNew": false, "newReason": ""}, {"name": "出版物发行的特点与程序", "id": "sw-7-1-2", "isNew": false, "newReason": ""}, {"name": "出版物发行的商流、物流、信息流和资金流", "id": "sw-7-1-3", "isNew": false, "newReason": ""}, {"name": "出版物购销", "id": "sw-7-1-4", "isNew": false, "newReason": ""}], "id": "sw-7-1", "isNew": false, "newReason": ""}, {"name": "第二节 出版物发行方式", "points": [{"name": "出版物批发", "id": "sw-7-2-1", "isNew": false, "newReason": ""}, {"name": "出版物零售", "id": "sw-7-2-2", "isNew": false, "newReason": ""}, {"name": "出版物出租", "id": "sw-7-2-3", "isNew": false, "newReason": ""}, {"name": "出版物的其他发行方式", "id": "sw-7-2-4", "isNew": false, "newReason": ""}], "id": "sw-7-2", "isNew": false, "newReason": ""}, {"name": "第三节 出版物发行渠道", "points": [{"name": "出版物发行渠道的特点", "id": "sw-7-3-1", "isNew": false, "newReason": ""}, {"name": "直接渠道和间接渠道", "id": "sw-7-3-2", "isNew": false, "newReason": ""}, {"name": "网络发行渠道", "id": "sw-7-3-3", "isNew": true, "newReason": "网络发行渠道为近年教材新增强化内容"}, {"name": "我国出版物发行主体的基本构成", "id": "sw-7-3-4", "isNew": false, "newReason": ""}, {"name": "发行渠道体系的建设与管理", "id": "sw-7-3-5", "isNew": false, "newReason": ""}], "id": "sw-7-3", "isNew": false, "newReason": ""}, {"name": "第四节 出版营销推广", "points": [{"name": "出版单位品牌形象的打造与传播", "id": "sw-7-4-1", "isNew": false, "newReason": ""}, {"name": "出版物营销活动", "id": "sw-7-4-2", "isNew": false, "newReason": ""}], "id": "sw-7-4", "isNew": false, "newReason": ""}], "id": "sw-7", "isNew": false, "newReason": ""}, {"name": "第八章 音像制品和电子出版物出版", "sections": [{"name": "第一节 音像制品概述", "points": [{"name": "音像制品的概念", "id": "sw-8-1-1", "isNew": false, "newReason": ""}, {"name": "音像制品的类别和特点", "id": "sw-8-1-2", "isNew": false, "newReason": ""}, {"name": "国家关于音像制品管理的规定", "id": "sw-8-1-3", "isNew": false, "newReason": ""}, {"name": "音像制品发展趋势", "id": "sw-8-1-4", "isNew": false, "newReason": ""}], "id": "sw-8-1", "isNew": false, "newReason": ""}, {"name": "第二节 音像制品出版流程", "points": [{"name": "音像制品选题策划的要点", "id": "sw-8-2-1", "isNew": false, "newReason": ""}, {"name": "音像制品的稿件组织", "id": "sw-8-2-2", "isNew": false, "newReason": ""}, {"name": "音像节目的编辑制作", "id": "sw-8-2-3", "isNew": false, "newReason": ""}, {"name": "音像制品的审查", "id": "sw-8-2-4", "isNew": false, "newReason": ""}, {"name": "音像制品的复制", "id": "sw-8-2-5", "isNew": false, "newReason": ""}, {"name": "音像制品的发行", "id": "sw-8-2-6", "isNew": false, "newReason": ""}], "id": "sw-8-2", "isNew": false, "newReason": ""}, {"name": "第三节 电子出版物概述", "points": [{"name": "电子出版物的概念", "id": "sw-8-3-1", "isNew": false, "newReason": ""}, {"name": "电子出版物的类别和特点", "id": "sw-8-3-2", "isNew": false, "newReason": ""}, {"name": "国家关于电子出版物的特有规定", "id": "sw-8-3-3", "isNew": false, "newReason": ""}, {"name": "电子出版物的发展趋势", "id": "sw-8-3-4", "isNew": false, "newReason": ""}], "id": "sw-8-3", "isNew": false, "newReason": ""}, {"name": "第四节 电子出版物的编辑制作流程", "points": [{"name": "原创性电子出版物的编辑制作流程", "id": "sw-8-4-1", "isNew": false, "newReason": ""}, {"name": "纸质图书转化为电子书的编辑制作流程", "id": "sw-8-4-2", "isNew": false, "newReason": ""}, {"name": "引进版电子出版物的编辑制作流程", "id": "sw-8-4-3", "isNew": false, "newReason": ""}], "id": "sw-8-4", "isNew": false, "newReason": ""}], "id": "sw-8", "isNew": false, "newReason": ""}, {"name": "第九章 数字出版产品开发", "sections": [{"name": "第一节 数字出版产品策划", "points": [{"name": "数字出版产品策划概述", "id": "sw-9-1-1", "isNew": false, "newReason": ""}, {"name": "数字出版产品策划的基本流程", "id": "sw-9-1-2", "isNew": false, "newReason": ""}, {"name": "典型数字出版产品策划", "id": "sw-9-1-3", "isNew": false, "newReason": ""}], "id": "sw-9-1", "isNew": true, "newReason": "数字出版产品策划是数字出版产品开发的新增章节"}, {"name": "第二节 数字出版产品设计", "points": [{"name": "数字出版产品设计的概念", "id": "sw-9-2-1", "isNew": false, "newReason": ""}, {"name": "数字出版产品设计的基本流程", "id": "sw-9-2-2", "isNew": false, "newReason": ""}, {"name": "典型数字出版产品设计", "id": "sw-9-2-3", "isNew": false, "newReason": ""}], "id": "sw-9-2", "isNew": true, "newReason": "数字出版产品设计是数字出版产品开发的新增章节"}, {"name": "第三节 数字出版产品制作", "points": [{"name": "数字出版产品制作概述", "id": "sw-9-3-1", "isNew": false, "newReason": ""}, {"name": "数字出版产品制作基本流程", "id": "sw-9-3-2", "isNew": false, "newReason": ""}, {"name": "典型数字出版产品制作", "id": "sw-9-3-3", "isNew": false, "newReason": ""}, {"name": "数字出版产品制作管理", "id": "sw-9-3-4", "isNew": false, "newReason": ""}], "id": "sw-9-3", "isNew": true, "newReason": "数字出版产品制作是数字出版产品开发的新增章节"}], "id": "sw-9", "isNew": false, "newReason": ""}, {"name": "第十章 数字出版产品运营", "sections": [{"name": "第一节 数字出版产品运营概述", "points": [{"name": "数字出版产品运营的概念", "id": "sw-10-1-1", "isNew": false, "newReason": ""}, {"name": "数字出版产品的商业模式", "id": "sw-10-1-2", "isNew": false, "newReason": ""}, {"name": "数字出版产品销售模式", "id": "sw-10-1-3", "isNew": false, "newReason": ""}], "id": "sw-10-1", "isNew": true, "newReason": "数字出版产品运营概述是数字出版运营的新增章节"}, {"name": "第二节 数字出版产品运营的目标和主要方法", "points": [{"name": "数字出版产品运营的目标", "id": "sw-10-2-1", "isNew": false, "newReason": ""}, {"name": "数字出版产品运营的主要方法", "id": "sw-10-2-2", "isNew": false, "newReason": ""}], "id": "sw-10-2", "isNew": true, "newReason": "数字出版产品运营目标和方法是数字出版运营的新增章节"}, {"name": "第三节 数字出版产品运营的主要指标与分析方法", "points": [{"name": "主要运营指标", "id": "sw-10-3-1", "isNew": false, "newReason": ""}, {"name": "主要分析方法", "id": "sw-10-3-2", "isNew": false, "newReason": ""}], "id": "sw-10-3", "isNew": true, "newReason": "数字出版产品运营指标和分析方法是数字出版运营的新增章节"}, {"name": "第四节 数字出版产品的新媒体运营", "points": [{"name": "数字出版产品新媒体运营概述", "id": "sw-10-4-1", "isNew": false, "newReason": ""}, {"name": "数字出版产品典型新媒体运营形式", "id": "sw-10-4-2", "isNew": false, "newReason": ""}], "id": "sw-10-4", "isNew": true, "newReason": "数字出版产品的新媒体运营是数字出版运营的新增章节，突出新媒体运营"}], "id": "sw-10", "isNew": false, "newReason": ""}, {"name": "第十一章 出版物的成本与定价", "sections": [{"name": "第一节 出版物的成本及其构成", "points": [{"name": "出版物成本概述", "id": "sw-11-1-1", "isNew": false, "newReason": ""}, {"name": "出版物成本的总体构成", "id": "sw-11-1-2", "isNew": false, "newReason": ""}], "id": "sw-11-1", "isNew": false, "newReason": ""}, {"name": "第二节 出版物的本量利分析", "points": [{"name": "本量利分析概述", "id": "sw-11-2-1", "isNew": false, "newReason": ""}, {"name": "变动成本和固定成本", "id": "sw-11-2-2", "isNew": false, "newReason": ""}, {"name": "本量利分析的基本公式及其应用", "id": "sw-11-2-3", "isNew": false, "newReason": ""}], "id": "sw-11-2", "isNew": false, "newReason": ""}, {"name": "第三节 出版物定价与毛利预测", "points": [{"name": "影响出版物定价的因素", "id": "sw-11-3-1", "isNew": false, "newReason": ""}, {"name": "出版物定价目标", "id": "sw-11-3-2", "isNew": false, "newReason": ""}, {"name": "出版物定价方法", "id": "sw-11-3-3", "isNew": false, "newReason": ""}, {"name": "出版物毛利预测", "id": "sw-11-3-4", "isNew": false, "newReason": ""}], "id": "sw-11-3", "isNew": false, "newReason": ""}, {"name": "第四节 数字出版产品的成本构成和定价", "points": [{"name": "数字出版产品的成本构成", "id": "sw-11-4-1", "isNew": false, "newReason": ""}, {"name": "数字出版产品的成本分类", "id": "sw-11-4-2", "isNew": false, "newReason": ""}, {"name": "数字出版产品的定价", "id": "sw-11-4-3", "isNew": false, "newReason": ""}], "id": "sw-11-4", "isNew": true, "newReason": "数字出版产品的成本构成和定价是近年新增内容"}], "id": "sw-11", "isNew": false, "newReason": ""}, {"name": "第十二章 国际出版合作与中国出版“走出去”", "sections": [{"name": "第一节 国外出版概况", "points": [{"name": "国外出版基本格局", "id": "sw-12-1-1", "isNew": false, "newReason": ""}, {"name": "国外知名出版机构", "id": "sw-12-1-2", "isNew": false, "newReason": ""}, {"name": "主要国际出版相关组织", "id": "sw-12-1-3", "isNew": false, "newReason": ""}, {"name": "国外主要国际书展", "id": "sw-12-1-4", "isNew": false, "newReason": ""}], "id": "sw-12-1", "isNew": false, "newReason": ""}, {"name": "第二节 著作权贸易", "points": [{"name": "著作权贸易概述", "id": "sw-12-2-1", "isNew": false, "newReason": ""}, {"name": "著作权贸易的具体实施", "id": "sw-12-2-2", "isNew": false, "newReason": ""}, {"name": "著作权贸易合同及其履行", "id": "sw-12-2-3", "isNew": false, "newReason": ""}], "id": "sw-12-2", "isNew": false, "newReason": ""}, {"name": "第三节 中国出版“走出去”", "points": [{"name": "国际出版合作的概念", "id": "sw-12-3-1", "isNew": false, "newReason": ""}, {"name": "国际出版合作的主要形式", "id": "sw-12-3-2", "isNew": false, "newReason": ""}, {"name": "中国出版“走出去”重点项目", "id": "sw-12-3-3", "isNew": false, "newReason": ""}], "id": "sw-12-3", "isNew": true, "newReason": "中国出版“走出去”是近年重点强化的国际合作内容"}], "id": "sw-12", "isNew": false, "newReason": ""}, {"name": "第十三章 编辑应用文写作", "sections": [{"name": "第一节 编辑应用文概述", "points": [{"name": "编辑应用文的概念", "id": "sw-13-1-1", "isNew": false, "newReason": ""}, {"name": "编辑应用文的特点", "id": "sw-13-1-2", "isNew": false, "newReason": ""}, {"name": "撰写编辑应用文的基本要求", "id": "sw-13-1-3", "isNew": false, "newReason": ""}], "id": "sw-13-1", "isNew": false, "newReason": ""}, {"name": "第二节 内部编辑业务文件", "points": [{"name": "选题报告", "id": "sw-13-2-1", "isNew": false, "newReason": ""}, {"name": "编辑计划", "id": "sw-13-2-2", "isNew": false, "newReason": ""}, {"name": "审稿意见", "id": "sw-13-2-3", "isNew": false, "newReason": ""}], "id": "sw-13-2", "isNew": false, "newReason": ""}, {"name": "第三节 编辑工作书信", "points": [{"name": "约稿信", "id": "sw-13-3-1", "isNew": false, "newReason": ""}, {"name": "退修信", "id": "sw-13-3-2", "isNew": false, "newReason": ""}, {"name": "退稿信", "id": "sw-13-3-3", "isNew": false, "newReason": ""}, {"name": "日常联系信", "id": "sw-13-3-4", "isNew": false, "newReason": ""}, {"name": "答读者信", "id": "sw-13-3-5", "isNew": false, "newReason": ""}], "id": "sw-13-3", "isNew": false, "newReason": ""}, {"name": "第四节 书刊辅文", "points": [{"name": "作者简介", "id": "sw-13-4-1", "isNew": false, "newReason": ""}, {"name": "内容提要", "id": "sw-13-4-2", "isNew": false, "newReason": ""}, {"name": "出版前言", "id": "sw-13-4-3", "isNew": false, "newReason": ""}, {"name": "编者按", "id": "sw-13-4-4", "isNew": false, "newReason": ""}, {"name": "凡例", "id": "sw-13-4-5", "isNew": false, "newReason": ""}, {"name": "出版后记", "id": "sw-13-4-6", "isNew": false, "newReason": ""}], "id": "sw-13-4", "isNew": false, "newReason": ""}, {"name": "第五节 出版物宣传文字", "points": [{"name": "出版消息", "id": "sw-13-5-1", "isNew": false, "newReason": ""}, {"name": "出版物广告文字", "id": "sw-13-5-2", "isNew": false, "newReason": ""}, {"name": "出版物评论", "id": "sw-13-5-3", "isNew": false, "newReason": ""}, {"name": "新媒体宣传文案", "id": "sw-13-5-4", "isNew": true, "newReason": "新媒体宣传文案是新媒体运营在宣传中的新增应用"}], "id": "sw-13-5", "isNew": true, "newReason": "新媒体宣传文案是新媒体运营在宣传中的新增应用"}], "id": "sw-13", "isNew": false, "newReason": ""}]}]}
+{
+ "subjects": [
+  {
+   "id": "jc",
+   "name": "出版专业基础",
+   "chapters": [
+    {
+     "name": "第一章 出版、出版物与出版工作",
+     "sections": [
+      {
+       "name": "第一节 出版概述",
+       "points": [
+        {
+         "name": "出版的基本内涵",
+         "id": "jc-1-1-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版活动的构成要素和一般过程",
+         "id": "jc-1-1-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "开展出版活动的条件",
+         "id": "jc-1-1-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版活动与社会的关系",
+         "id": "jc-1-1-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-1-1",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第二节 出版物",
+       "points": [
+        {
+         "name": "出版物的属性",
+         "id": "jc-1-2-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版物的种类",
+         "id": "jc-1-2-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版物标识",
+         "id": "jc-1-2-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-1-2",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第三节 我国出版业",
+       "points": [
+        {
+         "name": "我国出版业概述",
+         "id": "jc-1-3-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版机构和出版工作者",
+         "id": "jc-1-3-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "我国出版产业概述",
+         "id": "jc-1-3-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "我国出版学概述",
+         "id": "jc-1-3-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-1-3",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第四节 出版融合发展",
+       "points": [
+        {
+         "name": "出版融合发展概述",
+         "id": "jc-1-4-1",
+         "isNew": true,
+         "newReason": "出版融合发展是2020年代新增章节，体现数字化融合战略。"
+        },
+        {
+         "name": "出版融合发展的实践路径",
+         "id": "jc-1-4-2",
+         "isNew": true,
+         "newReason": "出版融合发展是2020年代新增章节，体现数字化融合战略。"
+        },
+        {
+         "name": "推动出版深度融合发展",
+         "id": "jc-1-4-3",
+         "isNew": true,
+         "newReason": "响应中央关于出版深度融合发展政策，属于近年强化内容。"
+        }
+       ],
+       "id": "jc-1-4",
+       "isNew": true,
+       "newReason": "响应中央关于出版深度融合发展政策，属于近年强化内容。"
+      },
+      {
+       "name": "第五节 我国出版工作的指导思想、方针原则和主要任务",
+       "points": [
+        {
+         "name": "我国出版工作的指导思想",
+         "id": "jc-1-5-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "我国出版工作的方针原则",
+         "id": "jc-1-5-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "我国出版工作的主要任务",
+         "id": "jc-1-5-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-1-5",
+       "isNew": false,
+       "newReason": ""
+      }
+     ],
+     "id": "jc-1",
+     "isNew": false,
+     "newReason": ""
+    },
+    {
+     "name": "第二章 数字出版基础",
+     "sections": [
+      {
+       "name": "第一节 数字出版概述",
+       "points": [
+        {
+         "name": "数字出版及其发展历程",
+         "id": "jc-2-1-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "数字出版产品与服务",
+         "id": "jc-2-1-2",
+         "isNew": true,
+         "newReason": "数字出版产品与服务是数字出版新增知识点。"
+        },
+        {
+         "name": "数字出版的影响",
+         "id": "jc-2-1-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-2-1",
+       "isNew": true,
+       "newReason": "数字出版产品与服务是数字出版新增知识点。"
+      },
+      {
+       "name": "第二节 数字出版产业与管理",
+       "points": [
+        {
+         "name": "数字出版产业概念与特征",
+         "id": "jc-2-2-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "数字出版产业现状",
+         "id": "jc-2-2-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "数字出版产业管理",
+         "id": "jc-2-2-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-2-2",
+       "isNew": true,
+       "newReason": "数字出版产业管理为近年新增内容。"
+      },
+      {
+       "name": "第三节 数字出版技术基础",
+       "points": [
+        {
+         "name": "数字出版技术的作用",
+         "id": "jc-2-3-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "常用数字出版技术",
+         "id": "jc-2-3-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "常用数字出版标准",
+         "id": "jc-2-3-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "常用数字出版系统",
+         "id": "jc-2-3-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-2-3",
+       "isNew": true,
+       "newReason": "数字出版技术基础为新增章节，强调常用数字出版技术与标准。"
+      }
+     ],
+     "id": "jc-2",
+     "isNew": true,
+     "newReason": "数字出版基础整章为近年新增，涵盖数字出版产品、技术、产业管理等新内容。"
+    },
+    {
+     "name": "第三章 编辑与编辑工作",
+     "sections": [
+      {
+       "name": "第一节 编辑概述",
+       "points": [
+        {
+         "name": "编辑概念",
+         "id": "jc-3-1-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "编辑工作的重要性",
+         "id": "jc-3-1-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "编辑工作的基本特点",
+         "id": "jc-3-1-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "编辑工作的基本功能",
+         "id": "jc-3-1-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-3-1",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第二节 编辑过程",
+       "points": [
+        {
+         "name": "编辑过程的基本环节",
+         "id": "jc-3-2-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "编辑过程的一些特殊情况",
+         "id": "jc-3-2-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "编辑过程各环节的相互关系",
+         "id": "jc-3-2-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-3-2",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第三节 编辑人员",
+       "points": [
+        {
+         "name": "编辑人员的构成",
+         "id": "jc-3-3-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "编辑人员的职责使命",
+         "id": "jc-3-3-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "编辑人员的素养要求",
+         "id": "jc-3-3-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "编辑人员的知识要求",
+         "id": "jc-3-3-4",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "编辑人员的能力要求",
+         "id": "jc-3-3-5",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-3-3",
+       "isNew": false,
+       "newReason": ""
+      }
+     ],
+     "id": "jc-3",
+     "isNew": false,
+     "newReason": ""
+    },
+    {
+     "name": "第四章 党和国家对出版的管理",
+     "sections": [
+      {
+       "name": "第一节 出版管理概述",
+       "points": [
+        {
+         "name": "出版管理的概念",
+         "id": "jc-4-1-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "依法依规实施出版管理",
+         "id": "jc-4-1-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "我国的出版管理体系",
+         "id": "jc-4-1-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-4-1",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第二节 出版准入制度",
+       "points": [
+        {
+         "name": "法人准入",
+         "id": "jc-4-2-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "产品准入",
+         "id": "jc-4-2-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "职业准入",
+         "id": "jc-4-2-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "岗位准入",
+         "id": "jc-4-2-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-4-2",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第三节 对出版业活动的管理",
+       "points": [
+        {
+         "name": "重大选题备案管理制度",
+         "id": "jc-4-3-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版物质量管理制度",
+         "id": "jc-4-3-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "书号刊号版号管理制度",
+         "id": "jc-4-3-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "其他重要管理制度",
+         "id": "jc-4-3-4",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版活动中违法违规行为的法律责任",
+         "id": "jc-4-3-5",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-4-3",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第四节 对出版活动的扶持政策和奖励措施",
+       "points": [
+        {
+         "name": "组织和扶持国家重大出版工程",
+         "id": "jc-4-4-1",
+         "isNew": true,
+         "newReason": "2026 教材强调国家重点出版工程扶持政策（近年新增强化）"
+        },
+        {
+         "name": "实施国家重点出版物出版规划",
+         "id": "jc-4-4-2",
+         "isNew": true,
+         "newReason": "国家重点出版物出版规划为近年出版管理重点"
+        },
+        {
+         "name": "设立专项资金",
+         "id": "jc-4-4-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "扶持少数民族语言文字出版",
+         "id": "jc-4-4-4",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "设立多种奖项",
+         "id": "jc-4-4-5",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "实施财税优惠政策",
+         "id": "jc-4-4-6",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-4-4",
+       "isNew": false,
+       "newReason": ""
+      }
+     ],
+     "id": "jc-4",
+     "isNew": false,
+     "newReason": ""
+    },
+    {
+     "name": "第五章 出版单位经营管理",
+     "sections": [
+      {
+       "name": "第一节 出版单位经营管理概述",
+       "points": [
+        {
+         "name": "出版单位经营管理的含义",
+         "id": "jc-5-1-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版单位经营的目标和决策",
+         "id": "jc-5-1-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版单位管理的职能和种类",
+         "id": "jc-5-1-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版单位经营管理信息化、智能化",
+         "id": "jc-5-1-4",
+         "isNew": true,
+         "newReason": "经营管理信息化、智能化是近年强化内容，融合数字技术与管理。"
+        }
+       ],
+       "id": "jc-5-1",
+       "isNew": true,
+       "newReason": "经营管理信息化、智能化是近年强化内容，融合数字技术与管理。"
+      },
+      {
+       "name": "第二节 出版单位计划管理",
+       "points": [
+        {
+         "name": "出版单位计划的作用",
+         "id": "jc-5-2-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版单位计划管理的内容",
+         "id": "jc-5-2-2",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-5-2",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第三节 出版物全面质量管理",
+       "points": [
+        {
+         "name": "出版物全面质量管理的意义和作用",
+         "id": "jc-5-3-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版物全面质量管理的措施",
+         "id": "jc-5-3-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版物质量保障的社会监督",
+         "id": "jc-5-3-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-5-3",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第四节 出版单位人力资源管理",
+       "points": [
+        {
+         "name": "以全员劳动合同制为基础的用人制度",
+         "id": "jc-5-4-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "专业技术职务岗位聘用制度",
+         "id": "jc-5-4-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "岗位培训和人力资源开发",
+         "id": "jc-5-4-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "形式多样、自主灵活的分配激励机制",
+         "id": "jc-5-4-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-5-4",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第五节 出版单位财务管理",
+       "points": [
+        {
+         "name": "出版单位财务管理的目标和内容",
+         "id": "jc-5-5-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版单位的成本管理",
+         "id": "jc-5-5-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版单位的纳税管理",
+         "id": "jc-5-5-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-5-5",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第六节 出版单位其他管理",
+       "points": [
+        {
+         "name": "生产流程管理",
+         "id": "jc-5-6-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "发行管理",
+         "id": "jc-5-6-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "版权资产管理和品牌形象管理",
+         "id": "jc-5-6-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "档案管理和信息管理",
+         "id": "jc-5-6-4",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "行政管理",
+         "id": "jc-5-6-5",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-5-6",
+       "isNew": false,
+       "newReason": ""
+      }
+     ],
+     "id": "jc-5",
+     "isNew": false,
+     "newReason": ""
+    },
+    {
+     "name": "第六章 数字内容资源",
+     "sections": [
+      {
+       "name": "第一节 数字内容资源概述与类型",
+       "points": [
+        {
+         "name": "数字内容资源概述",
+         "id": "jc-6-1-1",
+         "isNew": true,
+         "newReason": "数字内容资源概念与类型为近年新增知识点。"
+        },
+        {
+         "name": "数字内容资源类型",
+         "id": "jc-6-1-2",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-6-1",
+       "isNew": true,
+       "newReason": "数字内容资源概念与类型为近年新增知识点。"
+      },
+      {
+       "name": "第二节 数字内容资源加工",
+       "points": [
+        {
+         "name": "数字内容资源加工环节",
+         "id": "jc-6-2-1",
+         "isNew": true,
+         "newReason": "数字内容资源加工流程为新增内容。"
+        },
+        {
+         "name": "书刊内容资源加工流程",
+         "id": "jc-6-2-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "音视频资源的加工流程",
+         "id": "jc-6-2-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "数字内容资源的标引",
+         "id": "jc-6-2-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-6-2",
+       "isNew": true,
+       "newReason": "数字内容资源加工流程为新增内容。"
+      },
+      {
+       "name": "第三节 数字内容资源管理模式与流程",
+       "points": [
+        {
+         "name": "管理模式",
+         "id": "jc-6-3-1",
+         "isNew": true,
+         "newReason": "数字内容资源管理为新增内容。"
+        },
+        {
+         "name": "管理流程",
+         "id": "jc-6-3-2",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-6-3",
+       "isNew": true,
+       "newReason": "数字内容资源管理为新增内容。"
+      }
+     ],
+     "id": "jc-6",
+     "isNew": false,
+     "newReason": ""
+    },
+    {
+     "name": "第七章 出版历史知识",
+     "sections": [
+      {
+       "name": "第一节 文字书写系统及其载体",
+       "points": [
+        {
+         "name": "文字",
+         "id": "jc-7-1-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "早期文字载体",
+         "id": "jc-7-1-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "纸的发明及其传播",
+         "id": "jc-7-1-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "文本生产及复制方式",
+         "id": "jc-7-1-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-7-1",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第二节 印刷术的发明、发展与传播",
+       "points": [
+        {
+         "name": "印刷术的先驱技术",
+         "id": "jc-7-2-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "印刷术的发明与发展",
+         "id": "jc-7-2-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "中国印刷术向域外的传播",
+         "id": "jc-7-2-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-7-2",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第三节 古代图书的生产与流通",
+       "points": [
+        {
+         "name": "古代的图书",
+         "id": "jc-7-3-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "古代的刻书业",
+         "id": "jc-7-3-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "古代刻书业的编辑工作",
+         "id": "jc-7-3-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "古代书市和图书流通",
+         "id": "jc-7-3-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-7-3",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第四节 近现代印刷业的发展",
+       "points": [
+        {
+         "name": "西方印刷技术的引进与应用",
+         "id": "jc-7-4-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "印刷机械化的发展",
+         "id": "jc-7-4-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "新技术对图书形态的影响",
+         "id": "jc-7-4-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-7-4",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第五节 近现代出版活动",
+       "points": [
+        {
+         "name": "近代出版机构的形成",
+         "id": "jc-7-5-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "近代出版机构的发展",
+         "id": "jc-7-5-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "近代出版物",
+         "id": "jc-7-5-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-7-5",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第六节 新中国成立前我党领导的出版活动",
+       "points": [
+        {
+         "name": "建党前后的出版活动",
+         "id": "jc-7-6-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "土地革命战争时期的红色出版",
+         "id": "jc-7-6-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "抗战时期我党领导的出版活动",
+         "id": "jc-7-6-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "解放战争时期我党领导的出版活动",
+         "id": "jc-7-6-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-7-6",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第七节 新中国出版业的发展",
+       "points": [
+        {
+         "name": "新中国出版业的组建",
+         "id": "jc-7-7-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "新中国出版业的曲折发展",
+         "id": "jc-7-7-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "改革开放与出版业的繁荣",
+         "id": "jc-7-7-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "新时代我国出版业的高质量发展",
+         "id": "jc-7-7-4",
+         "isNew": true,
+         "newReason": "新时代出版业高质量发展为近年新增，反映高质量发展主题。"
+        }
+       ],
+       "id": "jc-7-7",
+       "isNew": true,
+       "newReason": "新时代出版业高质量发展为近年新增，反映高质量发展主题。"
+      }
+     ],
+     "id": "jc-7",
+     "isNew": false,
+     "newReason": ""
+    },
+    {
+     "name": "第八章 著作权知识",
+     "sections": [
+      {
+       "name": "第一节 著作权与著作权法概述",
+       "points": [
+        {
+         "name": "著作权",
+         "id": "jc-8-1-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "著作权法",
+         "id": "jc-8-1-2",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-8-1",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第二节 著作权的客体与主体",
+       "points": [
+        {
+         "name": "著作权的客体",
+         "id": "jc-8-2-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "著作权的主体",
+         "id": "jc-8-2-2",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-8-2",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第三节 著作权的内容、归属与保护期",
+       "points": [
+        {
+         "name": "著作权的内容",
+         "id": "jc-8-3-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "著作权的归属",
+         "id": "jc-8-3-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "著作权的取得与保护期",
+         "id": "jc-8-3-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-8-3",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第四节 邻接权",
+       "points": [
+        {
+         "name": "概述",
+         "id": "jc-8-4-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "我国著作权法邻接权的种类与内容",
+         "id": "jc-8-4-2",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-8-4",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第五节 著作权的使用与限制",
+       "points": [
+        {
+         "name": "著作权的使用",
+         "id": "jc-8-5-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "著作权限制",
+         "id": "jc-8-5-2",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-8-5",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第六节 著作权纠纷与法律保护",
+       "points": [
+        {
+         "name": "著作权纠纷类型与处理方法",
+         "id": "jc-8-6-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "著作权违约与法律责任",
+         "id": "jc-8-6-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "著作权技术措施保护",
+         "id": "jc-8-6-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "著作权侵权与法律责任",
+         "id": "jc-8-6-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-8-6",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第七节 出版单位与著作权",
+       "points": [
+        {
+         "name": "依法保护著作权人的权利",
+         "id": "jc-8-7-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "依法保护出版单位的权利",
+         "id": "jc-8-7-2",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-8-7",
+       "isNew": false,
+       "newReason": ""
+      }
+     ],
+     "id": "jc-8",
+     "isNew": false,
+     "newReason": ""
+    },
+    {
+     "name": "第九章 出版物的文字规范",
+     "sections": [
+      {
+       "name": "第一节 汉字常识和汉字使用规范",
+       "points": [
+        {
+         "name": "汉字的特点",
+         "id": "jc-9-1-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "汉字的笔画、偏旁、部首和笔顺",
+         "id": "jc-9-1-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "汉字的整理和标准化",
+         "id": "jc-9-1-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "汉字使用规范",
+         "id": "jc-9-1-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-9-1",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第二节 汉语拼音与语音规范",
+       "points": [
+        {
+         "name": "《汉语拼音方案》",
+         "id": "jc-9-2-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "汉语拼音拼写规则",
+         "id": "jc-9-2-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "汉语语音规范",
+         "id": "jc-9-2-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-9-2",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第三节 标点符号及其使用规范",
+       "points": [
+        {
+         "name": "标点符号的作用和种类",
+         "id": "jc-9-3-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "标点符号的使用规范",
+         "id": "jc-9-3-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "夹用英文的中文出版物对标点符号的规范使用",
+         "id": "jc-9-3-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "常见的标点符号使用错误",
+         "id": "jc-9-3-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-9-3",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第四节 数字与计量单位使用规范",
+       "points": [
+        {
+         "name": "数字用法",
+         "id": "jc-9-4-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "常见的数字用法错误",
+         "id": "jc-9-4-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "计量单位",
+         "id": "jc-9-4-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "常见的量和单位使用错误",
+         "id": "jc-9-4-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-9-4",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第五节 科技名词使用规范",
+       "points": [
+        {
+         "name": "科技名词的特点",
+         "id": "jc-9-5-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "科技名词规范的进程",
+         "id": "jc-9-5-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "科技名词的规范使用",
+         "id": "jc-9-5-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "常见的科技名词使用错误",
+         "id": "jc-9-5-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-9-5",
+       "isNew": false,
+       "newReason": ""
+      }
+     ],
+     "id": "jc-9",
+     "isNew": false,
+     "newReason": ""
+    },
+    {
+     "name": "第十章 汉语语法与修辞知识",
+     "sections": [
+      {
+       "name": "第一节 词汇",
+       "points": [
+        {
+         "name": "词的构成",
+         "id": "jc-10-1-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "词形、词音和词义",
+         "id": "jc-10-1-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "常见词语使用错误的纠正",
+         "id": "jc-10-1-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-10-1",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第二节 词的分类",
+       "points": [
+        {
+         "name": "实词",
+         "id": "jc-10-2-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "虚词",
+         "id": "jc-10-2-2",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-10-2",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第三节 短语和句子",
+       "points": [
+        {
+         "name": "短语",
+         "id": "jc-10-3-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "句子及其成分",
+         "id": "jc-10-3-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "单句及其运用",
+         "id": "jc-10-3-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "复句及其运用",
+         "id": "jc-10-3-4",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "常见语法错误的纠正",
+         "id": "jc-10-3-5",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-10-3",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第四节 常见修辞方式",
+       "points": [
+        {
+         "name": "常见的汉语修辞方式",
+         "id": "jc-10-4-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "修辞方式的综合运用",
+         "id": "jc-10-4-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "常见的修辞错误",
+         "id": "jc-10-4-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-10-4",
+       "isNew": false,
+       "newReason": ""
+      }
+     ],
+     "id": "jc-10",
+     "isNew": false,
+     "newReason": ""
+    },
+    {
+     "name": "第十一章 形式逻辑常识",
+     "sections": [
+      {
+       "name": "第一节 概念",
+       "points": [
+        {
+         "name": "什么是概念",
+         "id": "jc-11-1-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "概念的内涵和外延",
+         "id": "jc-11-1-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "概念的种类",
+         "id": "jc-11-1-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "概念之间的关系",
+         "id": "jc-11-1-4",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "概念的限制、概括和划分",
+         "id": "jc-11-1-5",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "常见的运用概念时的错误",
+         "id": "jc-11-1-6",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-11-1",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第二节 判断",
+       "points": [
+        {
+         "name": "什么是判断",
+         "id": "jc-11-2-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "几种主要判断类型",
+         "id": "jc-11-2-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "常见的运用判断时的错误",
+         "id": "jc-11-2-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-11-2",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第三节 推理",
+       "points": [
+        {
+         "name": "什么是推理",
+         "id": "jc-11-3-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "推理的种类",
+         "id": "jc-11-3-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "常见的运用推理时的错误",
+         "id": "jc-11-3-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-11-3",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第四节 论证",
+       "points": [
+        {
+         "name": "什么是论证",
+         "id": "jc-11-4-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "论证的种类",
+         "id": "jc-11-4-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "常见的运用论证时的错误",
+         "id": "jc-11-4-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-11-4",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第五节 逻辑思维的基本规律",
+       "points": [
+        {
+         "name": "逻辑思维的三条基本规律",
+         "id": "jc-11-5-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "常见的运用逻辑思维基本规律时的错误",
+         "id": "jc-11-5-2",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-11-5",
+       "isNew": false,
+       "newReason": ""
+      }
+     ],
+     "id": "jc-11",
+     "isNew": false,
+     "newReason": ""
+    },
+    {
+     "name": "第十二章 古代汉语与中国古代文化常识",
+     "sections": [
+      {
+       "name": "第一节 古代汉语与中国古代文化概述",
+       "points": [
+        {
+         "name": "古代汉语的形成及基本特点",
+         "id": "jc-12-1-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "中国古代文化的形成及特点",
+         "id": "jc-12-1-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "名物典章制度与古代文献阅读",
+         "id": "jc-12-1-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-12-1",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第二节 古代汉语知识",
+       "points": [
+        {
+         "name": "字词基本知识",
+         "id": "jc-12-2-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "实词活用",
+         "id": "jc-12-2-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "常用虚词",
+         "id": "jc-12-2-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "特殊句法",
+         "id": "jc-12-2-4",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "古文的标点与今译",
+         "id": "jc-12-2-5",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-12-2",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第三节 中国古代名物典章制度",
+       "points": [
+        {
+         "name": "天文、历法",
+         "id": "jc-12-3-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "地理、政区",
+         "id": "jc-12-3-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "官制、科举",
+         "id": "jc-12-3-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "姓名、称谓",
+         "id": "jc-12-3-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-12-3",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第四节 儒释道文化",
+       "points": [
+        {
+         "name": "儒家文化",
+         "id": "jc-12-4-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "佛教文化",
+         "id": "jc-12-4-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "道家道教文化",
+         "id": "jc-12-4-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-12-4",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第五节 中国古代文学",
+       "points": [
+        {
+         "name": "《诗经》和《楚辞》",
+         "id": "jc-12-5-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "汉魏晋赋与文",
+         "id": "jc-12-5-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "唐诗宋词",
+         "id": "jc-12-5-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "元曲与杂剧",
+         "id": "jc-12-5-4",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "明清小说",
+         "id": "jc-12-5-5",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-12-5",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第六节 中国传统典籍",
+       "points": [
+        {
+         "name": "古代图书分类",
+         "id": "jc-12-6-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "经史子集概说",
+         "id": "jc-12-6-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "版本知识",
+         "id": "jc-12-6-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "藏书传统",
+         "id": "jc-12-6-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "jc-12-6",
+       "isNew": false,
+       "newReason": ""
+      }
+     ],
+     "id": "jc-12",
+     "isNew": false,
+     "newReason": ""
+    },
+    {
+     "id": "jc-13",
+     "name": "第十三章 有关出版的法律法规和标准规范",
+     "isNew": true,
+     "newReason": "2026大纲新增模块",
+     "sections": [
+      {
+       "id": "jc-13-1",
+       "name": "第一节 出版法律法规体系",
+       "isNew": true,
+       "newReason": "2026大纲新增",
+       "points": [
+        {
+         "id": "jc-13-1-1",
+         "name": "我国出版法律法规体系",
+         "isNew": true,
+         "newReason": "2026大纲新增"
+        },
+        {
+         "id": "jc-13-1-2",
+         "name": "出版专项法规与规章",
+         "isNew": true,
+         "newReason": "2026大纲新增"
+        },
+        {
+         "id": "jc-13-1-3",
+         "name": "出版相关标准规范",
+         "isNew": true,
+         "newReason": "2026大纲新增"
+        }
+       ]
+      },
+      {
+       "id": "jc-13-2",
+       "name": "第二节 年度新颁布法规动态",
+       "isNew": true,
+       "newReason": "2026大纲新增",
+       "points": [
+        {
+         "id": "jc-13-2-1",
+         "name": "上一年度新颁布的出版法律法规",
+         "isNew": true,
+         "newReason": "2026大纲新增"
+        },
+        {
+         "id": "jc-13-2-2",
+         "name": "新颁布标准规范要点",
+         "isNew": true,
+         "newReason": "2026大纲新增"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jc-14",
+     "name": "第十四章 时事政治",
+     "isNew": true,
+     "newReason": "2026大纲新增模块",
+     "sections": [
+      {
+       "id": "jc-14-1",
+       "name": "第一节 习近平新时代中国特色社会主义思想与重要精神",
+       "isNew": true,
+       "newReason": "2026大纲新增",
+       "points": [
+        {
+         "id": "jc-14-1-1",
+         "name": "习近平新时代中国特色社会主义思想",
+         "isNew": true,
+         "newReason": "2026大纲新增"
+        },
+        {
+         "id": "jc-14-1-2",
+         "name": "习近平文化思想",
+         "isNew": true,
+         "newReason": "2026大纲新增"
+        },
+        {
+         "id": "jc-14-1-3",
+         "name": "党的二十大精神要点",
+         "isNew": true,
+         "newReason": "2026大纲新增"
+        },
+        {
+         "id": "jc-14-1-4",
+         "name": "二十届四中全会精神要点",
+         "isNew": true,
+         "newReason": "2026大纲新增"
+        }
+       ]
+      },
+      {
+       "id": "jc-14-2",
+       "name": "第二节 年度重大时事",
+       "isNew": true,
+       "newReason": "2026大纲新增",
+       "points": [
+        {
+         "id": "jc-14-2-1",
+         "name": "国内重大时事",
+         "isNew": true,
+         "newReason": "2026大纲新增"
+        },
+        {
+         "id": "jc-14-2-2",
+         "name": "国际重大时事",
+         "isNew": true,
+         "newReason": "2026大纲新增"
+        },
+        {
+         "id": "jc-14-2-3",
+         "name": "重大时事的意义和影响",
+         "isNew": true,
+         "newReason": "2026大纲新增"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sw",
+   "name": "出版专业实务",
+   "chapters": [
+    {
+     "name": "第一章 出版物选题策划",
+     "sections": [
+      {
+       "name": "第一节 选题策划概述",
+       "points": [
+        {
+         "name": "选题与选题策划",
+         "id": "sw-1-1-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "选题策划工作的原则与要求",
+         "id": "sw-1-1-2",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-1-1",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第二节 信息采集与分析",
+       "points": [
+        {
+         "name": "需要采集的信息内容",
+         "id": "sw-1-2-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "信息采集的主要方式",
+         "id": "sw-1-2-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "信息的分析处理",
+         "id": "sw-1-2-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-1-2",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第三节 选题设计",
+       "points": [
+        {
+         "name": "构思出版物的内容和形式",
+         "id": "sw-1-3-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "设计选题实施方案",
+         "id": "sw-1-3-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "设计出版物营销方案",
+         "id": "sw-1-3-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-1-3",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第四节 选题立项",
+       "points": [
+        {
+         "name": "选题的申报",
+         "id": "sw-1-4-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "选题的论证",
+         "id": "sw-1-4-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "选题的优化",
+         "id": "sw-1-4-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "立项选题的管理",
+         "id": "sw-1-4-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-1-4",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第五节 选题计划",
+       "points": [
+        {
+         "name": "选题计划的内容与类型",
+         "id": "sw-1-5-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "选题计划的结构",
+         "id": "sw-1-5-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "选题计划的特点",
+         "id": "sw-1-5-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "选题计划的制订与调整",
+         "id": "sw-1-5-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-1-5",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第六节 组稿",
+       "points": [
+        {
+         "name": "稿件的来源",
+         "id": "sw-1-6-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "组稿的方式",
+         "id": "sw-1-6-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "组稿的步骤",
+         "id": "sw-1-6-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "约稿后的工作",
+         "id": "sw-1-6-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-1-6",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第七节 主题出版的选题策划",
+       "points": [
+        {
+         "name": "主题出版的概念与发展",
+         "id": "sw-1-7-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "主题出版的任务",
+         "id": "sw-1-7-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "主题出版选题策划的方法",
+         "id": "sw-1-7-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-1-7",
+       "isNew": true,
+       "newReason": "主题出版是近年教材新增和强化的选题策划内容"
+      },
+      {
+       "name": "第八节 国家重点出版项目的策划",
+       "points": [
+        {
+         "name": "国家重点出版项目概述",
+         "id": "sw-1-8-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "国家重点出版项目的策划",
+         "id": "sw-1-8-2",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-1-8",
+       "isNew": true,
+       "newReason": "国家重点出版项目策划是近年教材新增和强化的内容"
+      }
+     ],
+     "id": "sw-1",
+     "isNew": false,
+     "newReason": ""
+    },
+    {
+     "name": "第二章 图书编辑出版",
+     "sections": [
+      {
+       "name": "第一节 审稿与签订图书出版合同",
+       "points": [
+        {
+         "name": "审稿的作用",
+         "id": "sw-2-1-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "审稿制度",
+         "id": "sw-2-1-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "外审",
+         "id": "sw-2-1-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "审稿要求",
+         "id": "sw-2-1-4",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "审稿的基本方法",
+         "id": "sw-2-1-5",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "审稿意见及稿件处理",
+         "id": "sw-2-1-6",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "签订出版合同",
+         "id": "sw-2-1-7",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-2-1",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第二节 编辑加工整理",
+       "points": [
+        {
+         "name": "编辑加工整理的作用和原则",
+         "id": "sw-2-2-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "编辑加工整理的步骤与方法",
+         "id": "sw-2-2-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "图书稿件编辑加工整理的内容",
+         "id": "sw-2-2-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-2-2",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第三节 审定发稿",
+       "points": [
+        {
+         "name": "发稿的基本要求",
+         "id": "sw-2-3-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "稿件整理",
+         "id": "sw-2-3-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "稿件送审和发稿",
+         "id": "sw-2-3-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-2-3",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第四节 发稿后编辑的工作",
+       "points": [
+        {
+         "name": "校样处理",
+         "id": "sw-2-4-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "样书检查",
+         "id": "sw-2-4-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "参与营销宣传",
+         "id": "sw-2-4-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "收集反馈信息",
+         "id": "sw-2-4-4",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "建立书稿档案",
+         "id": "sw-2-4-5",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-2-4",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第五节 图书重印与再版",
+       "points": [
+        {
+         "name": "图书的重印",
+         "id": "sw-2-5-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "图书的再版",
+         "id": "sw-2-5-2",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-2-5",
+       "isNew": false,
+       "newReason": ""
+      }
+     ],
+     "id": "sw-2",
+     "isNew": false,
+     "newReason": ""
+    },
+    {
+     "name": "第三章 期刊编辑出版",
+     "sections": [
+      {
+       "name": "第一节 期刊概述",
+       "points": [
+        {
+         "name": "期刊的定义和构成要素",
+         "id": "sw-3-1-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "期刊的特点",
+         "id": "sw-3-1-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "期刊的分类",
+         "id": "sw-3-1-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "期刊的定位",
+         "id": "sw-3-1-4",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "国家关于期刊的管理规定",
+         "id": "sw-3-1-5",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-3-1",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第二节 期刊的编辑工作",
+       "points": [
+        {
+         "name": "期刊编辑工作的总体特点",
+         "id": "sw-3-2-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "期刊的选题策划",
+         "id": "sw-3-2-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "期刊的组稿",
+         "id": "sw-3-2-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "期刊的审稿",
+         "id": "sw-3-2-4",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "期刊的编辑加工",
+         "id": "sw-3-2-5",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "期刊的稿件管理",
+         "id": "sw-3-2-6",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-3-2",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第三节 学术期刊的编辑出版",
+       "points": [
+        {
+         "name": "学术期刊的知识创新价值",
+         "id": "sw-3-3-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "学术期刊的编辑规范化要求",
+         "id": "sw-3-3-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "学术期刊编辑者的学术不端行为",
+         "id": "sw-3-3-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-3-3",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第四节 期刊的广告经营与新媒体传播",
+       "points": [
+        {
+         "name": "期刊的广告经营",
+         "id": "sw-3-4-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "期刊的新媒体传播",
+         "id": "sw-3-4-2",
+         "isNew": true,
+         "newReason": "期刊新媒体传播属于近年强化的新媒体运营内容"
+        }
+       ],
+       "id": "sw-3-4",
+       "isNew": true,
+       "newReason": "期刊新媒体传播属于近年强化的新媒体运营内容"
+      }
+     ],
+     "id": "sw-3",
+     "isNew": false,
+     "newReason": ""
+    },
+    {
+     "name": "第四章 书刊整体设计",
+     "sections": [
+      {
+       "name": "第一节 书刊整体设计概述",
+       "points": [
+        {
+         "name": "书刊整体设计的概念",
+         "id": "sw-4-1-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "书刊整体设计的总体要求",
+         "id": "sw-4-1-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "书刊整体设计的流程",
+         "id": "sw-4-1-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "人工智能在书刊整体设计中的应用",
+         "id": "sw-4-1-4",
+         "isNew": true,
+         "newReason": "人工智能在书刊整体设计中的应用是近年新增内容"
+        }
+       ],
+       "id": "sw-4-1",
+       "isNew": true,
+       "newReason": "人工智能在书刊整体设计中的应用是近年新增内容"
+      },
+      {
+       "name": "第二节 书刊的形态设计",
+       "points": [
+        {
+         "name": "书刊的翻页形式",
+         "id": "sw-4-2-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "书刊的基本组成",
+         "id": "sw-4-2-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "书刊开本",
+         "id": "sw-4-2-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "书刊结构部件",
+         "id": "sw-4-2-4",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "书刊用纸",
+         "id": "sw-4-2-5",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "书刊装订样式",
+         "id": "sw-4-2-6",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-4-2",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第三节 书刊美术设计和表面整饰设计",
+       "points": [
+        {
+         "name": "书刊美术设计",
+         "id": "sw-4-3-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "书刊表面整饰设计",
+         "id": "sw-4-3-2",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-4-3",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第四节 书刊版心规格设计",
+       "points": [
+        {
+         "name": "书刊版面的结构",
+         "id": "sw-4-4-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "版心规格设计",
+         "id": "sw-4-4-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "文字与符号",
+         "id": "sw-4-4-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "线条与底纹",
+         "id": "sw-4-4-4",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "间空",
+         "id": "sw-4-4-5",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-4-4",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第五节 图书文字版式设计",
+       "points": [
+        {
+         "name": "正文版式设计",
+         "id": "sw-4-5-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "书眉排式设计",
+         "id": "sw-4-5-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "页码排式设计",
+         "id": "sw-4-5-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "辅文版式设计",
+         "id": "sw-4-5-4",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "版式批注方式",
+         "id": "sw-4-5-5",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-4-5",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第六节 期刊文字版式设计",
+       "points": [
+        {
+         "name": "正文版式设计",
+         "id": "sw-4-6-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "页眉版式设计",
+         "id": "sw-4-6-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "页码版式设计",
+         "id": "sw-4-6-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "目次页版式设计",
+         "id": "sw-4-6-4",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "期刊版式批注的操作特点",
+         "id": "sw-4-6-5",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-4-6",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第七节 书刊图片和表格的版式设计",
+       "points": [
+        {
+         "name": "图片的版式设计",
+         "id": "sw-4-7-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "表格的版式设计",
+         "id": "sw-4-7-2",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-4-7",
+       "isNew": false,
+       "newReason": ""
+      }
+     ],
+     "id": "sw-4",
+     "isNew": false,
+     "newReason": ""
+    },
+    {
+     "name": "第五章 书刊校对",
+     "sections": [
+      {
+       "name": "第一节 校对工作概述",
+       "points": [
+        {
+         "name": "校对的概念",
+         "id": "sw-5-1-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "校对的主要功能",
+         "id": "sw-5-1-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "校样的形成和种类",
+         "id": "sw-5-1-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-5-1",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第二节 校对工作的规范和工序",
+       "points": [
+        {
+         "name": "校对的基本方法",
+         "id": "sw-5-2-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "校对的操作工序",
+         "id": "sw-5-2-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "校对符号用法及修改校样的操作规范",
+         "id": "sw-5-2-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "校对工作的基本制度",
+         "id": "sw-5-2-4",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "校对操作的模式",
+         "id": "sw-5-2-5",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-5-2",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第三节 责任校对的职责与校对管理",
+       "points": [
+        {
+         "name": "责任校对的职责",
+         "id": "sw-5-3-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "通读",
+         "id": "sw-5-3-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "技术整理",
+         "id": "sw-5-3-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "校对工作量化管理",
+         "id": "sw-5-3-4",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "外校管理",
+         "id": "sw-5-3-5",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-5-3",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第四节 书刊常见差错与查改技巧",
+       "points": [
+        {
+         "name": "作者原稿带入的差错",
+         "id": "sw-5-4-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "排版、改版操作引起的差错",
+         "id": "sw-5-4-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "查改文字差错的技巧",
+         "id": "sw-5-4-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-5-4",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第五节 审校软件的应用",
+       "points": [
+        {
+         "name": "审校软件的基本性能",
+         "id": "sw-5-5-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "审校软件的使用",
+         "id": "sw-5-5-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "人工智能在审校中的应用",
+         "id": "sw-5-5-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-5-5",
+       "isNew": true,
+       "newReason": "审校软件的应用及人工智能审校是近年新增内容"
+      }
+     ],
+     "id": "sw-5",
+     "isNew": false,
+     "newReason": ""
+    },
+    {
+     "name": "第六章 书刊印制",
+     "sections": [
+      {
+       "name": "第一节 书刊印制概述",
+       "points": [
+        {
+         "name": "书刊印制的概念",
+         "id": "sw-6-1-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "印刷的要素",
+         "id": "sw-6-1-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "书刊印制的工艺过程",
+         "id": "sw-6-1-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "绿色印刷",
+         "id": "sw-6-1-4",
+         "isNew": true,
+         "newReason": "绿色印刷是近年强化的印制管理新要求"
+        },
+        {
+         "name": "书刊印制管理规定",
+         "id": "sw-6-1-5",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-6-1",
+       "isNew": true,
+       "newReason": "绿色印刷是近年强化的印制管理新要求"
+      },
+      {
+       "name": "第二节 书刊的印前制作",
+       "points": [
+        {
+         "name": "原稿检核",
+         "id": "sw-6-2-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "图文输入",
+         "id": "sw-6-2-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "图文处理",
+         "id": "sw-6-2-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "图文输出",
+         "id": "sw-6-2-4",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "打样和印版制作",
+         "id": "sw-6-2-5",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-6-2",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第三节 书刊的印刷",
+       "points": [
+        {
+         "name": "模拟印刷",
+         "id": "sw-6-3-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "数字印刷",
+         "id": "sw-6-3-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "书刊印刷的纸张和油墨",
+         "id": "sw-6-3-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-6-3",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第四节 书刊的装订",
+       "points": [
+        {
+         "name": "平装",
+         "id": "sw-6-4-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "精装",
+         "id": "sw-6-4-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "骑马订装",
+         "id": "sw-6-4-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-6-4",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第五节 书刊印制质量",
+       "points": [
+        {
+         "name": "质量检查方式",
+         "id": "sw-6-5-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "印制质量要求",
+         "id": "sw-6-5-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "书刊印刷常见质量问题",
+         "id": "sw-6-5-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-6-5",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第六节 书刊印制费用",
+       "points": [
+        {
+         "name": "纸张费用计算",
+         "id": "sw-6-6-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "制版费用计算",
+         "id": "sw-6-6-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "印装(制作)费用计算",
+         "id": "sw-6-6-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-6-6",
+       "isNew": false,
+       "newReason": ""
+      }
+     ],
+     "id": "sw-6",
+     "isNew": false,
+     "newReason": ""
+    },
+    {
+     "name": "第七章 出版物发行与营销推广",
+     "sections": [
+      {
+       "name": "第一节 出版物发行概述",
+       "points": [
+        {
+         "name": "出版物发行的概念及其构成要素",
+         "id": "sw-7-1-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版物发行的特点与程序",
+         "id": "sw-7-1-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版物发行的商流、物流、信息流和资金流",
+         "id": "sw-7-1-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版物购销",
+         "id": "sw-7-1-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-7-1",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第二节 出版物发行方式",
+       "points": [
+        {
+         "name": "出版物批发",
+         "id": "sw-7-2-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版物零售",
+         "id": "sw-7-2-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版物出租",
+         "id": "sw-7-2-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版物的其他发行方式",
+         "id": "sw-7-2-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-7-2",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第三节 出版物发行渠道",
+       "points": [
+        {
+         "name": "出版物发行渠道的特点",
+         "id": "sw-7-3-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "直接渠道和间接渠道",
+         "id": "sw-7-3-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "网络发行渠道",
+         "id": "sw-7-3-3",
+         "isNew": true,
+         "newReason": "网络发行渠道为近年教材新增强化内容"
+        },
+        {
+         "name": "我国出版物发行主体的基本构成",
+         "id": "sw-7-3-4",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "发行渠道体系的建设与管理",
+         "id": "sw-7-3-5",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-7-3",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第四节 出版营销推广",
+       "points": [
+        {
+         "name": "出版单位品牌形象的打造与传播",
+         "id": "sw-7-4-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版物营销活动",
+         "id": "sw-7-4-2",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-7-4",
+       "isNew": false,
+       "newReason": ""
+      }
+     ],
+     "id": "sw-7",
+     "isNew": false,
+     "newReason": ""
+    },
+    {
+     "name": "第八章 音像制品和电子出版物出版",
+     "sections": [
+      {
+       "name": "第一节 音像制品概述",
+       "points": [
+        {
+         "name": "音像制品的概念",
+         "id": "sw-8-1-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "音像制品的类别和特点",
+         "id": "sw-8-1-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "国家关于音像制品管理的规定",
+         "id": "sw-8-1-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "音像制品发展趋势",
+         "id": "sw-8-1-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-8-1",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第二节 音像制品出版流程",
+       "points": [
+        {
+         "name": "音像制品选题策划的要点",
+         "id": "sw-8-2-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "音像制品的稿件组织",
+         "id": "sw-8-2-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "音像节目的编辑制作",
+         "id": "sw-8-2-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "音像制品的审查",
+         "id": "sw-8-2-4",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "音像制品的复制",
+         "id": "sw-8-2-5",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "音像制品的发行",
+         "id": "sw-8-2-6",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-8-2",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第三节 电子出版物概述",
+       "points": [
+        {
+         "name": "电子出版物的概念",
+         "id": "sw-8-3-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "电子出版物的类别和特点",
+         "id": "sw-8-3-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "国家关于电子出版物的特有规定",
+         "id": "sw-8-3-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "电子出版物的发展趋势",
+         "id": "sw-8-3-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-8-3",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第四节 电子出版物的编辑制作流程",
+       "points": [
+        {
+         "name": "原创性电子出版物的编辑制作流程",
+         "id": "sw-8-4-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "纸质图书转化为电子书的编辑制作流程",
+         "id": "sw-8-4-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "引进版电子出版物的编辑制作流程",
+         "id": "sw-8-4-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-8-4",
+       "isNew": false,
+       "newReason": ""
+      }
+     ],
+     "id": "sw-8",
+     "isNew": false,
+     "newReason": ""
+    },
+    {
+     "name": "第九章 数字出版产品开发",
+     "sections": [
+      {
+       "name": "第一节 数字出版产品策划",
+       "points": [
+        {
+         "name": "数字出版产品策划概述",
+         "id": "sw-9-1-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "数字出版产品策划的基本流程",
+         "id": "sw-9-1-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "典型数字出版产品策划",
+         "id": "sw-9-1-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-9-1",
+       "isNew": true,
+       "newReason": "数字出版产品策划是数字出版产品开发的新增章节"
+      },
+      {
+       "name": "第二节 数字出版产品设计",
+       "points": [
+        {
+         "name": "数字出版产品设计的概念",
+         "id": "sw-9-2-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "数字出版产品设计的基本流程",
+         "id": "sw-9-2-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "典型数字出版产品设计",
+         "id": "sw-9-2-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-9-2",
+       "isNew": true,
+       "newReason": "数字出版产品设计是数字出版产品开发的新增章节"
+      },
+      {
+       "name": "第三节 数字出版产品制作",
+       "points": [
+        {
+         "name": "数字出版产品制作概述",
+         "id": "sw-9-3-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "数字出版产品制作基本流程",
+         "id": "sw-9-3-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "典型数字出版产品制作",
+         "id": "sw-9-3-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "数字出版产品制作管理",
+         "id": "sw-9-3-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-9-3",
+       "isNew": true,
+       "newReason": "数字出版产品制作是数字出版产品开发的新增章节"
+      }
+     ],
+     "id": "sw-9",
+     "isNew": false,
+     "newReason": ""
+    },
+    {
+     "name": "第十章 数字出版产品运营",
+     "sections": [
+      {
+       "name": "第一节 数字出版产品运营概述",
+       "points": [
+        {
+         "name": "数字出版产品运营的概念",
+         "id": "sw-10-1-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "数字出版产品的商业模式",
+         "id": "sw-10-1-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "数字出版产品销售模式",
+         "id": "sw-10-1-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-10-1",
+       "isNew": true,
+       "newReason": "数字出版产品运营概述是数字出版运营的新增章节"
+      },
+      {
+       "name": "第二节 数字出版产品运营的目标和主要方法",
+       "points": [
+        {
+         "name": "数字出版产品运营的目标",
+         "id": "sw-10-2-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "数字出版产品运营的主要方法",
+         "id": "sw-10-2-2",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-10-2",
+       "isNew": true,
+       "newReason": "数字出版产品运营目标和方法是数字出版运营的新增章节"
+      },
+      {
+       "name": "第三节 数字出版产品运营的主要指标与分析方法",
+       "points": [
+        {
+         "name": "主要运营指标",
+         "id": "sw-10-3-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "主要分析方法",
+         "id": "sw-10-3-2",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-10-3",
+       "isNew": true,
+       "newReason": "数字出版产品运营指标和分析方法是数字出版运营的新增章节"
+      },
+      {
+       "name": "第四节 数字出版产品的新媒体运营",
+       "points": [
+        {
+         "name": "数字出版产品新媒体运营概述",
+         "id": "sw-10-4-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "数字出版产品典型新媒体运营形式",
+         "id": "sw-10-4-2",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-10-4",
+       "isNew": true,
+       "newReason": "数字出版产品的新媒体运营是数字出版运营的新增章节，突出新媒体运营"
+      }
+     ],
+     "id": "sw-10",
+     "isNew": false,
+     "newReason": ""
+    },
+    {
+     "name": "第十一章 出版物的成本与定价",
+     "sections": [
+      {
+       "name": "第一节 出版物的成本及其构成",
+       "points": [
+        {
+         "name": "出版物成本概述",
+         "id": "sw-11-1-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版物成本的总体构成",
+         "id": "sw-11-1-2",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-11-1",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第二节 出版物的本量利分析",
+       "points": [
+        {
+         "name": "本量利分析概述",
+         "id": "sw-11-2-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "变动成本和固定成本",
+         "id": "sw-11-2-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "本量利分析的基本公式及其应用",
+         "id": "sw-11-2-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-11-2",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第三节 出版物定价与毛利预测",
+       "points": [
+        {
+         "name": "影响出版物定价的因素",
+         "id": "sw-11-3-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版物定价目标",
+         "id": "sw-11-3-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版物定价方法",
+         "id": "sw-11-3-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版物毛利预测",
+         "id": "sw-11-3-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-11-3",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第四节 数字出版产品的成本构成和定价",
+       "points": [
+        {
+         "name": "数字出版产品的成本构成",
+         "id": "sw-11-4-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "数字出版产品的成本分类",
+         "id": "sw-11-4-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "数字出版产品的定价",
+         "id": "sw-11-4-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-11-4",
+       "isNew": true,
+       "newReason": "数字出版产品的成本构成和定价是近年新增内容"
+      }
+     ],
+     "id": "sw-11",
+     "isNew": false,
+     "newReason": ""
+    },
+    {
+     "name": "第十二章 国际出版合作与中国出版“走出去”",
+     "sections": [
+      {
+       "name": "第一节 国外出版概况",
+       "points": [
+        {
+         "name": "国外出版基本格局",
+         "id": "sw-12-1-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "国外知名出版机构",
+         "id": "sw-12-1-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "主要国际出版相关组织",
+         "id": "sw-12-1-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "国外主要国际书展",
+         "id": "sw-12-1-4",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-12-1",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第二节 著作权贸易",
+       "points": [
+        {
+         "name": "著作权贸易概述",
+         "id": "sw-12-2-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "著作权贸易的具体实施",
+         "id": "sw-12-2-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "著作权贸易合同及其履行",
+         "id": "sw-12-2-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-12-2",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第三节 中国出版“走出去”",
+       "points": [
+        {
+         "name": "国际出版合作的概念",
+         "id": "sw-12-3-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "国际出版合作的主要形式",
+         "id": "sw-12-3-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "中国出版“走出去”重点项目",
+         "id": "sw-12-3-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-12-3",
+       "isNew": true,
+       "newReason": "中国出版“走出去”是近年重点强化的国际合作内容"
+      }
+     ],
+     "id": "sw-12",
+     "isNew": false,
+     "newReason": ""
+    },
+    {
+     "name": "第十三章 编辑应用文写作",
+     "sections": [
+      {
+       "name": "第一节 编辑应用文概述",
+       "points": [
+        {
+         "name": "编辑应用文的概念",
+         "id": "sw-13-1-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "编辑应用文的特点",
+         "id": "sw-13-1-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "撰写编辑应用文的基本要求",
+         "id": "sw-13-1-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-13-1",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第二节 内部编辑业务文件",
+       "points": [
+        {
+         "name": "选题报告",
+         "id": "sw-13-2-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "编辑计划",
+         "id": "sw-13-2-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "审稿意见",
+         "id": "sw-13-2-3",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-13-2",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第三节 编辑工作书信",
+       "points": [
+        {
+         "name": "约稿信",
+         "id": "sw-13-3-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "退修信",
+         "id": "sw-13-3-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "退稿信",
+         "id": "sw-13-3-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "日常联系信",
+         "id": "sw-13-3-4",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "答读者信",
+         "id": "sw-13-3-5",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-13-3",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第四节 书刊辅文",
+       "points": [
+        {
+         "name": "作者简介",
+         "id": "sw-13-4-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "内容提要",
+         "id": "sw-13-4-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版前言",
+         "id": "sw-13-4-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "编者按",
+         "id": "sw-13-4-4",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "凡例",
+         "id": "sw-13-4-5",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版后记",
+         "id": "sw-13-4-6",
+         "isNew": false,
+         "newReason": ""
+        }
+       ],
+       "id": "sw-13-4",
+       "isNew": false,
+       "newReason": ""
+      },
+      {
+       "name": "第五节 出版物宣传文字",
+       "points": [
+        {
+         "name": "出版消息",
+         "id": "sw-13-5-1",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版物广告文字",
+         "id": "sw-13-5-2",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "出版物评论",
+         "id": "sw-13-5-3",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "name": "新媒体宣传文案",
+         "id": "sw-13-5-4",
+         "isNew": true,
+         "newReason": "新媒体宣传文案是新媒体运营在宣传中的新增应用"
+        }
+       ],
+       "id": "sw-13-5",
+       "isNew": true,
+       "newReason": "新媒体宣传文案是新媒体运营在宣传中的新增应用"
+      }
+     ],
+     "id": "sw-13",
+     "isNew": false,
+     "newReason": ""
+    }
+   ]
+  },
+  {
+   "id": "md",
+   "name": "出版专业基础知识（中级）",
+   "chapters": [
+    {
+     "id": "md-1",
+     "name": "第一章 出版、出版物与出版工作",
+     "isNew": false,
+     "newReason": "",
+     "sections": [
+      {
+       "id": "md-1-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "md-1-1-1",
+         "name": "出版的基本内涵",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-1-1-2",
+         "name": "出版活动的构成要素和一般过程，开展出版活动的条件",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-1-1-3",
+         "name": "出版活动与社会的关系",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-1-1-4",
+         "name": "出版物的属性、种类和标识",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-1-1-5",
+         "name": "我国出版业的基本情况",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-1-1-6",
+         "name": "我国出版学的基本情况",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-1-1-7",
+         "name": "出版融合发展的概念、基本要求和实践路径",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-1-1-8",
+         "name": "推动出版深度融合发展的工作重点",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-1-1-9",
+         "name": "我国出版工作的指导思想、方针原则和主要任务",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-1-1-10",
+         "name": "出版的基本内涵，出版活动的构成要素和一般过程",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-1-1-11",
+         "name": "开展出版活动的条件",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-1-1-12",
+         "name": "我国出版业的特点和构成",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-1-1-13",
+         "name": "我国出版机构和出版工作者",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-1-1-14",
+         "name": "我国出版产业结构、产品结构和地区结构",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-1-1-15",
+         "name": "我国出版学基本情况",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "md-2",
+     "name": "第二章 数字出版基础【新增】",
+     "isNew": true,
+     "newReason": "2026中级大纲新增模块",
+     "sections": [
+      {
+       "id": "md-2-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "md-2-1-1",
+         "name": "数字出版的概念、特征与发展历程",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-2-1-2",
+         "name": "数字出版产品与服务的类型、典型形态与主要特点",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-2-1-3",
+         "name": "数字出版对出版工作、读者、社会文化的影响",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-2-1-4",
+         "name": "数字出版产业的概念、基本特征",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-2-1-5",
+         "name": "数字出版产业结构与发展模式",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-2-1-6",
+         "name": "数字出版相关法律法规",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-2-1-7",
+         "name": "数字出版从业机构管理、从业行为管理、产品管理",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-2-1-8",
+         "name": "常用数字出版技术及其作用",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-2-1-9",
+         "name": "常用数字出版标准",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-2-1-10",
+         "name": "常用数字出版系统",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-2-1-11",
+         "name": "数字出版的概念与特征",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-2-1-12",
+         "name": "数字出版的发展历程",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-2-1-13",
+         "name": "数字出版产品与服务的类型",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-2-1-14",
+         "name": "数字出版产品与服务的典型形态",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-2-1-15",
+         "name": "数字出版产品与服务的主要特点",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-2-1-16",
+         "name": "数字出版的影响",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-2-1-17",
+         "name": "数字出版产业的概念和基本特征",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-2-1-18",
+         "name": "数字出版产业结构",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-2-1-19",
+         "name": "数字出版产业的发展模式、价值链创新",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-2-1-20",
+         "name": "数字出版相关法律法规、从业机构管理、从业行为管理",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-2-1-21",
+         "name": "数字出版的产品管理",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-2-1-22",
+         "name": "数字出版技术的作用",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-2-1-23",
+         "name": "常用数字出版技术",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-2-1-24",
+         "name": "常用数字出版系统的作用及主要功能",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "md-3",
+     "name": "第三章 编辑与编辑工作（原编辑概论）",
+     "isNew": false,
+     "newReason": "",
+     "sections": [
+      {
+       "id": "md-3-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "md-3-1-1",
+         "name": "编辑的概念",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-3-1-2",
+         "name": "编辑工作的重要性、基本特点和基本功能",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-3-1-3",
+         "name": "编辑过程基本环节、特殊情况处理和各环节相互关系",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-3-1-4",
+         "name": "编辑人员的构成",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-3-1-5",
+         "name": "编辑人员的职责使命",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-3-1-6",
+         "name": "编辑人员的素养、知识和能力要求",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-3-1-7",
+         "name": "编辑人员的类型和专业技术职称",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "md-4",
+     "name": "第四章 党和国家对出版的管理",
+     "isNew": false,
+     "newReason": "",
+     "sections": [
+      {
+       "id": "md-4-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "md-4-1-1",
+         "name": "出版管理的概念",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-4-1-2",
+         "name": "实施出版管理所依据的主要法规",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-4-1-3",
+         "name": "我国的出版管理体系",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-4-1-4",
+         "name": "我国出版业的法人、产品、职业、岗位准入制度",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-4-1-5",
+         "name": "对出版业务活动的管理",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-4-1-6",
+         "name": "对出版活动的扶持政策和奖励措施",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-4-1-7",
+         "name": "关于我国出版管理体系的知识",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-4-1-8",
+         "name": "出版业的法人准入制度",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-4-1-9",
+         "name": "出版业的产品、职业、岗位准入制度",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-4-1-10",
+         "name": "重大选题备案管理制度",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-4-1-11",
+         "name": "出版物质量管理制度",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-4-1-12",
+         "name": "书号刊号版号管理",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-4-1-13",
+         "name": "出版单位年度核验制度",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-4-1-14",
+         "name": "年度出版计划审批和备案制度",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-4-1-15",
+         "name": "出版物样本送缴制度",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-4-1-16",
+         "name": "出版活动中违法违规行为的法律责任",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "md-5",
+     "name": "第五章 出版单位经营管理",
+     "isNew": false,
+     "newReason": "",
+     "sections": [
+      {
+       "id": "md-5-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "md-5-1-1",
+         "name": "出版单位经营管理的含义",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-5-1-2",
+         "name": "出版单位经营的目标和决策",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-5-1-3",
+         "name": "出版单位管理的职能和种类",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-5-1-4",
+         "name": "出版单位经营管理信息化、智能化",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-5-1-5",
+         "name": "出版单位计划管理的作用和内容",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-5-1-6",
+         "name": "出版物全面质量管理",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-5-1-7",
+         "name": "出版单位人力资源管理",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-5-1-8",
+         "name": "出版单位财务管理",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-5-1-9",
+         "name": "出版单位的生产流程管理、发行管理、版权资产管理、品牌形象管理、档",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-5-1-10",
+         "name": "出版单位的经营目标",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-5-1-11",
+         "name": "出版单位的经营决策及其步骤",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-5-1-12",
+         "name": "出版单位管理的基本职能和种类",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-5-1-13",
+         "name": "出版单位管理信息化、智能化的目的和作用",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-5-1-14",
+         "name": "出版单位的ERP 系统",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-5-1-15",
+         "name": "出版物全面质量管理的意义、作用和措施",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-5-1-16",
+         "name": "出版物质量保障的社会监督",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-5-1-17",
+         "name": "出版单位财务管理的目标、内容和成本管理",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-5-1-18",
+         "name": "出版单位的纳税管理",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-5-1-19",
+         "name": "出版单位的生产流程管理、发行管理、版权资产管理和品牌形象管理",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-5-1-20",
+         "name": "出版单位的档案管理、信息管理和行政管理",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "md-6",
+     "name": "第六章 数字内容资源【新增】",
+     "isNew": true,
+     "newReason": "2026中级大纲新增模块",
+     "sections": [
+      {
+       "id": "md-6-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "md-6-1-1",
+         "name": "数字内容资源的概念、内容粒度、类型",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-6-1-2",
+         "name": "数字内容资源加工的概念和加工环节",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-6-1-3",
+         "name": "书刊内容资源、音视频资源的加工流程",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-6-1-4",
+         "name": "数字内容资源的标引类型、策略和要求",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-6-1-5",
+         "name": "数字内容资源的管理模式",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-6-1-6",
+         "name": "数字内容资源的管理流程",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-6-1-7",
+         "name": "数字内容资源的概念和类型",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-6-1-8",
+         "name": "书刊内容资源、音视频资源加工流程",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-6-1-9",
+         "name": "数字内容资源的管理模式类型",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-6-1-10",
+         "name": "数字内容资源生命周期管理",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-6-1-11",
+         "name": "数字内容资源的采集和入库",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-6-1-12",
+         "name": "数字内容资源的存储方式和存储类型",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-6-1-13",
+         "name": "数字内容资源的备份目的、策略和方法",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-6-1-14",
+         "name": "数字内容资源的检索和下载",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "md-7",
+     "name": "第七章 出版历史知识",
+     "isNew": false,
+     "newReason": "",
+     "sections": [
+      {
+       "id": "md-7-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "md-7-1-1",
+         "name": "文字书写系统及其载体",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-7-1-2",
+         "name": "印刷术的发明、发展与传播",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-7-1-3",
+         "name": "古代图书的生产与流通",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-7-1-4",
+         "name": "近现代印刷业的发展",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-7-1-5",
+         "name": "近现代出版活动",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-7-1-6",
+         "name": "新中国成立前我党领导的出版活动",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-7-1-7",
+         "name": "新中国出版业的发展",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-7-1-8",
+         "name": "汉字书写系统及其载体",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-7-1-9",
+         "name": "古代图书",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-7-1-10",
+         "name": "古代刻书业及其编辑工作",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-7-1-11",
+         "name": "古代书市和图书流通方式",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-7-1-12",
+         "name": "近代出版机构的形成和发展",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-7-1-13",
+         "name": "近代重要出版物",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-7-1-14",
+         "name": "新中国出版业的组建",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-7-1-15",
+         "name": "新中国出版业的曲折发展",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-7-1-16",
+         "name": "改革开放与出版业的繁荣",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-7-1-17",
+         "name": "新时代我国出版的高质量发展",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "md-8",
+     "name": "第八章 著作权知识",
+     "isNew": false,
+     "newReason": "",
+     "sections": [
+      {
+       "id": "md-8-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "md-8-1-1",
+         "name": "著作权的基本概念和特征",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-8-1-2",
+         "name": "我国著作权法的立法依据、宗旨和法律规范",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-8-1-3",
+         "name": "我国加入的与著作权法有关的国际条约",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-8-1-4",
+         "name": "我国著作权法的适用范围",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-8-1-5",
+         "name": "著作权的主体和客体",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-8-1-6",
+         "name": "著作权的内容、归属与保护期",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-8-1-7",
+         "name": "我国著作权法邻接权的概念、种类与内容",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-8-1-8",
+         "name": "著作权的使用和限制",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-8-1-9",
+         "name": "著作权纠纷与法律保护",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-8-1-10",
+         "name": "出版单位与著作权有关权利的保护",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-8-1-11",
+         "name": "著作权的基本概念与特征",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-8-1-12",
+         "name": "我国著作权法立法依据、宗旨与法律规范",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-8-1-13",
+         "name": "作品的定义、表现形式和应具备的条件",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-8-1-14",
+         "name": "不适用我国著作权法保护的客体",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-8-1-15",
+         "name": "国家对作品的出版传播依法监管相关规定",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-8-1-16",
+         "name": "关于著作权主体的知识",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-8-1-17",
+         "name": "我国著作权法邻接权的种类与内容",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-8-1-18",
+         "name": "著作权使用相关知识",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-8-1-19",
+         "name": "著作权的合理使用和法定许可",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-8-1-20",
+         "name": "著作权纠纷类型与处理方法",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-8-1-21",
+         "name": "著作权违约与法律责任",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-8-1-22",
+         "name": "著作权侵权行为与法律责任",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-8-1-23",
+         "name": "依法保护著作权人权利和出版单位与著作权有关权利的知识",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "md-9",
+     "name": "第九章 出版物的文字规范【新增】",
+     "isNew": true,
+     "newReason": "2026中级大纲新增模块",
+     "sections": [
+      {
+       "id": "md-9-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "md-9-1-1",
+         "name": "汉字常识和汉字使用规范",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-9-1-2",
+         "name": "汉语拼音与语音规范",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-9-1-3",
+         "name": "标点符号及其使用规范",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-9-1-4",
+         "name": "数字与计量单位使用规范",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-9-1-5",
+         "name": "科技名词使用规范",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "md-10",
+     "name": "第十章 汉语语法与修辞知识【新增】",
+     "isNew": true,
+     "newReason": "2026中级大纲新增模块",
+     "sections": [
+      {
+       "id": "md-10-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "md-10-1-1",
+         "name": "词汇的基本知识",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-10-1-2",
+         "name": "常见词语使用错误的纠正",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-10-1-3",
+         "name": "实词和虚词的基本知识",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-10-1-4",
+         "name": "短语和句子的基本知识",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-10-1-5",
+         "name": "常见语法错误的纠正",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-10-1-6",
+         "name": "常见修辞方式的基本知识",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-10-1-7",
+         "name": "常见修辞错误的纠正",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "md-11",
+     "name": "第十一章 形式逻辑常识【新增】",
+     "isNew": true,
+     "newReason": "2026中级大纲新增模块",
+     "sections": [
+      {
+       "id": "md-11-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "md-11-1-1",
+         "name": "概念的基本知识",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-11-1-2",
+         "name": "概念时常见错误的纠正",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-11-1-3",
+         "name": "判断的基本知识",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-11-1-4",
+         "name": "判断时常见错误的纠正",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-11-1-5",
+         "name": "推理的基本知识",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-11-1-6",
+         "name": "推理时常见错误的纠正",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-11-1-7",
+         "name": "论证的基本知识",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-11-1-8",
+         "name": "论证时常见错误的纠正",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-11-1-9",
+         "name": "逻辑思维的基本知识",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-11-1-10",
+         "name": "逻辑思维时常见错误的纠正",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-11-1-11",
+         "name": "概念的定义及其内涵、外延",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-11-1-12",
+         "name": "概念的种类和概念之间各种关系",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-11-1-13",
+         "name": "概念的限制、概括和划分",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-11-1-14",
+         "name": "运用概念时常见错误的纠正",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-11-1-15",
+         "name": "判断的定义和类型",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-11-1-16",
+         "name": "运用判断时常见错误的纠正",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-11-1-17",
+         "name": "推理的定义和种类",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-11-1-18",
+         "name": "运用推理时常见错误的纠正",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-11-1-19",
+         "name": "论证的定义和种类",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-11-1-20",
+         "name": "运用论证时常见错误的纠正",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-11-1-21",
+         "name": "逻辑思维的基本规律",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-11-1-22",
+         "name": "运用逻辑思维时常见错误的纠正",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "md-12",
+     "name": "第十二章 古代汉语与中国古代文化常识【新增】",
+     "isNew": true,
+     "newReason": "2026中级大纲新增模块",
+     "sections": [
+      {
+       "id": "md-12-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "md-12-1-1",
+         "name": "古代汉语与中国古代文化的形成及特点",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-12-1-2",
+         "name": "古代汉语知识",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-12-1-3",
+         "name": "中国古代名物典章制度",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-12-1-4",
+         "name": "儒释道文化",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-12-1-5",
+         "name": "中国古代文学常识",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-12-1-6",
+         "name": "中国传统典籍常识",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-12-1-7",
+         "name": "古代汉语中字词的基础知识",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-12-1-8",
+         "name": "古代汉语中的实词和虚词的基本用法",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-12-1-9",
+         "name": "古代汉语中的特殊句法",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-12-1-10",
+         "name": "古文的标点和今译",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "md-13",
+     "name": "第十三章 有关出版的法律法规和标准规范",
+     "isNew": false,
+     "newReason": "",
+     "sections": [
+      {
+       "id": "md-13-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "md-13-1-1",
+         "name": "有关出版的重要法律法规和标准规范",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-13-1-2",
+         "name": "上一年度7 月至考试当年7 月新颁布的与出版相关的法律法规和标准规范",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-13-1-3",
+         "name": "上一年度7 月至考试当年7 月新颁布的与出版相关的法律法规和标准",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "md-14",
+     "name": "第十四章 时事政治",
+     "isNew": false,
+     "newReason": "",
+     "sections": [
+      {
+       "id": "md-14-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "md-14-1-1",
+         "name": "习近平新时代中国特色社会主义思想，习近平文化思想，党的二十大精神，",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-14-1-2",
+         "name": "上一年度7 月至考试当年7 月的国际国内重大时事及其意义和影响",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "md-14-1-3",
+         "name": "习近平新时代中国特色社会主义思想，习近平文化思想，党的二十大",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mw",
+   "name": "出版专业理论与实务（中级）",
+   "chapters": [
+    {
+     "id": "mw-1",
+     "name": "第一章 出版物选题策划",
+     "isNew": false,
+     "newReason": "",
+     "sections": [
+      {
+       "id": "mw-1-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "mw-1-1-1",
+         "name": "选题与选题策划的概念",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-1-1-2",
+         "name": "选题策划工作的原则和要求",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-1-1-3",
+         "name": "编辑需要采集的信息内容和信息采集的主要方式",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-1-1-4",
+         "name": "信息分析处理的原则、过程和方法",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-1-1-5",
+         "name": "图书选题设计的主要内容",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-1-1-6",
+         "name": "图书选题立项过程及立项选题的管理",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-1-1-7",
+         "name": "选题计划的内容、类型和结构",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-1-1-8",
+         "name": "选题计划的特点、制订与调整",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-1-1-9",
+         "name": "稿件来源的渠道",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-1-1-10",
+         "name": "组稿的方式、步骤及约稿后应做的工作",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-1-1-11",
+         "name": "主题出版的概念、发展趋势和主要任务",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-1-1-12",
+         "name": "主题出版选题策划的方法",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-1-1-13",
+         "name": "国家重点出版项目的策划",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-1-1-14",
+         "name": "选题策划工作的原则与要求",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-1-1-15",
+         "name": "信息分析处理的原则、过程与方法",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-1-1-16",
+         "name": "选题的申报、论证及优化",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-1-1-17",
+         "name": "立项选题的管理",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-1-1-18",
+         "name": "组稿的方式和步骤",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-1-1-19",
+         "name": "约稿后应做的工作",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "mw-2",
+     "name": "第二章 图书编辑出版（原图书编辑）",
+     "isNew": false,
+     "newReason": "",
+     "sections": [
+      {
+       "id": "mw-2-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "mw-2-1-1",
+         "name": "审稿的作用",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-2-1-2",
+         "name": "三审制的基本要求和各审级的任务",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-2-1-3",
+         "name": "稿件送请外审的相关事项",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-2-1-4",
+         "name": "审稿要求和审稿的基本方法",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-2-1-5",
+         "name": "审稿意见及审稿后的稿件处理工作",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-2-1-6",
+         "name": "出版合同的主要内容及合同签订程序",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-2-1-7",
+         "name": "编辑加工整理的作用、原则、步骤和方法",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-2-1-8",
+         "name": "图书稿件编辑加工整理的内容",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-2-1-9",
+         "name": "审定发稿的基本要求和各个步骤的具体工作事项",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-2-1-10",
+         "name": "发稿后编辑应做的工作",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-2-1-11",
+         "name": "图书重印与再版的意义、程序",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-2-1-12",
+         "name": "撰写审稿意见的要求",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-2-1-13",
+         "name": "审稿后的稿件处理工作",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-2-1-14",
+         "name": "编辑加工整理的作用",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-2-1-15",
+         "name": "编辑加工整理的原则、步骤、方法",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-2-1-16",
+         "name": "校样处理和样书检查的要求",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-2-1-17",
+         "name": "编辑参与营销宣传工作的基本内容",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-2-1-18",
+         "name": "反馈信息的收集和书稿档案的建立",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-2-1-19",
+         "name": "图书重印与再版意义、程序",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "mw-3",
+     "name": "第三章 期刊编辑出版（原期刊出版）",
+     "isNew": false,
+     "newReason": "",
+     "sections": [
+      {
+       "id": "mw-3-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "mw-3-1-1",
+         "name": "期刊的定义、构成要素和特点",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-3-1-2",
+         "name": "期刊的分类和定位",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-3-1-3",
+         "name": "国家关于期刊的管理规定",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-3-1-4",
+         "name": "期刊编辑工作主要内容",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-3-1-5",
+         "name": "学术期刊的知识创新价值",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-3-1-6",
+         "name": "学术期刊的编辑规范化要求",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-3-1-7",
+         "name": "学术期刊编辑者学术不端行为的界定",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-3-1-8",
+         "name": "期刊的广告经营",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-3-1-9",
+         "name": "期刊的新媒体传播",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-3-1-10",
+         "name": "期刊编辑工作的总体特点",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-3-1-11",
+         "name": "期刊的选题策划",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-3-1-12",
+         "name": "期刊组稿的特点和主要方式",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-3-1-13",
+         "name": "期刊的审稿和编辑加工",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-3-1-14",
+         "name": "期刊的稿件管理",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-3-1-15",
+         "name": "期刊与广告的关系",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-3-1-16",
+         "name": "期刊广告经营的原则",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "mw-4",
+     "name": "第四章 书刊整体设计",
+     "isNew": false,
+     "newReason": "",
+     "sections": [
+      {
+       "id": "mw-4-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "mw-4-1-1",
+         "name": "书刊整体设计的概念、总体要求和流程",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-4-1-2",
+         "name": "人工智能在书刊整体设计中的应用",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-4-1-3",
+         "name": "书刊的形态设计",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-4-1-4",
+         "name": "书刊美术设计和表面整饰设计",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-4-1-5",
+         "name": "书刊版心规格设计",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-4-1-6",
+         "name": "图书和期刊的文字版式设计",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-4-1-7",
+         "name": "书刊图片和表格的版式设计",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-4-1-8",
+         "name": "书刊版面的结构",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-4-1-9",
+         "name": "书刊的版心规格设计",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-4-1-10",
+         "name": "字体的种类和规格大小",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-4-1-11",
+         "name": "书刊版面文字数量的计算方法",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-4-1-12",
+         "name": "符号、线条、底纹的种类",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-4-1-13",
+         "name": "版心间空的种类",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-4-1-14",
+         "name": "图书文字版式设计",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-4-1-15",
+         "name": "期刊文字版式设计",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "mw-5",
+     "name": "第五章 书刊校对",
+     "isNew": false,
+     "newReason": "",
+     "sections": [
+      {
+       "id": "mw-5-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "mw-5-1-1",
+         "name": "校对的概念和主要功能",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-5-1-2",
+         "name": "校样的形成和种类",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-5-1-3",
+         "name": "校对工作的规范和工序",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-5-1-4",
+         "name": "责任校对的职责",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-5-1-5",
+         "name": "通读与技术整理的工作内容",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-5-1-6",
+         "name": "校对工作量化管理和外校管理",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-5-1-7",
+         "name": "书刊常见差错与查改技巧",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-5-1-8",
+         "name": "审校软件的应用",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-5-1-9",
+         "name": "校对的概念",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-5-1-10",
+         "name": "校对的主要功能",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-5-1-11",
+         "name": "校样的形成",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-5-1-12",
+         "name": "校样的种类",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-5-1-13",
+         "name": "校对的基本方法",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-5-1-14",
+         "name": "校对的操作工序",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-5-1-15",
+         "name": "校对符号用法及修改校样的操作规范",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-5-1-16",
+         "name": "校对工作的基本制度",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-5-1-17",
+         "name": "校对操作的模式",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-5-1-18",
+         "name": "书刊常见差错类型与查改技巧",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-5-1-19",
+         "name": "审校软件的基本性能和使用方法",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-5-1-20",
+         "name": "人工智能在审校中的应用",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "mw-6",
+     "name": "第六章 书刊印制",
+     "isNew": false,
+     "newReason": "",
+     "sections": [
+      {
+       "id": "mw-6-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "mw-6-1-1",
+         "name": "书刊印制的基本知识",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-6-1-2",
+         "name": "书刊印前制作的主要环节",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-6-1-3",
+         "name": "模拟印刷和数字印刷",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-6-1-4",
+         "name": "按需印刷的特点",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-6-1-5",
+         "name": "书刊印刷的纸张和油墨",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-6-1-6",
+         "name": "书刊的装订",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-6-1-7",
+         "name": "书刊印制质量",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-6-1-8",
+         "name": "书刊印制费用",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-6-1-9",
+         "name": "模拟印刷的概念",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-6-1-10",
+         "name": "平版印刷的工艺原理和主要方式",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-6-1-11",
+         "name": "数字印刷的概念、特点和种类",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-6-1-12",
+         "name": "书刊装订的工艺流程和订书方式",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-6-1-13",
+         "name": "精装本的专业用语",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-6-1-14",
+         "name": "书刊印制质量检查",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-6-1-15",
+         "name": "印刷纸张的相关专业用语",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-6-1-16",
+         "name": "书刊纸张费用、制版费用、印装(制作)费用的计算方法",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "mw-7",
+     "name": "第七章 出版物发行与营销推广",
+     "isNew": false,
+     "newReason": "",
+     "sections": [
+      {
+       "id": "mw-7-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "mw-7-1-1",
+         "name": "出版物发行的概念、构成要素、特点与程序",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-7-1-2",
+         "name": "出版物发行的商流、物流、信息流和资金流",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-7-1-3",
+         "name": "出版物购销形式和发行折扣的相关知识",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-7-1-4",
+         "name": "出版物发行方式",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-7-1-5",
+         "name": "出版物发行渠道",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-7-1-6",
+         "name": "出版营销推广",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-7-1-7",
+         "name": "出版物发行的概念、构成要素和特点",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-7-1-8",
+         "name": "出版物发行的程序",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-7-1-9",
+         "name": "出版单位品牌形象的打造与传播",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-7-1-10",
+         "name": "出版物营销推广的方式方法",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "mw-8",
+     "name": "第八章 音像制品和电子出版物出版",
+     "isNew": false,
+     "newReason": "",
+     "sections": [
+      {
+       "id": "mw-8-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "mw-8-1-1",
+         "name": "音像制品的概念、类别和特点",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-8-1-2",
+         "name": "国家关于音像制品管理的规定",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-8-1-3",
+         "name": "音像制品的选题策划和稿件组织",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-8-1-4",
+         "name": "音像节目的编辑制作",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-8-1-5",
+         "name": "音像制品的审查、复制和发行",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-8-1-6",
+         "name": "电子出版物的概念、类别和特点",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-8-1-7",
+         "name": "国家关于电子出版物的特有规定",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-8-1-8",
+         "name": "电子出版物的编辑制作流程",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-8-1-9",
+         "name": "音像制品选题策划的要点",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-8-1-10",
+         "name": "音像制品的稿件组织",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-8-1-11",
+         "name": "音像制品审查的基本要求",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-8-1-12",
+         "name": "音像制品的复制和发行",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-8-1-13",
+         "name": "原创性电子出版物的编辑制作流程",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-8-1-14",
+         "name": "纸介质图书转化为电子书的编辑制作流程",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-8-1-15",
+         "name": "引进版电子出版物的编辑制作流程",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "mw-9",
+     "name": "第九章 数字出版产品开发（原数字出版产品策划）",
+     "isNew": false,
+     "newReason": "",
+     "sections": [
+      {
+       "id": "mw-9-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "mw-9-1-1",
+         "name": "数字出版产品策划的概念、目标与原则",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-9-1-2",
+         "name": "数字出版产品策划的要点和基本流程",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-9-1-3",
+         "name": "典型数字出版产品的策划",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-9-1-4",
+         "name": "数字出版产品设计的概念和基本流程",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-9-1-5",
+         "name": "典型数字出版产品的设计",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-9-1-6",
+         "name": "数字出版产品制作的概念、目标和基本流程",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-9-1-7",
+         "name": "典型数字出版产品的制作",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-9-1-8",
+         "name": "数字出版产品的制作管理",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-9-1-9",
+         "name": "数字出版产品策划的概念、目标和原则",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-9-1-10",
+         "name": "单一型数字出版产品的策划",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-9-1-11",
+         "name": "融合型数字出版产品的策划",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-9-1-12",
+         "name": "单一型数字出版产品的设计",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-9-1-13",
+         "name": "融合型数字出版产品的设计",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-9-1-14",
+         "name": "单一型数字出版产品的制作",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-9-1-15",
+         "name": "融合型数字出版产品的制作",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-9-1-16",
+         "name": "数字出版产品制作的业务流程和产品研发管理",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-9-1-17",
+         "name": "数字出版产品制作的产品质量管理",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "mw-10",
+     "name": "第十章 数字出版产品运营",
+     "isNew": false,
+     "newReason": "",
+     "sections": [
+      {
+       "id": "mw-10-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "mw-10-1-1",
+         "name": "数字出版产品运营的概念",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-10-1-2",
+         "name": "数字出版产品的商业模式和销售模式",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-10-1-3",
+         "name": "数字出版产品运营的目标和主要方法",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-10-1-4",
+         "name": "数字出版产品运营的主要指标与分析方法",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-10-1-5",
+         "name": "数字出版产品的新媒体运营",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-10-1-6",
+         "name": "数字出版产品的商业模式",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-10-1-7",
+         "name": "数字出版产品的销售模式",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-10-1-8",
+         "name": "数字出版产品运营的主要指标",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-10-1-9",
+         "name": "数字出版产品运营的用户分析",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-10-1-10",
+         "name": "数字出版产品运营的数据分析",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-10-1-11",
+         "name": "数字出版产品新媒体运营的概念、特点与规范",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-10-1-12",
+         "name": "数字出版产品的典型新媒体运营形式",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "mw-11",
+     "name": "第十一章 出版物的成本与定价",
+     "isNew": false,
+     "newReason": "",
+     "sections": [
+      {
+       "id": "mw-11-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "mw-11-1-1",
+         "name": "出版物的成本及其构成",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-11-1-2",
+         "name": "出版物的本量利分析",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-11-1-3",
+         "name": "出版物定价与毛利预测",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-11-1-4",
+         "name": "数字出版产品的成本构成和成本分类",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-11-1-5",
+         "name": "数字出版产品的定价",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-11-1-6",
+         "name": "出版物成本的总体构成和具体项目",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-11-1-7",
+         "name": "本量利分析的原则",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-11-1-8",
+         "name": "出版物变动成本、固定成本的特性和包括的费用项目",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-11-1-9",
+         "name": "本量利分析中常用的基本概念",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-11-1-10",
+         "name": "本量利分析的基本公式和主要应用",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-11-1-11",
+         "name": "影响出版物定价的因素",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-11-1-12",
+         "name": "出版物的定价目标",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-11-1-13",
+         "name": "成本定价法的基本原理和计算公式",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-11-1-14",
+         "name": "印张定价法的原理和计算公式",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-11-1-15",
+         "name": "理解价值定价法、需求差别定价法、随行就市定价法",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-11-1-16",
+         "name": "出版物毛利预测",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "mw-12",
+     "name": "第十二章 国际出版合作与中国出版“走出去”（原著作权贸易与国际出版合作）",
+     "isNew": false,
+     "newReason": "",
+     "sections": [
+      {
+       "id": "mw-12-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "mw-12-1-1",
+         "name": "国外出版基本格局",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-12-1-2",
+         "name": "国外知名出版机构和主要国际出版相关组织",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-12-1-3",
+         "name": "主要国际书展",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-12-1-4",
+         "name": "著作权贸易的基本概念和特点",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-12-1-5",
+         "name": "著作权贸易的分类和著作权代理",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-12-1-6",
+         "name": "著作权贸易信息的获取",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-12-1-7",
+         "name": "著作权贸易谈判",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-12-1-8",
+         "name": "著作权贸易合同及其履行",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-12-1-9",
+         "name": "国际出版合作的概念和主要形式",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-12-1-10",
+         "name": "中国出版“走出去”重点项目",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-12-1-11",
+         "name": "著作权贸易信息的获取途径",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-12-1-12",
+         "name": "确定著作权归属的方式和著作权贸易谈判的前期准备",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-12-1-13",
+         "name": "著作权贸易谈判的方式与策略",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "mw-13",
+     "name": "第十三章 编辑应用文写作",
+     "isNew": false,
+     "newReason": "",
+     "sections": [
+      {
+       "id": "mw-13-1",
+       "name": "考试内容（按2026大纲）",
+       "isNew": false,
+       "newReason": "",
+       "points": [
+        {
+         "id": "mw-13-1-1",
+         "name": "编辑应用文的概念、主要类型和特点",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-13-1-2",
+         "name": "撰写编辑应用文的基本要求",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-13-1-3",
+         "name": "选题报告、编辑计划、审稿意见的写作特点和要求",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-13-1-4",
+         "name": "编辑工作书信的写作特点和要求",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-13-1-5",
+         "name": "主要书刊辅文的写作特点和要求",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-13-1-6",
+         "name": "出版物宣传文案的写作特点和要求",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-13-1-7",
+         "name": "选题报告的撰写要领",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-13-1-8",
+         "name": "编辑计划的撰写要领",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-13-1-9",
+         "name": "审稿意见的撰写要领",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-13-1-10",
+         "name": "约稿信、退修信、退稿信的撰写要领",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-13-1-11",
+         "name": "日常联系信、答读者信的撰写要领",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-13-1-12",
+         "name": "作者简介、内容提要、出版前言和编者按的撰写要领",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-13-1-13",
+         "name": "凡例的撰写要领",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-13-1-14",
+         "name": "出版后记的撰写要领",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-13-1-15",
+         "name": "出版物预告的撰写要领",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-13-1-16",
+         "name": "出版物简介、出版简讯的撰写要领",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-13-1-17",
+         "name": "出版物广告文字的类型",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-13-1-18",
+         "name": "出版物广告文字的撰写要领",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-13-1-19",
+         "name": "出版物评论的种类",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-13-1-20",
+         "name": "出版物评论的撰写要领",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-13-1-21",
+         "name": "新媒体宣传文案的特点和主要类型",
+         "isNew": false,
+         "newReason": ""
+        },
+        {
+         "id": "mw-13-1-22",
+         "name": "新媒体宣传文案的撰写要领",
+         "isNew": false,
+         "newReason": ""
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
