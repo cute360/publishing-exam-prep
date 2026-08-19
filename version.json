@@ -1,6 +1,6 @@
 {
  "appName": "出版刷题",
- "updatedAt": "2026-08-20 00:12",
+ "updatedAt": "2026-08-20 01:01",
  "bank": {
   "questions-mw": {
    "sha1": "38BBD0C99DD1224B08A42CFA7EB2DFE27D838D0D",
@@ -15,8 +15,8 @@
    "size": 2503893
   },
   "knowledge": {
-   "sha1": "B21B66C53970B28642AD92D9B165DEFD2E450CDF",
-   "size": 168953
+   "sha1": "45F84792C6EA3DD067F2890FBEC987DB5165314E",
+   "size": 168338
   },
   "questions-jc": {
    "sha1": "7679B7E993E195554552AEC6FFC071CCDB4E4832",
