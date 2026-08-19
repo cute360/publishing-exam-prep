@@ -120,7 +120,7 @@
         }
        ],
        "id": "jc-1-4",
-       "isNew": true,
+       "isNew": false,
        "newReason": "响应中央关于出版深度融合发展政策，属于近年强化内容。"
       },
       {
@@ -278,7 +278,7 @@
         }
        ],
        "id": "jc-3-1",
-       "isNew": false,
+       "isNew": true,
        "newReason": ""
       },
       {
@@ -304,7 +304,7 @@
         }
        ],
        "id": "jc-3-2",
-       "isNew": false,
+       "isNew": true,
        "newReason": ""
       },
       {
@@ -342,12 +342,12 @@
         }
        ],
        "id": "jc-3-3",
-       "isNew": false,
+       "isNew": true,
        "newReason": ""
       }
      ],
      "id": "jc-3",
-     "isNew": false,
+     "isNew": true,
      "newReason": ""
     },
     {
@@ -550,7 +550,7 @@
         }
        ],
        "id": "jc-5-2",
-       "isNew": false,
+       "isNew": true,
        "newReason": ""
       },
       {
@@ -576,7 +576,7 @@
         }
        ],
        "id": "jc-5-3",
-       "isNew": false,
+       "isNew": true,
        "newReason": ""
       },
       {
@@ -608,7 +608,7 @@
         }
        ],
        "id": "jc-5-4",
-       "isNew": false,
+       "isNew": true,
        "newReason": ""
       },
       {
@@ -634,7 +634,7 @@
         }
        ],
        "id": "jc-5-5",
-       "isNew": false,
+       "isNew": true,
        "newReason": ""
       },
       {
@@ -672,12 +672,12 @@
         }
        ],
        "id": "jc-5-6",
-       "isNew": false,
+       "isNew": true,
        "newReason": ""
       }
      ],
      "id": "jc-5",
-     "isNew": false,
+     "isNew": true,
      "newReason": ""
     },
     {
@@ -757,7 +757,7 @@
       }
      ],
      "id": "jc-6",
-     "isNew": false,
+     "isNew": true,
      "newReason": ""
     },
     {
@@ -792,7 +792,7 @@
         }
        ],
        "id": "jc-7-1",
-       "isNew": false,
+       "isNew": true,
        "newReason": ""
       },
       {
@@ -818,7 +818,7 @@
         }
        ],
        "id": "jc-7-2",
-       "isNew": false,
+       "isNew": true,
        "newReason": ""
       },
       {
@@ -850,7 +850,7 @@
         }
        ],
        "id": "jc-7-3",
-       "isNew": false,
+       "isNew": true,
        "newReason": ""
       },
       {
@@ -876,7 +876,7 @@
         }
        ],
        "id": "jc-7-4",
-       "isNew": false,
+       "isNew": true,
        "newReason": ""
       },
       {
@@ -902,7 +902,7 @@
         }
        ],
        "id": "jc-7-5",
-       "isNew": false,
+       "isNew": true,
        "newReason": ""
       },
       {
@@ -934,7 +934,7 @@
         }
        ],
        "id": "jc-7-6",
-       "isNew": false,
+       "isNew": true,
        "newReason": ""
       },
       {
@@ -971,7 +971,7 @@
       }
      ],
      "id": "jc-7",
-     "isNew": false,
+     "isNew": true,
      "newReason": ""
     },
     {
@@ -2090,7 +2090,7 @@
         }
        ],
        "id": "sw-1-7",
-       "isNew": true,
+       "isNew": false,
        "newReason": "主题出版是近年教材新增和强化的选题策划内容"
       },
       {
@@ -2110,7 +2110,7 @@
         }
        ],
        "id": "sw-1-8",
-       "isNew": true,
+       "isNew": false,
        "newReason": "国家重点出版项目策划是近年教材新增和强化的内容"
       }
      ],
@@ -2414,7 +2414,7 @@
         }
        ],
        "id": "sw-3-4",
-       "isNew": true,
+       "isNew": false,
        "newReason": "期刊新媒体传播属于近年强化的新媒体运营内容"
       }
      ],
@@ -2454,7 +2454,7 @@
         }
        ],
        "id": "sw-4-1",
-       "isNew": true,
+       "isNew": false,
        "newReason": "人工智能在书刊整体设计中的应用是近年新增内容"
       },
       {
@@ -2814,7 +2814,7 @@
         }
        ],
        "id": "sw-5-5",
-       "isNew": true,
+       "isNew": false,
        "newReason": "审校软件的应用及人工智能审校是近年新增内容"
       }
      ],
@@ -2860,7 +2860,7 @@
         }
        ],
        "id": "sw-6-1",
-       "isNew": true,
+       "isNew": false,
        "newReason": "绿色印刷是近年强化的印制管理新要求"
       },
       {
@@ -3172,7 +3172,7 @@
         }
        ],
        "id": "sw-8-1",
-       "isNew": false,
+       "isNew": true,
        "newReason": ""
       },
       {
@@ -3216,7 +3216,7 @@
         }
        ],
        "id": "sw-8-2",
-       "isNew": false,
+       "isNew": true,
        "newReason": ""
       },
       {
@@ -3248,7 +3248,7 @@
         }
        ],
        "id": "sw-8-3",
-       "isNew": false,
+       "isNew": true,
        "newReason": ""
       },
       {
@@ -3274,12 +3274,12 @@
         }
        ],
        "id": "sw-8-4",
-       "isNew": false,
+       "isNew": true,
        "newReason": ""
       }
      ],
      "id": "sw-8",
-     "isNew": false,
+     "isNew": true,
      "newReason": ""
     },
     {
@@ -3371,7 +3371,7 @@
       }
      ],
      "id": "sw-9",
-     "isNew": false,
+     "isNew": true,
      "newReason": ""
     },
     {
@@ -3465,7 +3465,7 @@
       }
      ],
      "id": "sw-10",
-     "isNew": false,
+     "isNew": true,
      "newReason": ""
     },
     {
@@ -3488,7 +3488,7 @@
         }
        ],
        "id": "sw-11-1",
-       "isNew": false,
+       "isNew": true,
        "newReason": ""
       },
       {
@@ -3514,7 +3514,7 @@
         }
        ],
        "id": "sw-11-2",
-       "isNew": false,
+       "isNew": true,
        "newReason": ""
       },
       {
@@ -3546,7 +3546,7 @@
         }
        ],
        "id": "sw-11-3",
-       "isNew": false,
+       "isNew": true,
        "newReason": ""
       },
       {
@@ -3577,7 +3577,7 @@
       }
      ],
      "id": "sw-11",
-     "isNew": false,
+     "isNew": true,
      "newReason": ""
     },
     {
@@ -3612,7 +3612,7 @@
         }
        ],
        "id": "sw-12-1",
-       "isNew": false,
+       "isNew": true,
        "newReason": ""
       },
       {
@@ -3638,7 +3638,7 @@
         }
        ],
        "id": "sw-12-2",
-       "isNew": false,
+       "isNew": true,
        "newReason": ""
       },
       {
@@ -3669,7 +3669,7 @@
       }
      ],
      "id": "sw-12",
-     "isNew": false,
+     "isNew": true,
      "newReason": ""
     },
     {
@@ -3838,7 +3838,7 @@
         }
        ],
        "id": "sw-13-5",
-       "isNew": true,
+       "isNew": false,
        "newReason": "新媒体宣传文案是新媒体运营在宣传中的新增应用"
       }
      ],
@@ -3860,7 +3860,7 @@
      "sections": [
       {
        "id": "md-1-1",
-       "name": "考试内容（按2026大纲）",
+       "name": "本章考点",
        "isNew": false,
        "newReason": "",
        "points": [
@@ -3960,14 +3960,14 @@
     },
     {
      "id": "md-2",
-     "name": "第二章 数字出版基础【新增】",
+     "name": "第二章 数字出版基础",
      "isNew": true,
      "newReason": "2026中级大纲新增模块",
      "sections": [
       {
        "id": "md-2-1",
-       "name": "考试内容（按2026大纲）",
-       "isNew": false,
+       "name": "本章考点",
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -4126,7 +4126,7 @@
      "sections": [
       {
        "id": "md-3-1",
-       "name": "考试内容（按2026大纲）",
+       "name": "本章考点",
        "isNew": false,
        "newReason": "",
        "points": [
@@ -4184,7 +4184,7 @@
      "sections": [
       {
        "id": "md-4-1",
-       "name": "考试内容（按2026大纲）",
+       "name": "本章考点",
        "isNew": false,
        "newReason": "",
        "points": [
@@ -4296,7 +4296,7 @@
      "sections": [
       {
        "id": "md-5-1",
-       "name": "考试内容（按2026大纲）",
+       "name": "本章考点",
        "isNew": false,
        "newReason": "",
        "points": [
@@ -4426,14 +4426,14 @@
     },
     {
      "id": "md-6",
-     "name": "第六章 数字内容资源【新增】",
+     "name": "第六章 数字内容资源",
      "isNew": true,
      "newReason": "2026中级大纲新增模块",
      "sections": [
       {
        "id": "md-6-1",
-       "name": "考试内容（按2026大纲）",
-       "isNew": false,
+       "name": "本章考点",
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -4532,7 +4532,7 @@
      "sections": [
       {
        "id": "md-7-1",
-       "name": "考试内容（按2026大纲）",
+       "name": "本章考点",
        "isNew": false,
        "newReason": "",
        "points": [
@@ -4650,7 +4650,7 @@
      "sections": [
       {
        "id": "md-8-1",
-       "name": "考试内容（按2026大纲）",
+       "name": "本章考点",
        "isNew": false,
        "newReason": "",
        "points": [
@@ -4798,14 +4798,14 @@
     },
     {
      "id": "md-9",
-     "name": "第九章 出版物的文字规范【新增】",
+     "name": "第九章 出版物的文字规范",
      "isNew": true,
      "newReason": "2026中级大纲新增模块",
      "sections": [
       {
        "id": "md-9-1",
-       "name": "考试内容（按2026大纲）",
-       "isNew": false,
+       "name": "本章考点",
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -4844,14 +4844,14 @@
     },
     {
      "id": "md-10",
-     "name": "第十章 汉语语法与修辞知识【新增】",
+     "name": "第十章 汉语语法与修辞知识",
      "isNew": true,
      "newReason": "2026中级大纲新增模块",
      "sections": [
       {
        "id": "md-10-1",
-       "name": "考试内容（按2026大纲）",
-       "isNew": false,
+       "name": "本章考点",
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -4902,14 +4902,14 @@
     },
     {
      "id": "md-11",
-     "name": "第十一章 形式逻辑常识【新增】",
+     "name": "第十一章 形式逻辑常识",
      "isNew": true,
      "newReason": "2026中级大纲新增模块",
      "sections": [
       {
        "id": "md-11-1",
-       "name": "考试内容（按2026大纲）",
-       "isNew": false,
+       "name": "本章考点",
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -5050,14 +5050,14 @@
     },
     {
      "id": "md-12",
-     "name": "第十二章 古代汉语与中国古代文化常识【新增】",
+     "name": "第十二章 古代汉语与中国古代文化常识",
      "isNew": true,
      "newReason": "2026中级大纲新增模块",
      "sections": [
       {
        "id": "md-12-1",
-       "name": "考试内容（按2026大纲）",
-       "isNew": false,
+       "name": "本章考点",
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -5132,7 +5132,7 @@
      "sections": [
       {
        "id": "md-13-1",
-       "name": "考试内容（按2026大纲）",
+       "name": "本章考点",
        "isNew": false,
        "newReason": "",
        "points": [
@@ -5166,7 +5166,7 @@
      "sections": [
       {
        "id": "md-14-1",
-       "name": "考试内容（按2026大纲）",
+       "name": "本章考点",
        "isNew": false,
        "newReason": "",
        "points": [
@@ -5206,7 +5206,7 @@
      "sections": [
       {
        "id": "mw-1-1",
-       "name": "考试内容（按2026大纲）",
+       "name": "本章考点",
        "isNew": false,
        "newReason": "",
        "points": [
@@ -5336,7 +5336,7 @@
      "sections": [
       {
        "id": "mw-2-1",
-       "name": "考试内容（按2026大纲）",
+       "name": "本章考点",
        "isNew": false,
        "newReason": "",
        "points": [
@@ -5466,7 +5466,7 @@
      "sections": [
       {
        "id": "mw-3-1",
-       "name": "考试内容（按2026大纲）",
+       "name": "本章考点",
        "isNew": false,
        "newReason": "",
        "points": [
@@ -5578,7 +5578,7 @@
      "sections": [
       {
        "id": "mw-4-1",
-       "name": "考试内容（按2026大纲）",
+       "name": "本章考点",
        "isNew": false,
        "newReason": "",
        "points": [
@@ -5684,7 +5684,7 @@
      "sections": [
       {
        "id": "mw-5-1",
-       "name": "考试内容（按2026大纲）",
+       "name": "本章考点",
        "isNew": false,
        "newReason": "",
        "points": [
@@ -5820,7 +5820,7 @@
      "sections": [
       {
        "id": "mw-6-1",
-       "name": "考试内容（按2026大纲）",
+       "name": "本章考点",
        "isNew": false,
        "newReason": "",
        "points": [
@@ -5932,7 +5932,7 @@
      "sections": [
       {
        "id": "mw-7-1",
-       "name": "考试内容（按2026大纲）",
+       "name": "本章考点",
        "isNew": false,
        "newReason": "",
        "points": [
@@ -6008,7 +6008,7 @@
      "sections": [
       {
        "id": "mw-8-1",
-       "name": "考试内容（按2026大纲）",
+       "name": "本章考点",
        "isNew": false,
        "newReason": "",
        "points": [
@@ -6114,7 +6114,7 @@
      "sections": [
       {
        "id": "mw-9-1",
-       "name": "考试内容（按2026大纲）",
+       "name": "本章考点",
        "isNew": false,
        "newReason": "",
        "points": [
@@ -6232,7 +6232,7 @@
      "sections": [
       {
        "id": "mw-10-1",
-       "name": "考试内容（按2026大纲）",
+       "name": "本章考点",
        "isNew": false,
        "newReason": "",
        "points": [
@@ -6320,7 +6320,7 @@
      "sections": [
       {
        "id": "mw-11-1",
-       "name": "考试内容（按2026大纲）",
+       "name": "本章考点",
        "isNew": false,
        "newReason": "",
        "points": [
@@ -6432,7 +6432,7 @@
      "sections": [
       {
        "id": "mw-12-1",
-       "name": "考试内容（按2026大纲）",
+       "name": "本章考点",
        "isNew": false,
        "newReason": "",
        "points": [
@@ -6526,7 +6526,7 @@
      "sections": [
       {
        "id": "mw-13-1",
-       "name": "考试内容（按2026大纲）",
+       "name": "本章考点",
        "isNew": false,
        "newReason": "",
        "points": [
