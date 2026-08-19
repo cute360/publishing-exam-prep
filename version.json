@@ -1,29 +1,29 @@
 {
-    "appName":  "出版刷题",
-    "updatedAt":  "2026-08-20 00:12",
-    "bank":  {
-                 "questions-mw":  {
-                                      "sha1":  "38BBD0C99DD1224B08A42CFA7EB2DFE27D838D0D",
-                                      "size":  2493272
-                                  },
-                 "questions-sw":  {
-                                      "sha1":  "C0CED641CC1E39089A145BBBA8BFCEDBAB5B0179",
-                                      "size":  2173432
-                                  },
-                 "questions-md":  {
-                                      "sha1":  "1DF6B17D66131B71890B8030794E911A3BBFE63C",
-                                      "size":  2503893
-                                  },
-                 "knowledge":  {
-                                   "sha1":  "B21B66C53970B28642AD92D9B165DEFD2E450CDF",
-                                   "size":  168953
-                               },
-                 "questions-jc":  {
-                                      "sha1":  "7679B7E993E195554552AEC6FFC071CCDB4E4832",
-                                      "size":  2189427
-                                  }
-             },
-    "notes":  "v2.19：新增中级题库（基础+实务）与2021-2023真题；历史/错题按级别与科目区分；全部解析支持左右滑动；刷题选项随机乱序防背答案位置；新增全章节随机按钮；修复下载新版本后自动打开安装界面；题库去重与空缺考点补齐。",
-    "appVersion":  "2.19",
-    "apkUrl":  "/download/publish-quiz-v2.19.apk"
+ "appName": "出版刷题",
+ "updatedAt": "2026-08-20 00:12",
+ "bank": {
+  "questions-mw": {
+   "sha1": "38BBD0C99DD1224B08A42CFA7EB2DFE27D838D0D",
+   "size": 2493272
+  },
+  "questions-sw": {
+   "sha1": "C0CED641CC1E39089A145BBBA8BFCEDBAB5B0179",
+   "size": 2173432
+  },
+  "questions-md": {
+   "sha1": "1DF6B17D66131B71890B8030794E911A3BBFE63C",
+   "size": 2503893
+  },
+  "knowledge": {
+   "sha1": "B21B66C53970B28642AD92D9B165DEFD2E450CDF",
+   "size": 168953
+  },
+  "questions-jc": {
+   "sha1": "7679B7E993E195554552AEC6FFC071CCDB4E4832",
+   "size": 2189427
+  }
+ },
+ "notes": "新增中级题库（基础+实务）与2021-2023历年真题，全面覆盖2026年大纲并补齐空缺考点\n首页支持初级/中级级别切换；历史与错题按级别、科目区分展示\n新增「全章节随机」一键刷题；刷题选项随机乱序防止背答案位置\n「全部解析」页去掉底部按钮栏，支持左右滑动切换上下题\n题库按题干去重、修复解析错配与选项缺失等200余处\n修复：下载新版本后自动打开安装界面（首次按引导开启“允许安装未知应用”）\n设置页新增可编辑“更新源”",
+ "appVersion": "2.19",
+ "apkUrl": "/download/publish-quiz-v2.19.apk"
 }
