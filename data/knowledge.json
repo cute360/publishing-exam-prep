@@ -278,7 +278,7 @@
         }
        ],
        "id": "jc-3-1",
-       "isNew": true,
+       "isNew": false,
        "newReason": ""
       },
       {
@@ -304,7 +304,7 @@
         }
        ],
        "id": "jc-3-2",
-       "isNew": true,
+       "isNew": false,
        "newReason": ""
       },
       {
@@ -342,7 +342,7 @@
         }
        ],
        "id": "jc-3-3",
-       "isNew": true,
+       "isNew": false,
        "newReason": ""
       }
      ],
@@ -530,7 +530,7 @@
         }
        ],
        "id": "jc-5-1",
-       "isNew": true,
+       "isNew": false,
        "newReason": "经营管理信息化、智能化是近年强化内容，融合数字技术与管理。"
       },
       {
@@ -550,7 +550,7 @@
         }
        ],
        "id": "jc-5-2",
-       "isNew": true,
+       "isNew": false,
        "newReason": ""
       },
       {
@@ -576,7 +576,7 @@
         }
        ],
        "id": "jc-5-3",
-       "isNew": true,
+       "isNew": false,
        "newReason": ""
       },
       {
@@ -608,7 +608,7 @@
         }
        ],
        "id": "jc-5-4",
-       "isNew": true,
+       "isNew": false,
        "newReason": ""
       },
       {
@@ -634,7 +634,7 @@
         }
        ],
        "id": "jc-5-5",
-       "isNew": true,
+       "isNew": false,
        "newReason": ""
       },
       {
@@ -672,7 +672,7 @@
         }
        ],
        "id": "jc-5-6",
-       "isNew": true,
+       "isNew": false,
        "newReason": ""
       }
      ],
@@ -792,7 +792,7 @@
         }
        ],
        "id": "jc-7-1",
-       "isNew": true,
+       "isNew": false,
        "newReason": ""
       },
       {
@@ -818,7 +818,7 @@
         }
        ],
        "id": "jc-7-2",
-       "isNew": true,
+       "isNew": false,
        "newReason": ""
       },
       {
@@ -850,7 +850,7 @@
         }
        ],
        "id": "jc-7-3",
-       "isNew": true,
+       "isNew": false,
        "newReason": ""
       },
       {
@@ -876,7 +876,7 @@
         }
        ],
        "id": "jc-7-4",
-       "isNew": true,
+       "isNew": false,
        "newReason": ""
       },
       {
@@ -902,7 +902,7 @@
         }
        ],
        "id": "jc-7-5",
-       "isNew": true,
+       "isNew": false,
        "newReason": ""
       },
       {
@@ -934,7 +934,7 @@
         }
        ],
        "id": "jc-7-6",
-       "isNew": true,
+       "isNew": false,
        "newReason": ""
       },
       {
@@ -966,7 +966,7 @@
         }
        ],
        "id": "jc-7-7",
-       "isNew": true,
+       "isNew": false,
        "newReason": "新时代出版业高质量发展为近年新增，反映高质量发展主题。"
       }
      ],
@@ -1779,7 +1779,7 @@
       {
        "id": "jc-13-1",
        "name": "第一节 出版法律法规体系",
-       "isNew": true,
+       "isNew": false,
        "newReason": "2026大纲新增",
        "points": [
         {
@@ -1805,7 +1805,7 @@
       {
        "id": "jc-13-2",
        "name": "第二节 年度新颁布法规动态",
-       "isNew": true,
+       "isNew": false,
        "newReason": "2026大纲新增",
        "points": [
         {
@@ -1833,7 +1833,7 @@
       {
        "id": "jc-14-1",
        "name": "第一节 习近平新时代中国特色社会主义思想与重要精神",
-       "isNew": true,
+       "isNew": false,
        "newReason": "2026大纲新增",
        "points": [
         {
@@ -1865,7 +1865,7 @@
       {
        "id": "jc-14-2",
        "name": "第二节 年度重大时事",
-       "isNew": true,
+       "isNew": false,
        "newReason": "2026大纲新增",
        "points": [
         {
@@ -3172,7 +3172,7 @@
         }
        ],
        "id": "sw-8-1",
-       "isNew": true,
+       "isNew": false,
        "newReason": ""
       },
       {
@@ -3216,7 +3216,7 @@
         }
        ],
        "id": "sw-8-2",
-       "isNew": true,
+       "isNew": false,
        "newReason": ""
       },
       {
@@ -3248,7 +3248,7 @@
         }
        ],
        "id": "sw-8-3",
-       "isNew": true,
+       "isNew": false,
        "newReason": ""
       },
       {
@@ -3274,7 +3274,7 @@
         }
        ],
        "id": "sw-8-4",
-       "isNew": true,
+       "isNew": false,
        "newReason": ""
       }
      ],
@@ -3488,7 +3488,7 @@
         }
        ],
        "id": "sw-11-1",
-       "isNew": true,
+       "isNew": false,
        "newReason": ""
       },
       {
@@ -3514,7 +3514,7 @@
         }
        ],
        "id": "sw-11-2",
-       "isNew": true,
+       "isNew": false,
        "newReason": ""
       },
       {
@@ -3546,7 +3546,7 @@
         }
        ],
        "id": "sw-11-3",
-       "isNew": true,
+       "isNew": false,
        "newReason": ""
       },
       {
@@ -3572,7 +3572,7 @@
         }
        ],
        "id": "sw-11-4",
-       "isNew": true,
+       "isNew": false,
        "newReason": "数字出版产品的成本构成和定价是近年新增内容"
       }
      ],
@@ -3612,7 +3612,7 @@
         }
        ],
        "id": "sw-12-1",
-       "isNew": true,
+       "isNew": false,
        "newReason": ""
       },
       {
@@ -3638,7 +3638,7 @@
         }
        ],
        "id": "sw-12-2",
-       "isNew": true,
+       "isNew": false,
        "newReason": ""
       },
       {
@@ -3664,7 +3664,7 @@
         }
        ],
        "id": "sw-12-3",
-       "isNew": true,
+       "isNew": false,
        "newReason": "中国出版“走出去”是近年重点强化的国际合作内容"
       }
      ],
@@ -3983,7 +3983,7 @@
       {
        "id": "md-2-1",
        "name": "第一节 数字出版概述",
-       "isNew": false,
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -4057,7 +4057,7 @@
       {
        "id": "md-2-2",
        "name": "第二节 数字出版产业",
-       "isNew": false,
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -4083,7 +4083,7 @@
       {
        "id": "md-2-3",
        "name": "第三节 数字出版技术与标准",
-       "isNew": false,
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -4127,7 +4127,7 @@
       {
        "id": "md-2-4",
        "name": "第四节 数字出版管理",
-       "isNew": false,
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -4529,7 +4529,7 @@
       {
        "id": "md-6-1",
        "name": "第一节 概念与类型",
-       "isNew": false,
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -4573,7 +4573,7 @@
       {
        "id": "md-6-2",
        "name": "第二节 加工与标引",
-       "isNew": false,
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -4599,7 +4599,7 @@
       {
        "id": "md-6-3",
        "name": "第三节 资源管理",
-       "isNew": false,
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -4956,7 +4956,7 @@
       {
        "id": "md-9-1",
        "name": "第一节 汉字规范",
-       "isNew": false,
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -4970,7 +4970,7 @@
       {
        "id": "md-9-2",
        "name": "第二节 汉语拼音与语音",
-       "isNew": false,
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -4984,7 +4984,7 @@
       {
        "id": "md-9-3",
        "name": "第三节 标点符号",
-       "isNew": false,
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -4998,7 +4998,7 @@
       {
        "id": "md-9-4",
        "name": "第四节 数字、计量与科技名词",
-       "isNew": false,
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -5026,7 +5026,7 @@
       {
        "id": "md-10-1",
        "name": "第一节 词汇",
-       "isNew": false,
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -5052,7 +5052,7 @@
       {
        "id": "md-10-2",
        "name": "第二节 短语与句子（语法）",
-       "isNew": false,
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -5072,7 +5072,7 @@
       {
        "id": "md-10-3",
        "name": "第三节 修辞",
-       "isNew": false,
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -5100,7 +5100,7 @@
       {
        "id": "md-11-1",
        "name": "第一节 概念",
-       "isNew": false,
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -5144,7 +5144,7 @@
       {
        "id": "md-11-2",
        "name": "第二节 判断",
-       "isNew": false,
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -5176,7 +5176,7 @@
       {
        "id": "md-11-3",
        "name": "第三节 推理",
-       "isNew": false,
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -5208,7 +5208,7 @@
       {
        "id": "md-11-4",
        "name": "第四节 论证与逻辑思维规律",
-       "isNew": false,
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -5272,7 +5272,7 @@
       {
        "id": "md-12-1",
        "name": "第一节 古代汉语",
-       "isNew": false,
+       "isNew": true,
        "newReason": "",
        "points": [
         {
@@ -5316,7 +5316,7 @@
       {
        "id": "md-12-2",
        "name": "第二节 中国古代文化常识",
-       "isNew": false,
+       "isNew": true,
        "newReason": "",
        "points": [
         {
