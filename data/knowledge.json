@@ -347,7 +347,7 @@
       }
      ],
      "id": "jc-3",
-     "isNew": true,
+     "isNew": false,
      "newReason": ""
     },
     {
@@ -677,7 +677,7 @@
       }
      ],
      "id": "jc-5",
-     "isNew": true,
+     "isNew": false,
      "newReason": ""
     },
     {
@@ -971,7 +971,7 @@
       }
      ],
      "id": "jc-7",
-     "isNew": true,
+     "isNew": false,
      "newReason": ""
     },
     {
@@ -1773,7 +1773,7 @@
     {
      "id": "jc-13",
      "name": "第十三章 有关出版的法律法规和标准规范",
-     "isNew": true,
+     "isNew": false,
      "newReason": "2026大纲新增模块",
      "sections": [
       {
@@ -1827,7 +1827,7 @@
     {
      "id": "jc-14",
      "name": "第十四章 时事政治",
-     "isNew": true,
+     "isNew": false,
      "newReason": "2026大纲新增模块",
      "sections": [
       {
@@ -3279,7 +3279,7 @@
       }
      ],
      "id": "sw-8",
-     "isNew": true,
+     "isNew": false,
      "newReason": ""
     },
     {
@@ -3577,7 +3577,7 @@
       }
      ],
      "id": "sw-11",
-     "isNew": true,
+     "isNew": false,
      "newReason": ""
     },
     {
@@ -3669,7 +3669,7 @@
       }
      ],
      "id": "sw-12",
-     "isNew": true,
+     "isNew": false,
      "newReason": ""
     },
     {
