@@ -1,26 +1,26 @@
 {
  "appName": "出版刷题",
- "updatedAt": "2026-08-25 19:13",
+ "updatedAt": "2026-08-25 19:29",
  "bank": {
-  "questions-mw": {
-   "sha1": "9B94CAABC87121C140B92E8E76C0615EF21496D5",
-   "size": 2245520
-  },
-  "questions-sw": {
-   "sha1": "B29F54CB00D616BCEE6E3A79DB8F68F5E3D00EBF",
-   "size": 2045765
-  },
-  "questions-md": {
-   "sha1": "DA268E5D038FBE186B9BE053AD10FE1C9E079504",
-   "size": 2348314
-  },
   "knowledge": {
    "sha1": "2CFA642FBCC42F6FD675A1FA44AA25514E840008",
    "size": 178734
   },
   "questions-jc": {
-   "sha1": "38CE216CB033CDDD754C3757039AE810E583DF98",
-   "size": 2102328
+   "sha1": "25D2979E91B50640855696DD340A80B6F8E88958",
+   "size": 2100242
+  },
+  "questions-sw": {
+   "sha1": "31E0B82B2EA55E606419C932730121BD9DE1F1E7",
+   "size": 2043593
+  },
+  "questions-md": {
+   "sha1": "05A93F103C51547530D2F42EA05653AC5B9E8D67",
+   "size": 2344237
+  },
+  "questions-mw": {
+   "sha1": "FD28E4BE36BD7B511431F146D29BC1661CB1C148",
+   "size": 2241104
   }
  },
  "notes": "解析文字的大写选项字母自动跟随乱序显示，与选项永远对应\n题库更新：进入自动静默应用并提示已更新到最新；手动检查带进度条\n错题本每题显示年份真题/新编题标签；历史与错题中已下线题目显示友好提示\n修复：按用户反馈修正6道题并清理广告水印（题库数据已更新）",
