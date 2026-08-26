@@ -2552,35 +2552,6 @@
   "notes": "判断题/综合题子题（无选项）"
  },
  {
-  "id": "q-2013-jc-069",
-  "subject": "jc",
-  "type": "composite",
-  "source": {
-   "kind": "exam",
-   "year": 2013,
-   "paper": "2013-jc",
-   "qno": "70",
-   "section": null
-  },
-  "kpId": "jc-12-2-5",
-  "stem": "释词翻译题：阅读古文，解释文中加点的词，并将画线的部分译成现代汉语。（本题12分）",
-  "options": [],
-  "answer": [],
-  "explanation": "",
-  "subQuestions": [
-   {
-    "qno": "70",
-    "stem": "释词翻译题：阅读古文，解释文中加点的词，并将画线的部分译成现代汉语。（本题12分）",
-    "answer": [],
-    "explanation": "本题为**释词翻译题**，无固定选项，答案需根据具体古文内容作答。解析时应结合教材中古代汉语词义、句式及翻译要求，逐词解释加点词，并将画线句**直译为主、意译为辅**，注意关键实词、虚词及特殊句式。因未提供原文，无法给出具体解析，需依据实际文段作答。"
-   }
-  ],
-  "referenceAnswer": "本题为**释词翻译题**，无固定选项，答案需根据具体古文内容作答。解析时应结合教材中古代汉语词义、句式及翻译要求，逐词解释加点词，并将画线句**直译为主、意译为辅**，注意关键实词、虚词及特殊句式。因未提供原文，无法给出具体解析，需依据实际文段作答。",
-  "explanationSrc": "ai",
-  "status": "reviewed",
-  "notes": "判断题/综合题子题（无选项）"
- },
- {
   "id": "q-2014-jc-070",
   "subject": "jc",
   "type": "single",
@@ -13532,76 +13503,6 @@
   "explanationSrc": "official",
   "status": "reviewed",
   "notes": ""
- },
- {
-  "id": "q-2017-jc-361",
-  "subject": "jc",
-  "type": "composite",
-  "source": {
-   "kind": "exam",
-   "year": 2017,
-   "paper": "2017-jc",
-   "qno": "76",
-   "section": null
-  },
-  "kpId": "jc-3-2-1",
-  "stem": "审稿题：审读短篇，按照审稿的基本要求指出其中存在的错误或缺漏。（本题20分）",
-  "options": [],
-  "answer": [],
-  "explanation": "",
-  "subQuestions": [
-   {
-    "qno": "76",
-    "stem": "审稿题：审读短篇，按照审稿的基本要求指出其中存在的错误或缺漏。（本题20分）",
-    "answer": [],
-    "explanation": "该题为审稿题，需根据具体短篇内容作答。审稿基本要求包括：政治性、思想性、科学性、知识性、独创性、稳定性、艺术性等，需指出短篇中存在的政治错误、事实错误、逻辑错误或文字差错等，具体答案取决于所给短篇。"
-   }
-  ],
-  "referenceAnswer": "该题为审稿题，需根据具体短篇内容作答。审稿基本要求包括：政治性、思想性、科学性、知识性、独创性、稳定性、艺术性等，需指出短篇中存在的政治错误、事实错误、逻辑错误或文字差错等，具体答案取决于所给短篇。",
-  "explanationSrc": "ai",
-  "status": "reviewed",
-  "notes": "判断题/综合题子题（无选项）"
- },
- {
-  "id": "q-2017-jc-363",
-  "subject": "jc",
-  "type": "composite",
-  "source": {
-   "kind": "exam",
-   "year": 2017,
-   "paper": "2017-jc",
-   "qno": "问题一",
-   "section": null
-  },
-  "kpId": "jc-8-2-2",
-  "stem": "《马铃薯栽培技术》属于什么作品？请作选择回答。",
-  "material": "",
-  "options": [
-   {
-    "key": "A",
-    "text": "汇编作品"
-   },
-   {
-    "key": "B",
-    "text": "委托作品"
-   },
-   {
-    "key": "C",
-    "text": "合作作品"
-   },
-   {
-    "key": "D",
-    "text": "职务作品"
-   }
-  ],
-  "answer": [],
-  "explanation": "",
-  "explanationSrc": "official",
-  "status": "reviewed",
-  "notes": "缺答案",
-  "subQuestions": [],
-  "referenceAnswer": "",
-  "hasAnswer": false
  },
  {
   "id": "q-2017-jc-364",
