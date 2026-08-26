@@ -52244,57 +52244,6 @@
   "explanation": ""
  },
  {
-  "id": "q-share-mw-65",
-  "subject": "mw",
-  "type": "composite",
-  "source": {
-   "kind": "junior-share",
-   "year": 2018,
-   "paper": "从初级题库并入（初中级共用内容）",
-   "qno": "q-2018-sw-448"
-  },
-  "kpId": "mw-7-1-1",
-  "stem": "在发行该书的过程中，A 出版社采用了哪些引导消费的方法？",
-  "material": "",
-  "options": [],
-  "answer": [],
-  "explanation": ""
- },
- {
-  "id": "q-share-mw-66",
-  "subject": "mw",
-  "type": "composite",
-  "source": {
-   "kind": "junior-share",
-   "year": 2018,
-   "paper": "从初级题库并入（初中级共用内容）",
-   "qno": "q-2018-sw-449"
-  },
-  "kpId": "mw-7-1-1",
-  "stem": "在发行该书的过程中，A 出版社采用了哪些促进销售的方法？",
-  "material": "",
-  "options": [],
-  "answer": [],
-  "explanation": ""
- },
- {
-  "id": "q-share-mw-67",
-  "subject": "mw",
-  "type": "composite",
-  "source": {
-   "kind": "junior-share",
-   "year": 2018,
-   "paper": "从初级题库并入（初中级共用内容）",
-   "qno": "q-2018-sw-450"
-  },
-  "kpId": "mw-7-2-1",
-  "stem": "该书采用了什么购销形式？",
-  "material": "",
-  "options": [],
-  "answer": [],
-  "explanation": ""
- },
- {
   "id": "q-share-mw-68",
   "subject": "mw",
   "type": "composite",
@@ -52731,40 +52680,6 @@
   "explanation": ""
  },
  {
-  "id": "q-share-mw-80",
-  "subject": "mw",
-  "type": "composite",
-  "source": {
-   "kind": "junior-share",
-   "year": 2019,
-   "paper": "从初级题库并入（初中级共用内容）",
-   "qno": "q-2019-sw-535"
-  },
-  "kpId": "mw-7-2-1",
-  "stem": "C 大型网上书店实得的折扣额是多少万元？",
-  "material": "",
-  "options": [],
-  "answer": [],
-  "explanation": ""
- },
- {
-  "id": "q-share-mw-81",
-  "subject": "mw",
-  "type": "composite",
-  "source": {
-   "kind": "junior-share",
-   "year": 2019,
-   "paper": "从初级题库并入（初中级共用内容）",
-   "qno": "q-2019-sw-537"
-  },
-  "kpId": "mw-13-1-3",
-  "stem": "简答写作题：根据所给材料回答问题，并根据材料将选题报告补充完善。",
-  "material": "",
-  "options": [],
-  "answer": [],
-  "explanation": ""
- },
- {
   "id": "q-share-mw-82",
   "subject": "mw",
   "type": "single",
@@ -52932,40 +52847,6 @@
   },
   "kpId": "mw-7-1-1",
   "stem": "计算简答题：根据所给材料回答问题。（需计算后回答的问题，须列出算式；每个问题计算过程中的小数均保留实际位数，计算结果有小数的，小数保留2位。）（本题20分）为庆祝中国共产党建党100周年，某出版社面向少儿读者策划了《红色地标》一书，精选100个红色地标，图文并茂地讲述地标背后的历史故事。出版社于2021年6月30日举行了新书首发式，并进行了作者签售，签售时随书附赠精心绘制的打卡地图和红色参观护照。多家电视台、报纸等大众媒体进行了报道。同时，出版社通过其微信公众号报道了活动的盛况，并附上购买链接。另外，在某平台发布营销短视频，在网上书店进行网络直播营销。该书定价28元，首印50000册。A发行集团订购了15000册，发行折扣率为50%；B大型网上书店订购了10000册，发行折扣率为50%。因销售情况良好，出版社紧急加印了30000册。",
-  "material": "",
-  "options": [],
-  "answer": [],
-  "explanation": ""
- },
- {
-  "id": "q-share-mw-87",
-  "subject": "mw",
-  "type": "composite",
-  "source": {
-   "kind": "junior-share",
-   "year": 2021,
-   "paper": "从初级题库并入（初中级共用内容）",
-   "qno": "q-2021-sw-601"
-  },
-  "kpId": "mw-7-1-1",
-  "stem": "该书在发行过程中，出版社开展了哪些营销活动？",
-  "material": "",
-  "options": [],
-  "answer": [],
-  "explanation": ""
- },
- {
-  "id": "q-share-mw-88",
-  "subject": "mw",
-  "type": "composite",
-  "source": {
-   "kind": "junior-share",
-   "year": 2021,
-   "paper": "从初级题库并入（初中级共用内容）",
-   "qno": "q-2021-sw-603"
-  },
-  "kpId": "mw-7-1-1",
-  "stem": "A发行集团的进货码洋是多少万元？",
   "material": "",
   "options": [],
   "answer": [],
@@ -61229,25 +61110,6 @@
   "options": [],
   "answer": [
    "问题一：问题二：问题三：针对电子纸阅读器的流式电子书，正文文字的字体、字号都不用设置，文字本身也不用设置固定的颜色，因为电子纸阅读器可以对屏幕的阅读模式进行调节，读者可以选择屏幕的背景颜色和文字颜色。彩色字体在电子纸阅读屏上显示不够清晰，会影响阅读效果。"
-  ],
-  "explanation": ""
- },
- {
-  "id": "q-exam-mw-067",
-  "subject": "mw",
-  "type": "composite",
-  "source": {
-   "kind": "exam",
-   "year": "2021",
-   "paper": "2021-中级实务",
-   "qno": 67
-  },
-  "kpId": "mw-5-1-7",
-  "stem": "校对题：通读并纠正校样中的错误。(本题20 分)",
-  "material": "",
-  "options": [],
-  "answer": [
-   "1.标题去间空2.疑虏→疑虑3.真得会影响→真的会影响4.第二段行距要调整到与其他段落一样5.另一种→另一类6.精练→精炼7.“半固态的氢化植物油”接排上段8.薄脆饼油酥饼→薄脆饼、油酥饼9.“奶茶、咖啡伴侣”去间空10.就要小心里面是否是含有反式脂肪酸→就要小心里面是否含有反式脂肪酸11.20～75%→20%～75%12.危害性还大；→危害性还大。13.第二、→第二，14.粘稠度→黏稠度15.“认知功能”改宋体16.0.5克→0.5g（或者：0.1g→0.1克）17.“2型糖尿病”中“2”改正体"
   ],
   "explanation": ""
  },
