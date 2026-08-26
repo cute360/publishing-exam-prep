@@ -48403,23 +48403,6 @@
   "explanation": "正确答案是C。'报社的书亭'结构清晰，指报社所属的书亭，无歧义。A项'学生家长'可指学生的家长，也可指学生和家长两类人；B项'出口产品'可指用于出口的产品，也可指从某处出口的产品；D项'翻译小说'可指翻译成中文的小说，也可指翻译小说的行为。因此选C。"
  },
  {
-  "id": "q-share-md-120",
-  "subject": "md",
-  "type": "composite",
-  "source": {
-   "kind": "junior-share",
-   "year": 2018,
-   "paper": "从初级题库并入（初中级共用内容）",
-   "qno": "q-2018-jc-388"
-  },
-  "kpId": "md-11-2-3",
-  "stem": "\"有些大学教授不是博士\"这个性质判断是（　　）。",
-  "material": "",
-  "options": [],
-  "answer": [],
-  "explanation": ""
- },
- {
   "id": "q-share-md-121",
   "subject": "md",
   "type": "single",
@@ -50417,23 +50400,6 @@
    "E"
   ],
   "explanation": "**正确答案为A、B、D、E**。党史学习教育动员大会上提出“**学史明理、学史增信、学史崇德、学史力行**”，即A、B、D、E四项。C项“学史悟道”不属于官方表述，故不选。"
- },
- {
-  "id": "q-share-md-173",
-  "subject": "md",
-  "type": "composite",
-  "source": {
-   "kind": "junior-share",
-   "year": 2021,
-   "paper": "从初级题库并入（初中级共用内容）",
-   "qno": "q-2021-jc-580"
-  },
-  "kpId": "md-10-1-2",
-  "stem": "释词翻译题：阅读古文，解释文中加点的词语，并将画线的句子译成现代汉语。（本题12分）",
-  "material": "",
-  "options": [],
-  "answer": [],
-  "explanation": ""
  },
  {
   "id": "q-share-md-174",
