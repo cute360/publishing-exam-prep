@@ -3356,7 +3356,7 @@
   "status": "reviewed",
   "notes": "",
   "subQuestions": [],
-  "referenceAnswer": "（1）创作→创作作品是作者的任务，编辑是组织作品。（2）生产资料加工→编辑工作是精神生产活动。（3）选题策划环节坚持\"质量第一\"的原则→应在编辑工作各个环节都坚持\"质量第一\"原则。（4）少出坏作品→坏作品一个都不能出版。（5）按照自己的观点修改稿件→修改稿件也不可以按自己的观点。"
+  "referenceAnswer": "（1）创作→创作作品是作者的任务，编辑是组织作品。（2）生产资料加工→编辑工作是精神生产活动。（3）选题策划环节坚持\"质量第一\"的原则→应在编辑工作各个环节都坚持\"质量第一\"原则。（4）少出坏作品→坏作品一个都不能出版。（5）按照自己的观点修改稿件→修改稿件也不可以按自己的观点。\n（备注：本题参考答案目前仅覆盖前半部分内容；题干第四段（出版专业职业资格制度相关表述）的答案暂缺，待核对补全。）"
  },
  {
   "id": "q-2014-jc-093",
@@ -4871,35 +4871,6 @@
    }
   ],
   "referenceAnswer": "2010年销售**8000册**，但需扣除2009年已付的5000册，实际新增销售**3000册**。版税=30×3000×8%=**7200元**。",
-  "explanationSrc": "ai",
-  "status": "reviewed",
-  "notes": "判断题/综合题子题（无选项）"
- },
- {
-  "id": "q-2014-jc-131",
-  "subject": "jc",
-  "type": "composite",
-  "source": {
-   "kind": "exam",
-   "year": 2014,
-   "paper": "2014-jc",
-   "qno": "问题三",
-   "section": null
-  },
-  "kpId": "jc-8-7-1",
-  "stem": "2011年底，甲出版社应向赵武支付税前版税多少元？",
-  "options": [],
-  "answer": [],
-  "explanation": "",
-  "subQuestions": [
-   {
-    "qno": "问题三",
-    "stem": "2011年底，甲出版社应向赵武支付税前版税多少元？",
-    "answer": [],
-    "explanation": "2011年销售**2000册**，但需扣除前两年已付的8000册，实际新增销售为**0**，因此无需再支付版税，税前版税为**0元**。"
-   }
-  ],
-  "referenceAnswer": "2011年销售**2000册**，但需扣除前两年已付的8000册，实际新增销售为**0**，因此无需再支付版税，税前版税为**0元**。",
   "explanationSrc": "ai",
   "status": "reviewed",
   "notes": "判断题/综合题子题（无选项）"
@@ -13646,29 +13617,6 @@
   "explanationSrc": "official",
   "status": "reviewed",
   "notes": ""
- },
- {
-  "id": "q-2018-jc-371",
-  "subject": "jc",
-  "type": "composite",
-  "source": {
-   "kind": "exam",
-   "year": 2018,
-   "paper": "2018-jc",
-   "qno": "76",
-   "section": "四、综合题"
-  },
-  "kpId": "jc-4-1-2",
-  "stem": "审稿题：审读短稿，按照审稿的基本要求指出其中存在的错误或缺漏。(本题20分)长期以来我国的出版行政管理主要由各级经济主管部门负责实施。2001年国务院颁布、2016年修订的《图书质量管理规定》，是有关出版工作的最基本、最重要的行政法规。",
-  "material": "",
-  "options": [],
-  "answer": [],
-  "explanation": "",
-  "explanationSrc": "official",
-  "status": "reviewed",
-  "notes": "",
-  "subQuestions": [],
-  "referenceAnswer": "长期以来我国的出版行政管理主要由各级经济主管部门负责实施。→出版行政管理主要由各级政府出版行政主管部门负责实施。2001年国务院颁布、2016年修订的《图书质量管理规定》，是有关出版工作的最基本、最重要的行政法规。→国务院颁布的《出版管理条例》全面、系统地对各种出版活动作了规定，是有关出版工作的最基本、最重要的行政法规。"
  },
  {
   "id": "q-2018-jc-372",
@@ -23416,35 +23364,6 @@
   "notes": ""
  },
  {
-  "id": "q-2022-jc-633",
-  "subject": "jc",
-  "type": "composite",
-  "source": {
-   "kind": "exam",
-   "year": 2022,
-   "paper": "2022-jc",
-   "qno": "问题一",
-   "section": null
-  },
-  "kpId": "jc-8-7-1",
-  "stem": "张三把30首英文诗及译文发表在自己的博客上，是否侵犯A的权利？为什么？",
-  "options": [],
-  "answer": [],
-  "explanation": "",
-  "subQuestions": [
-   {
-    "qno": "问题一",
-    "stem": "张三把30首英文诗及译文发表在自己的博客上，是否侵犯A的权利？为什么？",
-    "answer": [],
-    "explanation": "**不侵权**，属于**个人合理使用**，并且标明了原作者姓名；"
-   }
-  ],
-  "referenceAnswer": "**不侵权**，属于**个人合理使用**，并且标明了原作者姓名；",
-  "explanationSrc": "official",
-  "status": "reviewed",
-  "notes": "判断题/综合题子题（无选项）"
- },
- {
   "id": "q-2022-jc-634",
   "subject": "jc",
   "type": "composite",
@@ -23469,35 +23388,6 @@
    }
   ],
   "referenceAnswer": "人身权：**署名权，发表权**；财产权：**复制权，发行权，汇编权**",
-  "explanationSrc": "official",
-  "status": "reviewed",
-  "notes": "判断题/综合题子题（无选项）"
- },
- {
-  "id": "q-2022-jc-635",
-  "subject": "jc",
-  "type": "composite",
-  "source": {
-   "kind": "exam",
-   "year": 2022,
-   "paper": "2022-jc",
-   "qno": "问题三",
-   "section": null
-  },
-  "kpId": "jc-8-7-1",
-  "stem": "甲出版社是否侵犯A的权利，为什么？",
-  "options": [],
-  "answer": [],
-  "explanation": "",
-  "subQuestions": [
-   {
-    "qno": "问题三",
-    "stem": "甲出版社是否侵犯A的权利，为什么？",
-    "answer": [],
-    "explanation": "**是**。甲出版社未经许可也没有支付报酬，将A享有著作权的作品出版。"
-   }
-  ],
-  "referenceAnswer": "**是**。甲出版社未经许可也没有支付报酬，将A享有著作权的作品出版。",
   "explanationSrc": "official",
   "status": "reviewed",
   "notes": "判断题/综合题子题（无选项）"
