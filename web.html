@@ -475,7 +475,7 @@ const shuffle = (arr) => { const a = arr.slice(); for (let i = a.length - 1; i >
 const uid = () => Date.now().toString(36) + Math.random().toString(36).slice(2, 7);
 const LSK = 'pubquiz_state_v1';
 const LSK_QUIZ = 'pubquiz_current_v1';
-const APP_VERSION = '2.25'; // 与 version.json 同步（打包时更新）
+const APP_VERSION = '2.26'; // 与 version.json 同步（打包时更新）
 const DEFAULT_UPDATE_BASE = 'https://cute360.github.io/publishing-exam-prep'; // 内置默认更新源（GitHub Pages）
 // 用户反馈接收：GitHub Issues API（CORS 支持，直连可用）
 // token 以 XOR 加密存储（扫描器无法识别模式，避免被 GitHub secret scanning 自动吊销；限权：仅 Issues 写权限）
@@ -2409,6 +2409,25 @@ views.review = {
       $('#dlg-close', dlg).onclick = hideDialog;
       $('#dialog-mask').onclick = hideDialog;
     };
+    // 顶部右侧：画笔 + 答题卡（作用于当前题）
+    let currentReviewId = (qids[0] || '');
+    const hRight = $('#h-right');
+    if (hRight) {
+      hRight.innerHTML = '';
+      const mk = (txt, ttl, id) => {
+        const b = document.createElement('button');
+        b.id = id; b.textContent = txt; b.title = ttl;
+        b.style.cssText = 'padding:4px 7px;background:none;border:none;font-size:18px;line-height:1;color:var(--text2);margin-left:6px';
+        hRight.appendChild(b);
+        return b;
+      };
+      mk('✏️', '画笔涂鸦（本题）', 'rv-pen').onclick = () => openPenOverlay({
+        getDoodles: () => revDoodles,
+        getCid: () => currentReviewId,
+        save: () => { try { localStorage.setItem('pubquiz_review_doodles', JSON.stringify(revDoodles)); } catch (e) { /* ignore */ } },
+      });
+      mk('📋', '答题卡', 'rv-sheet').onclick = openSheet;
+    }
     const renderCard = (el2, ix) => {
       const id = qids[ix];
       const item = qById(id);
@@ -2428,7 +2447,7 @@ views.review = {
       const order = item.type === 'composite' ? null : ensureOrder(s.id, item.id, (item.options || []).length);
       const disp = (ks) => (order ? (ks || []).map((k) => dispKeyFor(order, k)).slice().sort().join('、') : (ks || []).slice().sort().join('、'));
       el2.innerHTML = `
-        <div class="q-meta"><span class="tag">${ix + 1}/${total}</span>${typeTag}${yearTag}${kpTag}${mark}${(s.pins && s.pins[id]) ? '<span class="tag" style="color:var(--accent);border-color:var(--accent)">📌 已标记</span>' : ''}<button class="star-btn ${Store.state.favorites.includes(id) ? 'on' : ''}" id="rv-star" title="收藏/取消收藏">${Store.state.favorites.includes(id) ? '★' : '☆'}</button><button class="star-btn" id="rv-pen" title="画笔涂鸦（本题）">✏️</button><span style="flex:1"></span><button class="btn btn-ghost btn-sm" id="rv-sheet">答题卡</button></div>
+        <div class="q-meta"><span class="tag">${ix + 1}/${total}</span>${typeTag}${yearTag}${kpTag}${mark}${(s.pins && s.pins[id]) ? '<span class="tag" style="color:var(--accent);border-color:var(--accent)">📌 已标记</span>' : ''}<button class="star-btn ${Store.state.favorites.includes(id) ? 'on' : ''}" id="rv-star" title="收藏/取消收藏">${Store.state.favorites.includes(id) ? '★' : '☆'}</button><span style="flex:1"></span></div>
         ${item.material ? `<div class="q-material">${esc(item.material)}</div>` : ''}
         <div class="q-stem">${esc(item.stem)}</div>
         ${item.type === 'composite' ? '' : `<div id="opts">${order.map((ok, dIdx) => {
@@ -2449,17 +2468,12 @@ views.review = {
         </div>`;
       $('#rv-note', el2).onclick = () => showNoteDialog(id);
       $('#rv-star', el2).onclick = () => toggleFav(id, $('#rv-star', el2));
-      $('#rv-sheet', el2).onclick = openSheet;
-      // 全部解析页画笔：独立笔迹（与刷题互不影响），本地持久保存
-      const rp = $('#rv-pen', el2);
-      if (rp) {
+      // 顶部画笔按钮状态随当前题更新
+      currentReviewId = id;
+      const penH = $('#rv-pen');
+      if (penH) {
         const hasPen = revDoodles[id] && revDoodles[id].strokes && revDoodles[id].strokes.length;
-        if (hasPen) rp.style.color = '#ff4d5e';
-        rp.onclick = () => openPenOverlay({
-          getDoodles: () => revDoodles,
-          getCid: () => id,
-          save: () => { try { localStorage.setItem('pubquiz_review_doodles', JSON.stringify(revDoodles)); } catch (e) { /* ignore */ } },
-        });
+        penH.style.color = hasPen ? '#ff4d5e' : 'var(--text2)';
       }
     };
     const renderQ = () => renderCard(card, idx);
