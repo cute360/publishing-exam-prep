@@ -473,7 +473,7 @@ const shuffle = (arr) => { const a = arr.slice(); for (let i = a.length - 1; i >
 const uid = () => Date.now().toString(36) + Math.random().toString(36).slice(2, 7);
 const LSK = 'pubquiz_state_v1';
 const LSK_QUIZ = 'pubquiz_current_v1';
-const APP_VERSION = '2.24'; // 与 version.json 同步（打包时更新）
+const APP_VERSION = '2.25'; // 与 version.json 同步（打包时更新）
 const DEFAULT_UPDATE_BASE = 'https://cute360.github.io/publishing-exam-prep'; // 内置默认更新源（GitHub Pages）
 // 用户反馈接收：GitHub Issues API（CORS 支持，直连可用）
 // token 以 XOR 加密存储（扫描器无法识别模式，避免被 GitHub secret scanning 自动吊销；限权：仅 Issues 写权限）
@@ -3545,7 +3545,7 @@ views.mine = {
       </div>
       <div class="card">
         <h3>检查更新 <span class="sub">当前 v${APP_VERSION}</span></h3>
-        ${IS_NATIVE ? '' : '<div class="kv mt8"><span class="k">更新源</span><input id="set-update-base" placeholder="留空 = 内置更新源（GitHub Pages）；可自定义其他地址" value="' + esc(updateBase()) + '"></div>'}
+        ${(typeof location !== 'undefined' && new URLSearchParams(location.search).get('debug') === '1') ? '<div class="kv mt8"><span class="k">更新源</span><input id="set-update-base" placeholder="留空 = 内置更新源（GitHub Pages）；可自定义其他地址" value="' + esc(updateBase()) + '"></div>' : ''}
         <div class="row mt8" style="gap:8px">
           <button class="btn btn-primary btn-sm" id="set-check-upd">检查更新</button>
         </div>
