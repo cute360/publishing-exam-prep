@@ -1,29 +1,29 @@
 {
- "appName": "出版刷题",
- "updatedAt": "2026-08-26 21:31",
- "bank": {
-  "knowledge": {
-   "sha1": "2CFA642FBCC42F6FD675A1FA44AA25514E840008",
-   "size": 178734
-  },
-  "questions-jc": {
-   "sha1": "BEA9670D7D6A52ED65740C87C7962F35D4628F67",
-   "size": 2100980
-  },
-  "questions-sw": {
-   "sha1": "2AC7FE5C7D37F876561075B6C3734F4871E89811",
-   "size": 2043571
-  },
-  "questions-md": {
-   "sha1": "DEFE12580355820DD33F5983846D95693741ADC6",
-   "size": 2342957
-  },
-  "questions-mw": {
-   "sha1": "8147BED97A070294441EB83346B6710D41F72CBD",
-   "size": 2236841
-  }
- },
- "notes": "解析文字的大写选项字母自动跟随乱序显示，与选项永远对应\n题库更新：进入自动静默应用并提示已更新到最新；手动检查带进度条\n错题本每题显示年份真题/新编题标签；历史与错题中已下线题目显示友好提示\n修复：按用户反馈修正6道题并清理广告水印（题库数据已更新）",
- "appVersion": "2.24",
- "apkUrl": "/download/publish-quiz-v2.24.apk"
+    "appName":  "出版刷题",
+    "updatedAt":  "2026-08-31 13:02",
+    "bank":  {
+                 "questions-mw":  {
+                                      "sha1":  "8147BED97A070294441EB83346B6710D41F72CBD",
+                                      "size":  2236841
+                                  },
+                 "questions-sw":  {
+                                      "sha1":  "2AC7FE5C7D37F876561075B6C3734F4871E89811",
+                                      "size":  2043571
+                                  },
+                 "questions-md":  {
+                                      "sha1":  "DEFE12580355820DD33F5983846D95693741ADC6",
+                                      "size":  2342957
+                                  },
+                 "knowledge":  {
+                                   "sha1":  "2CFA642FBCC42F6FD675A1FA44AA25514E840008",
+                                   "size":  178734
+                               },
+                 "questions-jc":  {
+                                      "sha1":  "86B7005E46842AD31CBC9EB92B9E610B91888437",
+                                      "size":  2097248
+                                  }
+             },
+    "notes":  "「全部解析」页新增画笔涂鸦（与刷题页笔迹独立，本地持久保存）\n画笔初始默认细笔（3px），粗细可在画笔内调整\n更新源设置仅调试参数可见（App 与网页版对普通用户隐藏、不可修改）\n修复：按用户反馈批量修正 19 条问题（答案/解析/坏题剔除），另标注 1 题缺失、剔除 1 题正文截断\n新增在线网页版（https://cute360.github.io/publishing-exam-prep/web.html），内置全套题库，转发即用",
+    "appVersion":  "2.25",
+    "apkUrl":  "/download/publish-quiz-v2.25.apk"
 }
