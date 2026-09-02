@@ -1,29 +1,29 @@
 {
-    "appName":  "出版刷题",
-    "updatedAt":  "2026-08-31 13:12",
-    "bank":  {
-                 "questions-mw":  {
-                                      "sha1":  "8147BED97A070294441EB83346B6710D41F72CBD",
-                                      "size":  2236841
-                                  },
-                 "questions-sw":  {
-                                      "sha1":  "2AC7FE5C7D37F876561075B6C3734F4871E89811",
-                                      "size":  2043571
-                                  },
-                 "questions-md":  {
-                                      "sha1":  "DEFE12580355820DD33F5983846D95693741ADC6",
-                                      "size":  2342957
-                                  },
-                 "knowledge":  {
-                                   "sha1":  "2CFA642FBCC42F6FD675A1FA44AA25514E840008",
-                                   "size":  178734
-                               },
-                 "questions-jc":  {
-                                      "sha1":  "86B7005E46842AD31CBC9EB92B9E610B91888437",
-                                      "size":  2097248
-                                  }
-             },
-    "notes":  "「全部解析」页顶部右侧新增画笔与答题卡按钮（作用于当前题目）\n网页版（在线版）修复赞赏码显示（图片改为内嵌）\n更新源设置仅调试参数可见（App 与网页版对普通用户隐藏、不可修改）\n修复：按用户反馈批量处理 19 条（答案/解析/坏题剔除），另标注 1 题缺失、剔除 1 题正文截断",
-    "appVersion":  "2.26",
-    "apkUrl":  "/download/publish-quiz-v2.26.apk"
+ "appName": "出版刷题",
+ "updatedAt": "2026-09-02 20:07",
+ "bank": {
+  "knowledge": {
+   "sha1": "2CFA642FBCC42F6FD675A1FA44AA25514E840008",
+   "size": 178734
+  },
+  "questions-jc": {
+   "sha1": "86B7005E46842AD31CBC9EB92B9E610B91888437",
+   "size": 2097248
+  },
+  "questions-sw": {
+   "sha1": "C97F5B1516DE5D1A45CAC72256A45531E0F2DD57",
+   "size": 2053215
+  },
+  "questions-md": {
+   "sha1": "DEFE12580355820DD33F5983846D95693741ADC6",
+   "size": 2342957
+  },
+  "questions-mw": {
+   "sha1": "4B283B85D299E18CAE2E4B73587B99D4CACFE1E2",
+   "size": 2239783
+  }
+ },
+ "notes": "「全部解析」页顶部右侧新增画笔与答题卡按钮（作用于当前题目）\n网页版（在线版）修复赞赏码显示（图片改为内嵌）\n更新源设置仅调试参数可见（App 与网页版对普通用户隐藏、不可修改）\n修复：按用户反馈批量处理 19 条（答案/解析/坏题剔除），另标注 1 题缺失、剔除 1 题正文截断",
+ "appVersion": "2.26",
+ "apkUrl": "/download/publish-quiz-v2.26.apk"
 }
