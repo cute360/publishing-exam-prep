@@ -1,26 +1,26 @@
 {
  "appName": "出版刷题",
- "updatedAt": "2026-09-02 20:20",
+ "updatedAt": "2026-09-02 20:30",
  "bank": {
   "knowledge": {
    "sha1": "2CFA642FBCC42F6FD675A1FA44AA25514E840008",
    "size": 178734
   },
   "questions-jc": {
-   "sha1": "86B7005E46842AD31CBC9EB92B9E610B91888437",
-   "size": 2097248
+   "sha1": "E0B579DE749C6C0AED9EAA48B3E77E769678FCD9",
+   "size": 2097564
   },
   "questions-sw": {
-   "sha1": "4AD64BA83B3A06D88266E9D829174A8304ABB389",
-   "size": 2136555
+   "sha1": "477AFC8FE94F535A19452B98D90E9D4B25312242",
+   "size": 2173122
   },
   "questions-md": {
    "sha1": "DEFE12580355820DD33F5983846D95693741ADC6",
    "size": 2342957
   },
   "questions-mw": {
-   "sha1": "3972ED6E30702B946497079387994A69B55DACD1",
-   "size": 2240743
+   "sha1": "98E9B2B7991A9BFC37E65DCA7439A7D8DE861DDA",
+   "size": 2242685
   }
  },
  "notes": "「全部解析」页顶部右侧新增画笔与答题卡按钮（作用于当前题目）\n网页版（在线版）修复赞赏码显示（图片改为内嵌）\n更新源设置仅调试参数可见（App 与网页版对普通用户隐藏、不可修改）\n修复：按用户反馈批量处理 19 条（答案/解析/坏题剔除），另标注 1 题缺失、剔除 1 题正文截断",
