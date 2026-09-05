@@ -1,26 +1,26 @@
 {
  "appName": "出版刷题",
- "updatedAt": "2026-09-05 16:29",
+ "updatedAt": "2026-09-05 17:09",
  "bank": {
   "knowledge": {
    "sha1": "2CFA642FBCC42F6FD675A1FA44AA25514E840008",
    "size": 178734
   },
   "questions-jc": {
-   "sha1": "57D474083BC9B8E78DB08A6DA300B6AFF4BA10B7",
-   "size": 2096241
+   "sha1": "9980EBCD06B0C5ED68A4ABC785A0146883041571",
+   "size": 2096436
   },
   "questions-sw": {
-   "sha1": "2F65CDB730348A69CD981B1B7CBCEB9F96D6DE2C",
-   "size": 2278816
+   "sha1": "AE8A2A963AD3E4077E418DF48CEEC4BB8A7FC488",
+   "size": 2278846
   },
   "questions-md": {
-   "sha1": "73302E4B5CAD2F4E7A2C5DE7050F2E150F9548EE",
-   "size": 2343368
+   "sha1": "A2B72BE58AC8477EC8B4B14588578872E800231B",
+   "size": 2343359
   },
   "questions-mw": {
-   "sha1": "D08F97134323FA4A3042B10837C1EC6F1377F04E",
-   "size": 2256793
+   "sha1": "438748B7A682935EACDC89154E7D0421A988395D",
+   "size": 2256787
   }
  },
  "notes": "「全部解析」页顶部右侧新增画笔与答题卡按钮（作用于当前题目）\n网页版（在线版）修复赞赏码显示（图片改为内嵌）\n更新源设置仅调试参数可见（App 与网页版对普通用户隐藏、不可修改）\n修复：按用户反馈批量处理 19 条（答案/解析/坏题剔除），另标注 1 题缺失、剔除 1 题正文截断",
