@@ -1,22 +1,22 @@
 {
  "appName": "出版刷题",
- "updatedAt": "2026-09-02 21:33",
+ "updatedAt": "2026-09-05 16:29",
  "bank": {
   "knowledge": {
    "sha1": "2CFA642FBCC42F6FD675A1FA44AA25514E840008",
    "size": 178734
   },
   "questions-jc": {
-   "sha1": "8DED787630C96D625AF95858D9508D40F692A64B",
-   "size": 2181287
+   "sha1": "57D474083BC9B8E78DB08A6DA300B6AFF4BA10B7",
+   "size": 2096241
   },
   "questions-sw": {
-   "sha1": "F5169651A4B37E578D9F7379C2EDB70682F29934",
-   "size": 2302400
+   "sha1": "2F65CDB730348A69CD981B1B7CBCEB9F96D6DE2C",
+   "size": 2278816
   },
   "questions-md": {
-   "sha1": "327DDF2B20999A0099D25F7563FC964CC0634F37",
-   "size": 2343305
+   "sha1": "73302E4B5CAD2F4E7A2C5DE7050F2E150F9548EE",
+   "size": 2343368
   },
   "questions-mw": {
    "sha1": "D08F97134323FA4A3042B10837C1EC6F1377F04E",
