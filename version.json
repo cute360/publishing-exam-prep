@@ -1,29 +1,29 @@
 {
- "appName": "出版刷题",
- "updatedAt": "2026-09-06 23:55",
- "bank": {
-  "knowledge": {
-   "sha1": "2CFA642FBCC42F6FD675A1FA44AA25514E840008",
-   "size": 178734
-  },
-  "questions-jc": {
-   "sha1": "10C95FFED059EA2A5866259778CCCCF4EB776D86",
-   "size": 2097191
-  },
-  "questions-sw": {
-   "sha1": "67AD0D5EE8919B082E485DFEBCDA3DB88D882F5E",
-   "size": 2319635
-  },
-  "questions-md": {
-   "sha1": "6EEC9648EE7A04A2CA6FEAA359D602EC80F1152F",
-   "size": 2343977
-  },
-  "questions-mw": {
-   "sha1": "66DDFC13B7F1FCD9A03C0F79E524F908B54690AE",
-   "size": 2258717
-  }
- },
- "notes": "画笔新增红/蓝颜色选择（刷题页、全部解析页通用）\n综合题标题与正文分离显示（题目要求 + 材料框）\n修复：按用户反馈修正约 20 道题（答案/解析/题型/结构），移除无解析或参考答案的补入题\n题库数据：结合考网真题与教材综合仲裁跨卷冲突答案",
- "appVersion": "2.27",
- "apkUrl": "/download/publish-quiz-v2.27.apk"
+    "appName":  "出版刷题",
+    "updatedAt":  "2026-09-07 00:02",
+    "bank":  {
+                 "questions-mw":  {
+                                      "sha1":  "66DDFC13B7F1FCD9A03C0F79E524F908B54690AE",
+                                      "size":  2258717
+                                  },
+                 "questions-sw":  {
+                                      "sha1":  "67AD0D5EE8919B082E485DFEBCDA3DB88D882F5E",
+                                      "size":  2319635
+                                  },
+                 "questions-md":  {
+                                      "sha1":  "6EEC9648EE7A04A2CA6FEAA359D602EC80F1152F",
+                                      "size":  2343977
+                                  },
+                 "knowledge":  {
+                                   "sha1":  "2CFA642FBCC42F6FD675A1FA44AA25514E840008",
+                                   "size":  178734
+                               },
+                 "questions-jc":  {
+                                      "sha1":  "10C95FFED059EA2A5866259778CCCCF4EB776D86",
+                                      "size":  2097191
+                                  }
+             },
+    "notes":  "加点/画线题真实渲染：画线题目标词词下显示下划线、加点题字下显示着重号（原卷标记此前丢失），题干下方新增对应提示说明\n补注 77 道加点/画线题目标词（含还原 OCR 丢失的加点字与句内缺字）；修正 2 道题答案（2021 基础 565→AE、2022 基础 624→BC）与 1 处解析（中级 share103）\n云同步修复：刷新登录态失败不再掉登录；登录后先推本地再拉云端；未登录时的新作答记录不再丢失\n题库数据已按以上修正同步更新（打开 App → 检查更新 → 题库更新即可生效）",
+    "appVersion":  "2.28",
+    "apkUrl":  "/download/publish-quiz-v2.28.apk"
 }
