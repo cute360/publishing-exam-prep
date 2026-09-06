@@ -1,26 +1,26 @@
 {
  "appName": "出版刷题",
- "updatedAt": "2026-09-06 23:33",
+ "updatedAt": "2026-09-06 23:53",
  "bank": {
   "knowledge": {
    "sha1": "2CFA642FBCC42F6FD675A1FA44AA25514E840008",
    "size": 178734
   },
   "questions-jc": {
-   "sha1": "9980EBCD06B0C5ED68A4ABC785A0146883041571",
-   "size": 2096436
+   "sha1": "7A4546347CBD8E12BC9296E8F0397F63502C7257",
+   "size": 2097131
   },
   "questions-sw": {
-   "sha1": "C74D59D04CC0A8E287944B3D6819E78193E9071E",
-   "size": 2319634
+   "sha1": "67AD0D5EE8919B082E485DFEBCDA3DB88D882F5E",
+   "size": 2319635
   },
   "questions-md": {
-   "sha1": "A2B72BE58AC8477EC8B4B14588578872E800231B",
-   "size": 2343359
+   "sha1": "F45C2FF8E2C54C0EDD0F51924AAEF44ADC0B8592",
+   "size": 2343917
   },
   "questions-mw": {
-   "sha1": "0946D74119A999FAB5812F0212FD5BA051A0313B",
-   "size": 2258716
+   "sha1": "66DDFC13B7F1FCD9A03C0F79E524F908B54690AE",
+   "size": 2258717
   }
  },
  "notes": "画笔新增红/蓝颜色选择（刷题页、全部解析页通用）\n综合题标题与正文分离显示（题目要求 + 材料框）\n修复：按用户反馈修正约 20 道题（答案/解析/题型/结构），移除无解析或参考答案的补入题\n题库数据：结合考网真题与教材综合仲裁跨卷冲突答案",
