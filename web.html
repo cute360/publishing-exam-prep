@@ -468,8 +468,8 @@ const $$ = (s, el = document) => Array.from(el.querySelectorAll(s));
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 /* 解析文本渲染：转义 + **加粗** 标记支持 */
 const mdBold = (s) => esc(s).replace(/\*\*(.+?)\*\*/g, '<b>$1</b>');
-const fmtTime = (ts) => { const d = new Date(ts); return `${d.getMonth() + 1}/${d.getDate()} ${String(d.getHours()).padStart(2, '0')}:${String(d.getMinutes()).padStart(2, '0')}`; };
-const fmtDay = (ts) => { const d = new Date(ts); return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`; };
+const fmtTime = (ts) => { const d = new Date(ts); return isNaN(d) ? '--' : `${d.getMonth() + 1}/${d.getDate()} ${String(d.getHours()).padStart(2, '0')}:${String(d.getMinutes()).padStart(2, '0')}`; };
+const fmtDay = (ts) => { const d = new Date(ts); return isNaN(d) ? '----' : `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`; };
 const fmtDur = (s) => (s >= 3600 ? `${Math.floor(s / 3600)}时${Math.floor((s % 3600) / 60)}分` : s >= 60 ? `${Math.floor(s / 60)}分${s % 60}秒` : `${s}秒`);
 /* 计时显示：00:00 / h:mm:ss */
 const fmtClock = (s) => {
@@ -482,7 +482,7 @@ const shuffle = (arr) => { const a = arr.slice(); for (let i = a.length - 1; i >
 const uid = () => Date.now().toString(36) + Math.random().toString(36).slice(2, 7);
 const LSK = 'pubquiz_state_v1';
 const LSK_QUIZ = 'pubquiz_current_v1';
-const APP_VERSION = '2.28'; // 与 version.json 同步（打包时更新）
+const APP_VERSION = '2.29'; // 与 version.json 同步（打包时更新）
 const DEFAULT_UPDATE_BASE = 'https://cute360.github.io/publishing-exam-prep'; // 内置默认更新源（GitHub Pages）
 // 用户反馈接收：GitHub Issues API（CORS 支持，直连可用）
 // token 以 XOR 加密存储（扫描器无法识别模式，避免被 GitHub secret scanning 自动吊销；限权：仅 Issues 写权限）
@@ -672,6 +672,24 @@ async function fetchAny(paths) {
   throw last;
 }
 
+/* 用户数据消毒：剔除畸形条目（脏合并/旧格式残留可能导致页面渲染出错或空白） */
+function sanitizeState(st) {
+  if (!st || typeof st !== 'object') return null;
+  const out = { sessions: [], wrongbook: {}, favorites: [], qstats: {}, settings: {} };
+  out.sessions = Array.isArray(st.sessions)
+    ? st.sessions.filter((s) => s && typeof s === 'object' && s.id && Array.isArray(s.qids)) : [];
+  if (st.wrongbook && typeof st.wrongbook === 'object' && !Array.isArray(st.wrongbook)) {
+    out.wrongbook = {};
+    for (const k of Object.keys(st.wrongbook)) {
+      const v = st.wrongbook[k];
+      if (v && typeof v === 'object' && (v.lastAt > 0 || (v.count || 0) > 0)) out.wrongbook[k] = v;
+    }
+  }
+  out.favorites = Array.isArray(st.favorites) ? st.favorites.filter((x) => typeof x === 'string') : [];
+  out.qstats = (st.qstats && typeof st.qstats === 'object' && !Array.isArray(st.qstats)) ? st.qstats : {};
+  out.settings = (st.settings && typeof st.settings === 'object' && !Array.isArray(st.settings)) ? st.settings : {};
+  return out;
+}
 function persistLocal() {
   try { localStorage.setItem(LSK, JSON.stringify(Store.state)); } catch (e) { /* ignore */ }
 }
@@ -712,7 +730,7 @@ async function boot() {
       st = local;
       Store.online = false;
     }
-    Store.state = Object.assign({ sessions: [], wrongbook: {}, favorites: [], qstats: {}, settings: {} }, st || {});
+    Store.state = sanitizeState(Object.assign({ sessions: [], wrongbook: {}, favorites: [], qstats: {}, settings: {} }, st || {})) || { sessions: [], wrongbook: {}, favorites: [], qstats: {}, settings: {} };
     // 草稿（审核用，仅在线）
     for (const subj of ['jc', 'sw']) {
       try {
@@ -734,6 +752,14 @@ async function boot() {
   applyTheme();                // 应用深浅色主题
   checkUpdates(false);         // 后台静默检查题库/App 更新（不阻塞）
   flushFeedback();             // 后台尝试上传积压的用户反馈
+  // 启动后已登录：自动拉取合并一次云端数据（合并式，只增不减，本地方未变不受影响）
+  if (acct) {
+    setTimeout(() => {
+      pullState().then((r) => {
+        if (r && r.changed) { toast('已同步云端数据'); try { render(); } catch (e) { /* ignore */ } }
+      }).catch(() => { /* 网络异常忽略，后续会重试 */ });
+    }, 900);
+  }
   render();
 }
 
@@ -3433,6 +3459,8 @@ async function pullState() {
   local.favorites = [...new Set([...(remote.favorites || []), ...(local.favorites || [])])];
   local.qstats = Object.assign({}, remote.qstats || {}, local.qstats || {});
   local.settings = Object.assign({}, remote.settings || {}, local.settings || {});
+  const cleaned = sanitizeState(local);
+  if (cleaned) { local.sessions = cleaned.sessions; local.wrongbook = cleaned.wrongbook; local.favorites = cleaned.favorites; local.qstats = cleaned.qstats; local.settings = cleaned.settings; }
   if (remote.feedbackHistory) {
     try {
       const cur = JSON.parse(localStorage.getItem(FB_HISTORY_KEY) || '[]') || [];
@@ -3449,6 +3477,19 @@ function schedulePush() {
   if (!acct) { needPushAfterLogin = true; return; } // 未登录：打标，登录后自动补传
   clearTimeout(pushTimer);
   pushTimer = setTimeout(() => { pushState().catch(() => { /* 静默，下次变更再传 */ }); }, 1200);
+}
+/* 本地是否“空数据”：所有同步分区都为空才算空（用于防误覆盖云端） */
+function localIsEmpty(payload) {
+  return !(payload.sessions && payload.sessions.length) &&
+    !(payload.wrongbook && Object.keys(payload.wrongbook).length) &&
+    !(payload.favorites && payload.favorites.length) &&
+    !(payload.qstats && Object.keys(payload.qstats).length);
+}
+function remoteHasData(remote) {
+  return !!remote && typeof remote === 'object' &&
+    ((remote.sessions && remote.sessions.length) || (remote.wrongbook && Object.keys(remote.wrongbook).length) ||
+     (remote.favorites && remote.favorites.length) || (remote.qstats && Object.keys(remote.qstats).length) ||
+     (remote.feedbackHistory && remote.feedbackHistory.length));
 }
 /* 切后台 / 退出时立即推送（不依赖 3 秒定时器，避免“刚刷完就退出导致云上还是旧数据”） */
 window.addEventListener('pagehide', () => { if (acct) { clearTimeout(pushTimer); pushState().catch(() => { /* ignore */ }); } });
@@ -3480,7 +3521,12 @@ async function pushState() {
     settings: Store.state.settings || {},
     feedbackHistory,
   };
-  const rows = await supaFetch('/rest/v1/user_data?select=user_id&limit=1');
+  const rows = await supaFetch('/rest/v1/user_data?select=user_id,data&limit=1');
+  // 安全护栏：本地为空但云端已有数据时，严禁上传（防止空数据把云端历史覆盖掉）
+  if (rows && rows.length && localIsEmpty(payload)) {
+    const remote = rows[0].data;
+    if (remoteHasData(remote)) return { ok: true, skipped: 'local-empty' };
+  }
   if (rows && rows.length) {
     await supaFetch('/rest/v1/user_data?user_id=eq.' + acct.uid, { method: 'PATCH', body: JSON.stringify({ data: payload, updated_at: new Date().toISOString() }) });
   } else {
@@ -3512,7 +3558,19 @@ function renderAcctBox() {
         </div>
       </div>
       <div class="row mt8" style="gap:8px"><button class="btn btn-primary btn-sm grow" id="acct-sync">立即同步</button><button class="btn btn-ghost btn-sm grow" id="acct-out">退出登录</button></div>
+      <div class="row mt8" style="gap:8px"><button class="btn btn-ghost btn-sm grow" id="acct-diag">云端诊断（只读）</button></div>
       <div class="sub mt8" id="acct-tip">换设备登录后自动拉取云端数据。</div>`;
+    $('#acct-diag', box).onclick = async () => {
+      // 只读诊断：查看云端数据摘要（不写任何东西）
+      try {
+        if (!(await ensureToken())) return toast('未登录');
+        const rows = await supaFetch('/rest/v1/user_data?select=data,updated_at&limit=1');
+        if (!rows || !rows.length) return toast('云端：该账号暂无数据行');
+        const d = rows[0].data || {};
+        const wb = d.wrongbook && typeof d.wrongbook === 'object' ? Object.keys(d.wrongbook).length : 0;
+        toast(`云端：记录 ${(d.sessions || []).length} 条，错题 ${wb} 题，收藏 ${(d.favorites || []).length} 题，掌握 ${Object.keys(d.qstats || {}).length} 条，更新 ${String(rows[0].updated_at || '').slice(0, 16).replace('T', ' ')}`);
+      } catch (e) { toast('云端读取失败：' + String(e).slice(0, 30)); }
+    };
     $('#acct-sync', box).onclick = async () => {
       const btn = $('#acct-sync', box);
       btn.disabled = true;
@@ -3552,8 +3610,10 @@ function acctDialog(mode) {
         hideDialog();
         renderAcctBox();
         toast('登录成功，正在同步…');
-        // 先把自己的本地数据（含未登录期间刷的题）补传云端，再拉取合并，保证今天记录不丢
-        await pushState().catch(() => { /* ignore */ });
+        // 先拉取合并（合并式：本地优先、云端缺的并入本地，绝不覆盖本地）
+        // 再上传合并结果：本地为空时上传会被安全护栏拦下，云端历史不会因空本地被覆盖
+        try { await pullState(); } catch (e) { /* 拉取失败不阻塞登录 */ }
+        try { await pushState().catch(() => { /* ignore */ }); } catch (e) { /* ignore */ }
         needPushAfterLogin = false;
         try { await pullState(); toast('已同步云端数据'); } catch (e) { toast('登录成功（云端拉取失败：' + String(e).slice(0, 30) + '）'); }
         render();
