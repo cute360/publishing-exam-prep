@@ -482,7 +482,7 @@ const shuffle = (arr) => { const a = arr.slice(); for (let i = a.length - 1; i >
 const uid = () => Date.now().toString(36) + Math.random().toString(36).slice(2, 7);
 const LSK = 'pubquiz_state_v1';
 const LSK_QUIZ = 'pubquiz_current_v1';
-const APP_VERSION = '2.29'; // 与 version.json 同步（打包时更新）
+const APP_VERSION = '2.30'; // 与 version.json 同步（打包时更新）
 const DEFAULT_UPDATE_BASE = 'https://cute360.github.io/publishing-exam-prep'; // 内置默认更新源（GitHub Pages）
 // 用户反馈接收：GitHub Issues API（CORS 支持，直连可用）
 // token 以 XOR 加密存储（扫描器无法识别模式，避免被 GitHub secret scanning 自动吊销；限权：仅 Issues 写权限）
@@ -723,9 +723,12 @@ async function boot() {
     Store.knowledge = k;
     Store.questions.jc = qj; Store.questions.sw = qs; Store.questions.md = qmd; Store.questions.mw = qmw;
     // 用户数据：优先服务器（在线同步），失败用本地镜像
+    const hasAnyState = (x) => !!x && ((x.sessions && x.sessions.length) || (x.wrongbook && typeof x.wrongbook === 'object' && Object.keys(x.wrongbook).length) || (x.favorites && x.favorites.length) || (x.qstats && typeof x.qstats === 'object' && Object.keys(x.qstats).length));
     try {
       st = await api('/api/state');
       Store.online = true;
+      // 服务端返回空但本地镜像有数据：以本地为准（防止空状态覆盖/传播到云端）
+      if (local && hasAnyState(local) && !hasAnyState(st)) st = local;
     } catch (e) {
       st = local;
       Store.online = false;
@@ -2489,6 +2492,8 @@ views.review = {
       const id = qids[ix];
       const item = qById(id);
       if (!item) { el2.innerHTML = '<div class="empty">该题已随题库更新下线，无法查看原题内容</div>'; return; }
+      // 进入全部解析页：补一次上传（交卷后的记录通常已自动上传，这里兜底）
+      if (acct) schedulePush();
       const r = s.results && s.results[id];
       const ua = (s.answers && s.answers[id]) || [];
       const correct = item.answer || [];
@@ -2733,7 +2738,7 @@ views.history = {
     const totalPg = Math.max(1, Math.ceil(filtered.length / HIS_PAGE));
     if (hisPage > totalPg) hisPage = totalPg;
     const pg = filtered.slice((hisPage - 1) * HIS_PAGE, hisPage * HIS_PAGE);
-    list.innerHTML = pg.map((s) => {
+    list.innerHTML = safeCards((s) => {
       const acc = s.total ? Math.round(((s.correct || 0) + (s.half || 0) * 0.5) / s.total * 100) : 0;
       const subjName = SUBJ_SHORT[s.subject] || s.subject;
       return `<div class="his-item" data-id="${s.id}">
@@ -2747,7 +2752,7 @@ views.history = {
           <button class="btn btn-ghost btn-sm" data-act="del">删</button>
         </div>
       </div>`;
-    }).join('') + (filtered.length > HIS_PAGE ? pagerHtml(filtered.length, HIS_PAGE, hisPage, 'his') : '');
+    }, pg) + (filtered.length > HIS_PAGE ? pagerHtml(filtered.length, HIS_PAGE, hisPage, 'his') : '');
     $$('[data-act]', list).forEach((b) => {
       b.onclick = () => {
         const id = b.closest('.his-item').dataset.id;
@@ -2798,11 +2803,26 @@ function drawTrend(canvas, sessions) {
 }
 
 /* ================= 视图：错题本 ================= */
+/* 安全模板：单条渲染抛错时跳过该条（脏数据不再整页崩溃） */
+function safeCards(fn, items) {
+  const out = [];
+  for (const it of items) {
+    try { out.push(fn(it)); } catch (e) { /* 跳过坏条目 */ }
+  }
+  return out.join('');
+}
 views.wrong = {
   title: () => '错题本',
   tab: 'wrong',
   render(el) {
-    const wb = Store.state.wrongbook;
+    let dirty = false;
+    const wb = {};
+    for (const k of Object.keys(Store.state.wrongbook || {})) {
+      const v = Store.state.wrongbook[k];
+      if (v && typeof v === 'object' && !Array.isArray(v) && (v.lastAt > 0 || (v.count || 0) > 0)) wb[k] = v;
+      else dirty = true; // 畸形条目：跳过并就地清理
+    }
+    if (dirty) { Store.state.wrongbook = wb; saveState('wrongbook'); }
     const ids = Object.keys(wb);
     el.innerHTML = `
       <div id="w-subj-slot"></div>
@@ -2818,8 +2838,8 @@ views.wrong = {
     const levelSubjs = curLevelSubjs();
     wrongSubj = clampSubj(wrongSubj, levelSubjs);
     const items = ids.map((id) => ({ id, q: qById(id), w: wb[id] }))
-      .filter((x) => x.q && levelSubjs.includes(x.q.subject) && (wrongSubj === 'all' ? true : x.q.subject === wrongSubj))
-      .sort((a, b) => b.w.lastAt - a.w.lastAt);
+      .filter((x) => x.q && typeof x.w === 'object' && x.w && levelSubjs.includes(x.q.subject) && (wrongSubj === 'all' ? true : x.q.subject === wrongSubj))
+      .sort((a, b) => ((b.w && b.w.lastAt) || 0) - ((a.w && a.w.lastAt) || 0));
     // 时间筛选（重做也只用筛选范围内）
     const t0 = rangeStartMs(wrongRange);
     const fitems = t0 ? items.filter((x) => x.w.lastAt >= t0) : items;
@@ -2832,20 +2852,21 @@ views.wrong = {
     const totalPg = Math.max(1, Math.ceil(fitems.length / WRONG_PAGE));
     if (wrongPage > totalPg) wrongPage = totalPg;
     const pgItems = fitems.slice((wrongPage - 1) * WRONG_PAGE, wrongPage * WRONG_PAGE);
-    list.innerHTML = pgItems.map(({ id, q, w }) => {
+    list.innerHTML = safeCards(({ id, q, w }) => {
       const k = Store.kpMap[q.kpId];
-      const correct = q.answer || [];
+      const correct = Array.isArray(q.answer) ? q.answer : (q.answer ? [q.answer] : []);
+      const ansTxt = correct.join('、') || '—';
       return `<div class="card">
         <div class="q-meta"><span class="tag">${q.type === 'single' ? '单选' : q.type === 'multiple' ? '多选' : '综合题'}</span><span class="tag blue">${SUBJ_SHORT[q.subject] || q.subject}</span>${q.source && q.source.year ? `<span class="tag blue">${q.source.year}年真题</span>` : (q.source && q.source.kind === 'generated' ? '<span class="tag orange">新编题</span>' : '')}${k ? `<span class="tag">${esc(k.name)}</span>` : ''}<span class="tag">错 ${w.count} 次</span><span class="tag">${fmtDay(w.lastAt)}</span><button class="star-btn ${Store.state.favorites.includes(id) ? 'on' : ''}" data-star="1" title="收藏/取消收藏">${Store.state.favorites.includes(id) ? '★' : '☆'}</button></div>
         <div class="q-stem" style="font-size:14px">${visMark(esc(q.stem.length > 100 ? q.stem.slice(0, 100) + '…' : q.stem), markCls(q))}</div>
-        <div class="sub">答案：${correct.join('、')}</div>
+        <div class="sub">答案：${esc(ansTxt)}</div>
         <div class="row mt8" style="gap:8px">
           <button class="btn btn-ghost btn-sm" data-act="detail">详情</button>
           <button class="btn btn-ghost btn-sm" data-act="redo">重做</button>
           <button class="btn btn-ghost btn-sm" data-act="remove">移除</button>
         </div>
       </div>`;
-    }).join('') + (fitems.length > WRONG_PAGE ? pagerHtml(fitems.length, WRONG_PAGE, wrongPage, 'w') : '');
+    }, pgItems) + (fitems.length > WRONG_PAGE ? pagerHtml(fitems.length, WRONG_PAGE, wrongPage, 'w') : '');
     $$('[data-star]', list).forEach((b) => {
       b.onclick = () => { const id = b.closest('.card').dataset.id; toggleFav(id, b); };
     });
@@ -2903,7 +2924,7 @@ views.favs = {
     const list = $('#f-list', el);
     if (!ids.length) { list.innerHTML = '<div class="empty"><div class="big">🔖</div>暂无收藏</div>'; return; }
     const items = ids.map((id) => ({ id, q: qById(id) })).filter((x) => x.q);
-    list.innerHTML = items.map(({ id, q }) => {
+    list.innerHTML = safeCards(({ id, q }) => {
       const k = Store.kpMap[q.kpId];
       return `<div class="card">
         <div class="q-meta"><span class="tag">${q.type === 'single' ? '单选' : q.type === 'multiple' ? '多选' : '综合题'}</span>${q.source && q.source.year ? `<span class="tag blue">${q.source.year}年真题</span>` : ''}${k ? `<span class="tag">${esc(k.name)}</span>` : ''}<button class="star-btn on" data-star="1" title="取消收藏">★</button></div>
@@ -2912,7 +2933,7 @@ views.favs = {
           <button class="btn btn-ghost btn-sm" data-act="detail">详情</button>
         </div>
       </div>`;
-    }).join('');
+    }, items);
     $$('[data-star]', list).forEach((b) => {
       b.onclick = () => { toggleFav(b.closest('.card').dataset.id, b); render(); };
     });
@@ -3507,6 +3528,8 @@ function schedulePull() {
   }).catch(() => { /* 网络异常忽略，下次再试 */ });
 }
 window.addEventListener('visibilitychange', () => { if (!document.hidden) { if (acct) schedulePush(); schedulePull(); } });
+/* 网页开着不动时，每 30 秒静默拉取合并一次（合并式只增不减，本地优先） */
+setInterval(() => { if (acct && !document.hidden) { pullState().then((r) => { if (r && r.changed) { toast('已同步云端数据'); try { render(); } catch (e) { /* ignore */ } } }).catch(() => { /* 静默重试 */ }); } }, 30000);
 async function pushState() {
   if (!(await ensureToken())) return { ok: false, msg: '未登录' };
   let feedbackHistory = null;
@@ -3565,10 +3588,13 @@ function renderAcctBox() {
       try {
         if (!(await ensureToken())) return toast('未登录');
         const rows = await supaFetch('/rest/v1/user_data?select=data,updated_at&limit=1');
-        if (!rows || !rows.length) return toast('云端：该账号暂无数据行');
+        const L = Store.state;
+        const lWb = L.wrongbook && typeof L.wrongbook === 'object' ? Object.keys(L.wrongbook).length : 0;
+        const lMsg = `本地：记录 ${(L.sessions || []).length} 条，错题 ${lWb} 题，收藏 ${(L.favorites || []).length} 题`;
+        if (!rows || !rows.length) return toast(lMsg + '；云端：该账号暂无数据行');
         const d = rows[0].data || {};
         const wb = d.wrongbook && typeof d.wrongbook === 'object' ? Object.keys(d.wrongbook).length : 0;
-        toast(`云端：记录 ${(d.sessions || []).length} 条，错题 ${wb} 题，收藏 ${(d.favorites || []).length} 题，掌握 ${Object.keys(d.qstats || {}).length} 条，更新 ${String(rows[0].updated_at || '').slice(0, 16).replace('T', ' ')}`);
+        toast(`${lMsg}；云端：记录 ${(d.sessions || []).length} 条，错题 ${wb} 题，收藏 ${(d.favorites || []).length} 题，掌握 ${Object.keys(d.qstats || {}).length} 条，更新 ${String(rows[0].updated_at || '').slice(0, 16).replace('T', ' ')}`);
       } catch (e) { toast('云端读取失败：' + String(e).slice(0, 30)); }
     };
     $('#acct-sync', box).onclick = async () => {
