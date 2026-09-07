@@ -1,6 +1,6 @@
 {
     "appName":  "出版刷题",
-    "updatedAt":  "2026-09-07 09:03",
+    "updatedAt":  "2026-09-07 11:40",
     "bank":  {
                  "questions-mw":  {
                                       "sha1":  "66DDFC13B7F1FCD9A03C0F79E524F908B54690AE",
@@ -23,7 +23,7 @@
                                       "size":  2097191
                                   }
              },
-    "notes":  "错题本/历史/收藏渲染容错：畸形数据自动清理并跳过，不再整页渲染出错\n启动保护：服务端状态为空但本地镜像有数据时以本地为准，防空状态覆盖\n云端诊断（只读）升级：同时显示本地与云端的记录/错题/收藏数量，便于核对恢复情况",
-    "appVersion":  "2.30",
-    "apkUrl":  "/download/publish-quiz-v2.30.apk"
+    "notes":  "修复根因：加点/画线渲染函数改为全局作用域——全部解析页/错题本/收藏/检索不再报 visMark is not defined、列表不再空白\n错题本与全部解析页现在可正常显示题目和选项（含下划线/着重号标注）",
+    "appVersion":  "2.31",
+    "apkUrl":  "/download/publish-quiz-v2.31.apk"
 }
