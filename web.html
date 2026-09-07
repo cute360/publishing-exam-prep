@@ -468,6 +468,30 @@ const $$ = (s, el = document) => Array.from(el.querySelectorAll(s));
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 /* 解析文本渲染：转义 + **加粗** 标记支持 */
 const mdBold = (s) => esc(s).replace(/\*\*(.+?)\*\*/g, '<b>$1</b>');
+/* ===== 加点/画线题渲染（全局可用：刷题、全部解析、错题本、收藏、检索） ===== */
+const DOT_STEM_RE = /加[点着]的|加点字|加着重|画线[的处部分句字词概念]|下划线|加粗/;
+// 标注类别：题干说“画线/下划线”→ 下划线；说“加点/加着重”→ 字下着重号
+function markCls(item) {
+  const s = (item && item.stem) || '';
+  const und = /下划线|画线/.test(s);
+  const dot = /加[点着]的|加点字|加着重/.test(s);
+  return und && !dot ? 'und' : 'dot';
+}
+// 把（已转义）文本中的『…』转换为真实可视标记：下划线或字下着重号
+function visMark(escaped, cls) {
+  if (!escaped || escaped.indexOf('『') < 0) return escaped;
+  const tag = cls === 'und' ? 'und' : 'dot';
+  return escaped.replace(/『([^『』]+)』/g, (m, s1) => `<span class="qmk ${tag}">${s1}</span>`);
+}
+// 加点/画线题提示条：题干提到加点/画线时，若题库已用『』标注则提示，否则说明原卷标记未保留
+function dotHintHtml(item) {
+  if (!item || !DOT_STEM_RE.test(item.stem || '')) return '';
+  const has = /『/.test((item.stem || '') + (item.material || '') + ((item.options || []).map((o) => o.text || '').join('')));
+  if (!has) return '<div class="expl-hint">注：本题原卷中的“加点/画线”标记未能保留，请结合题干与选项文字理解。</div>';
+  return markCls(item) === 'und'
+    ? '<div class="expl-hint">注：本题中画线/下划线所指的词句已用「下划线」标出。</div>'
+    : '<div class="expl-hint">注：本题中加点所指的词句已用「着重号」（字下加点）标出。</div>';
+}
 const fmtTime = (ts) => { const d = new Date(ts); return isNaN(d) ? '--' : `${d.getMonth() + 1}/${d.getDate()} ${String(d.getHours()).padStart(2, '0')}:${String(d.getMinutes()).padStart(2, '0')}`; };
 const fmtDay = (ts) => { const d = new Date(ts); return isNaN(d) ? '----' : `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`; };
 const fmtDur = (s) => (s >= 3600 ? `${Math.floor(s / 3600)}时${Math.floor((s % 3600) / 60)}分` : s >= 60 ? `${Math.floor(s / 60)}分${s % 60}秒` : `${s}秒`);
@@ -482,7 +506,7 @@ const shuffle = (arr) => { const a = arr.slice(); for (let i = a.length - 1; i >
 const uid = () => Date.now().toString(36) + Math.random().toString(36).slice(2, 7);
 const LSK = 'pubquiz_state_v1';
 const LSK_QUIZ = 'pubquiz_current_v1';
-const APP_VERSION = '2.30'; // 与 version.json 同步（打包时更新）
+const APP_VERSION = '2.31'; // 与 version.json 同步（打包时更新）
 const DEFAULT_UPDATE_BASE = 'https://cute360.github.io/publishing-exam-prep'; // 内置默认更新源（GitHub Pages）
 // 用户反馈接收：GitHub Issues API（CORS 支持，直连可用）
 // token 以 XOR 加密存储（扫描器无法识别模式，避免被 GitHub secret scanning 自动吊销；限权：仅 Issues 写权限）
@@ -2077,29 +2101,6 @@ views.quiz = {
     });
 
     /* 渲染指定索引的题目到指定容器（card=当前题，behind=滑动预览页） */
-    // 加点/画线题提示条：题干提到加点/画线时，若题库已用『』标注则提示，否则说明原卷标记未保留
-    const DOT_STEM_RE = /加[点着]的|加点字|加着重|画线[的处部分句字词概念]|下划线|加粗/;
-    // 标注类别：题干说“画线/下划线”→ 下划线；说“加点/加着重”→ 字下着重号
-    function markCls(item) {
-      const s = (item && item.stem) || '';
-      const und = /下划线|画线/.test(s);
-      const dot = /加[点着]的|加点字|加着重/.test(s);
-      return und && !dot ? 'und' : 'dot';
-    }
-    // 把（已转义）文本中的『…』转换为真实可视标记：下划线或字下着重号
-    function visMark(escaped, cls) {
-      if (!escaped || escaped.indexOf('『') < 0) return escaped;
-      const tag = cls === 'und' ? 'und' : 'dot';
-      return escaped.replace(/『([^『』]+)』/g, (m, s1) => `<span class="qmk ${tag}">${s1}</span>`);
-    }
-    function dotHintHtml(item) {
-      if (!item || !DOT_STEM_RE.test(item.stem || '')) return '';
-      const has = /『/.test((item.stem || '') + (item.material || '') + ((item.options || []).map((o) => o.text || '').join('')));
-      if (!has) return '<div class="expl-hint">注：本题原卷中的“加点/画线”标记未能保留，请结合题干与选项文字理解。</div>';
-      return markCls(item) === 'und'
-        ? '<div class="expl-hint">注：本题中画线/下划线所指的词句已用「下划线」标出。</div>'
-        : '<div class="expl-hint">注：本题中加点所指的词句已用「着重号」（字下加点）标出。</div>';
-    }
     function renderQAt(target, i) {
       const item = qById(qids[i]);
       if (!item) { toast('题目数据缺失'); return; }
